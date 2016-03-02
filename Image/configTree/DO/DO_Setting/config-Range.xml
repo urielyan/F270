@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Range">
+                <Object Name="Type" ID="18010"/>
+                <Object Name="Range Lower" ID="18021"/>
+                <Object Name="Range Upper" ID="18022"/>
+                <Object Name="Span Lower" ID="18030"/>
+                <Object Name="Span Upper" ID="18031"/>
+                <Object Name="Unit" ID="18032"/>
+        </Config>
+
+        <Config Name="Action">
+                <Object Name="Energize/De-engergize" ID="18041"/>
+                <Object Name="Action" ID="18042"/>
+                <Object Name="Relay Action on ACK" ID="18043"/>
+                <Object Name="Hold" ID="18044"/>
+                <Object Name="Relay deactivated interval" ID="18045"/>
+        </Config>
+
+</Root>

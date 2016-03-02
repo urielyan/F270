@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Event Delegate:Event:Type"
+                    Val="0" ID="22321">
+
+        <Delegate Name="Config:Event Delegate:Event:Number"
+                  Hide="slot"/>
+        <Delegate Name="Config:Event Delegate:Event:Event details"
+                  Hide="true"/>
+        <Delegate Name="Config:Event Delegate:Event:Alarm level"
+                  Hide="true"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Event Delegate:Event:Type"
+                    Val="1" ID="22321">
+
+        <Delegate Name="Config:Event Delegate:Event:Number"
+                  Hide="slot"/>
+        <Delegate Name="Config:Event Delegate:Event:Event details"
+                  Hide="true"/>
+        <Delegate Name="Config:Event Delegate:Event:Alarm level"
+                  Hide="true"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Event Delegate:Event:Type"
+                    Val="2" ID="22321">
+
+        <Delegate Name="Config:Event Delegate:Event:Number"
+                  Hide="slot"/>
+        <Delegate Name="Config:Event Delegate:Event:Event details"
+                  Hide="true"/>
+        <Delegate Name="Config:Event Delegate:Event:Alarm level"
+                  Hide="true"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Event Delegate:Event:Type"
+                    Val="3" ID="22321">
+
+        <Delegate Name="Config:Event Delegate:Event:Number"
+                  Hide="slot"/>
+        <Delegate Name="Config:Event Delegate:Event:Event details"
+                  Hide="true"/>
+        <Delegate Name="Config:Event Delegate:Event:Alarm level"
+                  Hide="slot"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Event Delegate:Event:Type"
+                    Val="4" ID="22321">
+
+        <Delegate Name="Config:Event Delegate:Event:Number"
+                  Hide="slot"/>
+        <Delegate Name="Config:Event Delegate:Event:Event details"
+                  Hide="true"/>
+        <Delegate Name="Config:Event Delegate:Event:Alarm level"
+                  Hide="slot"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Event Delegate:Event:Type"
+                    Val="5" ID="22321">
+
+        <Delegate Name="Config:Event Delegate:Event:Number"
+                  Hide="slot"/>
+        <Delegate Name="Config:Event Delegate:Event:Event details"
+                  Hide="true"/>
+        <Delegate Name="Config:Event Delegate:Event:Alarm level"
+                  Hide="slot"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Event Delegate:Event:Type"
+                    Val="6" ID="22321">
+
+        <Delegate Name="Config:Event Delegate:Event:Number"
+                  Hide="true"/>
+        <Delegate Name="Config:Event Delegate:Event:Event details"
+                  Hide="true"/>
+        <Delegate Name="Config:Event Delegate:Event:Alarm level"
+                  Hide="true"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Event Delegate:Event:Type"
+                    Val="7" ID="22321">
+
+        <Delegate Name="Config:Event Delegate:Event:Number"
+                  Hide="slot"/>
+        <Delegate Name="Config:Event Delegate:Event:Event details"
+                  Hide="true"/>
+        <Delegate Name="Config:Event Delegate:Event:Alarm level"
+                  Hide="true"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Event Delegate:Event:Type"
+                    Val="8" ID="22321">
+
+        <Delegate Name="Config:Event Delegate:Event:Number"
+                  Hide="slot"/>
+        <Delegate Name="Config:Event Delegate:Event:Event details"
+                  Hide="true"/>
+        <Delegate Name="Config:Event Delegate:Event:Alarm level"
+                  Hide="true"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Event Delegate:Event:Type"
+                    Val="9" ID="22321">
+
+        <Delegate Name="Config:Event Delegate:Event:Number"
+                  Hide="slot"/>
+        <Delegate Name="Config:Event Delegate:Event:Event details"
+                  Hide="true"/>
+        <Delegate Name="Config:Event Delegate:Event:Alarm level"
+                  Hide="true"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Event Delegate:Event:Type"
+                    Val="10" ID="22321">
+
+        <Delegate Name="Config:Event Delegate:Event:Number"
+                  Hide="true"/>
+        <Delegate Name="Config:Event Delegate:Event:Event details"
+                  Hide="slot"/>
+        <Delegate Name="Config:Event Delegate:Event:Alarm level"
+                  Hide="true"/>
+    </ValueChange>
+
+</Root>

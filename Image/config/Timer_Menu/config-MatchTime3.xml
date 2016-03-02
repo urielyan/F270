@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Timer Delegate:Match time timer:Match time timer3">
+
+        <MenuGroup
+                Path="Config:Timer Delegate:Match time timer:Match time timer3:Type"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Timer Delegate:Match time timer:Match time timer3:Type:Type"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotTimerMatchTimerCommClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Timer Delegate:Match time timer:Match time timer3:Timer match condition"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Timer Delegate:Match time timer:Match time timer3:Timer match condition:Month"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotTimerMatchTimerCommClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Timer Delegate:Match time timer:Match time timer3:Timer match condition:Day"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotTimerMatchTimerCommClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Timer Delegate:Match time timer:Match time timer3:Timer match condition:Day of week"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotTimerMatchTimerCommClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Timer Delegate:Match time timer:Match time timer3:Timer match condition:Hour"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotTimerMatchTimerCommClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Timer Delegate:Match time timer:Match time timer3:Timer match condition:Minute"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotTimerMatchTimerCommClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Timer Delegate:Match time timer:Match time timer3:Timer action"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Timer Delegate:Match time timer:Match time timer3:Timer action:Timer action"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotTimerMatchTimerCommClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+</Config>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Mail header">
+                <Object Name="Recipient 1" ID="20302"/>
+                <Object Name="Recipient 2" ID="20303"/>
+                <Object Name="Sender" ID="20304"/>
+                <Object Name="Subject" ID="20305"/>
+        </Config>
+
+        <Config Name="E-mail contents">
+                <Object Name="Header" ID="20311"/>
+                <Object Name="Include source URL" ID="20312"/>
+        </Config>
+
+        <Config Name="Alarm settings">
+                <Object Name="Alarm notification" ID="20332"/>
+                <Object Name="Attach instantaneous data" ID="20333"/>
+                <Object Name="Include tag/ch in Subject" ID="20334"/>
+                <Object Name="Channel set" ID="20335"/>
+                <Object Name="Channel set Channel list" ID="20336"/>
+        </Config>
+
+        <Config Name="Report settings">
+                <Object Name="Report notification" ID="20316"/>
+        </Config>
+
+        <Config Name="Scheduled settings">
+                <Object Name="Scheduled notification" ID="20321"/>
+                <Object Name="Attach instantaneous data" ID="20322"/>
+                <Object Name="Interal (Recipient 1)" ID="20323"/>
+                <Object Name="Ref. time hour (Recipient 1)" ID="20325"/>
+                <Object Name="Ref. time minute(Recipient 1)" ID="20327"/>
+                <Object Name="Interal (Recipient 2)" ID="20324"/>
+                <Object Name="Ref. time hour (Recipient 2)" ID="20326"/>
+                <Object Name="Ref. time minute(Recipient 2)" ID="20328"/>
+
+        </Config>
+
+        <Config Name="System settings">
+                <Object Name="Memory full notification" ID="20391"/>
+                <Object Name="Power failure notification" ID="20392"/>
+                <Object Name="System error notification" ID="20393"/>
+                <Object Name="User lock notification" ID="20394"/>
+        </Config>
+
+</Root>

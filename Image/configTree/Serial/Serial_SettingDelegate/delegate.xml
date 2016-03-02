@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delegate Name="Communication (Serial) Delegate" ID="22400">
+
+        <Delegate Name="Basic settings"
+                    ID="22401"
+                    File=":/configtree/Image/configTree/Serial/Serial_SettingDelegate/delegate-Basic.xml"/>
+
+        <Delegate Name="Modbus master"
+                    ID="22420"
+                    File=":/configtree/Image/configTree/Serial/Serial_SettingDelegate/delegate-Modbus.xml"/>
+
+</Delegate>

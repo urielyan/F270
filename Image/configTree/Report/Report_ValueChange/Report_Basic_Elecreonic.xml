@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Report Delegate:Basic settings:Electronic signature:PDF electronic signature"
+                    Val="0" ID="22051">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Report Delegate:Basic settings:Electronic signature:PDF electronic signature"
+                    Val="1" ID="22051">
+    </ValueChange>
+
+</Root>

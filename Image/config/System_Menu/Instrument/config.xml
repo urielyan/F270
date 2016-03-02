@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:System Delegate:Instrument tag">
+        <MenuNormal
+            Path="Config:System Delegate:Instrument tag:Instruments tag"
+            Type = "normal"
+            Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+            Changed = ":/setting/Image/setting/change-blue.png"
+            Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+            Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+            Clicked = "slotSoftKeypadClicked()"
+            Include ="none"/>
+        <MenuNormal
+            Path="Config:System Delegate:Instrument tag:Instruments tag No."
+            Type = "normal"
+            Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+            Changed = ":/setting/Image/setting/change-blue.png"
+            Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+            Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+            Clicked = "slotEnglishInputClicked()"
+            Include ="none"/>
+</Config>

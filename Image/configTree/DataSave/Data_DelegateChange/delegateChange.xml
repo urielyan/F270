@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <DelegateChange Type="Unique"
+            Name="Config:Data save Delegate"
+            Objects="Config:Data save settings"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Data save Delegate:Save directory"
+            Objects="Config:Data save settings:Save directory"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Data save Delegate:Save directory:Directory name"
+            Objects="Config:Data save settings:Save directory:Directory name"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Data save Delegate:File header"
+            Objects="Config:Data save settings:File header"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Data save Delegate:File header:Characters"
+            Objects="Config:Data save settings:File header:Characters"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Data save Delegate:Data file name"
+            Objects="Config:Data save settings:Data file name"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Data save Delegate:Data file name:Structure"
+            Objects="Config:Data save settings:Data file name:Structure"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Data save Delegate:Data file name:Identified strings"
+            Objects="Config:Data save settings:Data file name:Identified strings"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Data save Delegate:Media save"
+            Objects="Config:Data save settings:Media save"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Data save Delegate:Media save:Auto save"
+            Objects="Config:Data save settings:Media save:Auto save"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Data save Delegate:Media save:Media FIFO"
+            Objects="Config:Data save settings:Media save:Media FIFO"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Data save Delegate:File format"
+            Objects="Config:Data save settings:File format"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Data save Delegate:File format:Display / Event data"
+            Objects="Config:Data save settings:File format:Display / Event data"/>
+
+</Root>

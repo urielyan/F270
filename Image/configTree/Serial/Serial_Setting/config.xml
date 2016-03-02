@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config Name="Communication (Serial) settings">
+
+    <Config Name="Basic settings"
+            File=":/configtree/Image/configTree/Serial/Serial_Setting/config-Basic.xml">
+    </Config>
+
+    <Config Name="Modbus master"
+            File=":/configtree/Image/configTree/Serial/Serial_Setting/config-Modbus.xml">
+    </Config>
+
+</Config>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Communication channel Delegate:On/Off, Span:Watchdog timer:On/Off"
+                    Val="0" ID="22541">
+
+        <Delegate Name="Config:Communication channel Delegate:On/Off, Span:Watchdog timer:Timer"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication channel Delegate:On/Off, Span:Watchdog timer:Value at timer-expired"
+                  Hide="true"
+                  Value=""/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication channel Delegate:On/Off, Span:Watchdog timer:On/Off"
+                    Val="1" ID="22541">
+
+        <Delegate Name="Config:Communication channel Delegate:On/Off, Span:Watchdog timer:Timer"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication channel Delegate:On/Off, Span:Watchdog timer:Value at timer-expired"
+                  Hide="false"
+                  Value="0"/>
+    </ValueChange>
+
+</Root>

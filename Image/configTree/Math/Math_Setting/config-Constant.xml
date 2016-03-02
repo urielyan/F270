@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Constant">
+                <Object Name="K001" ID="21200"/>
+                <Object Name="K002" ID="21201"/>
+                <Object Name="K003" ID="21202"/>
+                <Object Name="K004" ID="21203"/>
+                <Object Name="K005" ID="21204"/>
+                <Object Name="K006" ID="21205"/>
+                <Object Name="K007" ID="21206"/>
+                <Object Name="K008" ID="21207"/>
+                <Object Name="K009" ID="21208"/>
+                <Object Name="K010" ID="21209"/>
+
+                <Object Name="K011" ID="21210"/>
+                <Object Name="K012" ID="21211"/>
+                <Object Name="K013" ID="21212"/>
+                <Object Name="K014" ID="21213"/>
+                <Object Name="K015" ID="21214"/>
+                <Object Name="K016" ID="21215"/>
+                <Object Name="K017" ID="21216"/>
+                <Object Name="K018" ID="21217"/>
+                <Object Name="K019" ID="21218"/>
+                <Object Name="K020" ID="21219"/>
+
+                <Object Name="K021" ID="21220"/>
+                <Object Name="K022" ID="21221"/>
+                <Object Name="K023" ID="21222"/>
+                <Object Name="K024" ID="21223"/>
+                <Object Name="K025" ID="21224"/>
+                <Object Name="K026" ID="21225"/>
+                <Object Name="K027" ID="21226"/>
+                <Object Name="K028" ID="21227"/>
+                <Object Name="K029" ID="21228"/>
+                <Object Name="K030" ID="21229"/>
+
+                <Object Name="K031" ID="21230"/>
+                <Object Name="K032" ID="21231"/>
+                <Object Name="K033" ID="21232"/>
+                <Object Name="K034" ID="21233"/>
+                <Object Name="K035" ID="21234"/>
+                <Object Name="K036" ID="21235"/>
+                <Object Name="K037" ID="21236"/>
+                <Object Name="K038" ID="21237"/>
+                <Object Name="K039" ID="21238"/>
+                <Object Name="K040" ID="21239"/>
+
+                <Object Name="K041" ID="21240"/>
+                <Object Name="K042" ID="21241"/>
+                <Object Name="K043" ID="21242"/>
+                <Object Name="K044" ID="21243"/>
+                <Object Name="K045" ID="21244"/>
+                <Object Name="K046" ID="21245"/>
+                <Object Name="K047" ID="21246"/>
+                <Object Name="K048" ID="21247"/>
+                <Object Name="K049" ID="21248"/>
+                <Object Name="K050" ID="21249"/>
+
+                <Object Name="K051" ID="21250"/>
+                <Object Name="K052" ID="21251"/>
+                <Object Name="K053" ID="21252"/>
+                <Object Name="K054" ID="21253"/>
+                <Object Name="K055" ID="21254"/>
+                <Object Name="K056" ID="21255"/>
+                <Object Name="K057" ID="21256"/>
+                <Object Name="K058" ID="21257"/>
+                <Object Name="K059" ID="21258"/>
+                <Object Name="K060" ID="21259"/>
+
+                <Object Name="K061" ID="21260"/>
+                <Object Name="K062" ID="21261"/>
+                <Object Name="K063" ID="21262"/>
+                <Object Name="K064" ID="21263"/>
+                <Object Name="K065" ID="21264"/>
+                <Object Name="K066" ID="21265"/>
+                <Object Name="K067" ID="21266"/>
+                <Object Name="K068" ID="21267"/>
+                <Object Name="K069" ID="21268"/>
+                <Object Name="K070" ID="21269"/>
+
+                <Object Name="K071" ID="21270"/>
+                <Object Name="K072" ID="21271"/>
+                <Object Name="K073" ID="21272"/>
+                <Object Name="K074" ID="21273"/>
+                <Object Name="K075" ID="21274"/>
+                <Object Name="K076" ID="21275"/>
+                <Object Name="K077" ID="21276"/>
+                <Object Name="K078" ID="21277"/>
+                <Object Name="K079" ID="21278"/>
+                <Object Name="K080" ID="21279"/>
+
+                <Object Name="K081" ID="21280"/>
+                <Object Name="K082" ID="21281"/>
+                <Object Name="K083" ID="21282"/>
+                <Object Name="K084" ID="21283"/>
+                <Object Name="K085" ID="21284"/>
+                <Object Name="K086" ID="21285"/>
+                <Object Name="K087" ID="21286"/>
+                <Object Name="K088" ID="21287"/>
+                <Object Name="K089" ID="21288"/>
+                <Object Name="K090" ID="21289"/>
+
+                <Object Name="K091" ID="21290"/>
+                <Object Name="K092" ID="21291"/>
+                <Object Name="K093" ID="21292"/>
+                <Object Name="K094" ID="21293"/>
+                <Object Name="K095" ID="21294"/>
+                <Object Name="K096" ID="21295"/>
+                <Object Name="K097" ID="21296"/>
+                <Object Name="K098" ID="21297"/>
+                <Object Name="K099" ID="21298"/>
+                <Object Name="K100" ID="21299"/>
+        </Config>
+
+</Root>

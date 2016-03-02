@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:DI Delegate:Alarm:Level 4:Output type"
+                    Val="0" ID="16037">
+        <Delegate Name="Config:DI Delegate:Alarm:Level 4:Output No."
+                  Hide="true"
+                  Value=""/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:DI Delegate:Alarm:Level 4:Output type"
+                    Val="1" ID="16037">
+        <Delegate Name="Config:DI Delegate:Alarm:Level 4:Output No."
+                  Hide="slot"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:DI Delegate:Alarm:Level 4:Output type"
+                    Val="2" ID="16037">
+        <Delegate Name="Config:DI Delegate:Alarm:Level 4:Output No."
+                  Hide="slot"/>
+    </ValueChange>
+</Root>

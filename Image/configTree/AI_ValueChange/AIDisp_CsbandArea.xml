@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:AI Delegate:Display settings:Color scale band:Band area"
+                    Val="0" ID="12064">
+        <Delegate Name="Config:AI Delegate:Display settings:Color scale band:Color"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:AI Delegate:Display settings:Color scale band:Display position Lower"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:AI Delegate:Display settings:Color scale band:Display position Upper"
+                  Hide="true"
+                  Value=""/>
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Display settings:Color scale band:Band area"
+                    Val="1" ID="12064">
+        <Delegate Name="Config:AI Delegate:Display settings:Color scale band:Color"
+                  Hide="slot"/>
+        <Delegate Name="Config:AI Delegate:Display settings:Color scale band:Display position Lower"
+                  Hide="slot"/>
+        <Delegate Name="Config:AI Delegate:Display settings:Color scale band:Display position Upper"
+                  Hide="slot"/>
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Display settings:Color scale band:Band area"
+                    Val="2" ID="12064">
+        <Delegate Name="Config:AI Delegate:Display settings:Color scale band:Color"
+                  Hide="slot"/>
+        <Delegate Name="Config:AI Delegate:Display settings:Color scale band:Display position Lower"
+                  Hide="slot"/>
+        <Delegate Name="Config:AI Delegate:Display settings:Color scale band:Display position Upper"
+                  Hide="slot"/>
+
+    </ValueChange>
+</Root>

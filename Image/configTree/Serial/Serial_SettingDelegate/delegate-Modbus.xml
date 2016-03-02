@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="Basic settings"
+                    ID="22421"
+                    File=":/configtree/Image/configTree/Serial/Serial_SettingDelegate/delegate-Modbus-Basic.xml"/>
+
+        <Delegate Name="Command settings"
+                    ID="22450"
+                    File=":/configtree/Image/configTree/Serial/Serial_SettingDelegate/delegate-Modbus-Command.xml"/>
+
+</Root>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="A/D integrate">
+                <Object Name="A/D integrate" ID="30104"/>
+        </Config>
+
+        <Config Name="General signal">
+                <Object Name="Lower limit of burnout set" ID="30106"/>
+                <Object Name="Upper limit of burnout set" ID="30107"/>
+        </Config>
+</Root>

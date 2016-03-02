@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Report Delegate:Basic settings">
+
+        <MenuGroup
+                Path="Config:Report Delegate:Basic settings:Type"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Report Delegate:Basic settings:Type:Type"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotReportCommClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Report Delegate:Basic settings:Creation time"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Report Delegate:Basic settings:Creation time:Day"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotReportCommClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Report Delegate:Basic settings:Creation time:Day of week"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotReportCommClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Report Delegate:Basic settings:Creation time:Hour"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotReportCommClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Report Delegate:Basic settings:Creation time:Minute"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotReportCommClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Report Delegate:Basic settings:Creation time:Save interval"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotReportCommClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Report Delegate:Basic settings:Creation time:File creation interval"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotReportCommClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Report Delegate:Basic settings:Data type"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Report Delegate:Basic settings:Data type:Report1"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotReportCommClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Report Delegate:Basic settings:Data type:Report2"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotReportCommClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Report Delegate:Basic settings:Data type:Report3"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotReportCommClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Report Delegate:Basic settings:Data type:Report4"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotReportCommClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Report Delegate:Basic settings:Data type:Report5"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotReportCommClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Report Delegate:Basic settings:File type"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Report Delegate:Basic settings:File type:File type"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotReportCommClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Report Delegate:Basic settings:Report template output"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Report Delegate:Basic settings:Report template output:Excel file"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSwitchClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Report Delegate:Basic settings:Report template output:PDF file"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSwitchClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Report Delegate:Basic settings:Report template output:Printer"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSwitchClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Report Delegate:Basic settings:Electronic signature"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Report Delegate:Basic settings:Electronic signature:PDF electronic signature"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSwitchClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+</Config>

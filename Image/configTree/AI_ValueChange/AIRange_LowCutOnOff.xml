@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:AI Delegate:Range:Low-cut:On/Off"
+                    Val="0" ID="10051">
+        <Delegate Name="Config:AI Delegate:Range:Low-cut:Low-cut value"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:AI Delegate:Range:Low-cut:Low-cut output"
+                  Hide="true"
+                  Value=""/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Range:Low-cut:On/Off"
+                    Val="1" ID="10051">
+        <Delegate Name="Config:AI Delegate:Range:Low-cut:Low-cut value"
+                  Hide="slot"/>
+        <Delegate Name="Config:AI Delegate:Range:Low-cut:Low-cut output"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Range:Low-cut:Low-cut output"
+                  Hide=":/configtree/Image/configTree/AI_ValueChange/HideLow-cutOutput.xml"/>
+    </ValueChange>
+
+</Root>

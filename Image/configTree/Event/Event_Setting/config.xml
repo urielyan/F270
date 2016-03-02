@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config Name="Event action">
+
+    <Group Type="Event-Action"
+           File=":/configtree/Image/configTree/Event/Event_Setting/config-Event Action.xml"/>
+
+    <Object Name="Event action number" ID="22301"/>
+
+</Config>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection:Connection timeout"
+                    Val="1" ID="20460">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection:Connection timeout"
+                    Val="2" ID="20460">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection:Connection timeout"
+                    Val="3" ID="20460">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection:Connection timeout"
+                    Val="4" ID="20460">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection:Connection timeout"
+                    Val="5" ID="20460">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection:Connection timeout"
+                    Val="6" ID="20460">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection:Connection timeout"
+                    Val="7" ID="20460">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection:Connection timeout"
+                    Val="8" ID="20460">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection:Connection timeout"
+                    Val="9" ID="20460">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection:Connection timeout"
+                    Val="10" ID="20460">
+    </ValueChange>
+</Root>

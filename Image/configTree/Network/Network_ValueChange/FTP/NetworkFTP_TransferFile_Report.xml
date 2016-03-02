@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Report"
+                    Val="0" ID="20112">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Report"
+                    Val="1" ID="20112">
+
+    </ValueChange>
+
+
+</Root>

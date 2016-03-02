@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Security Delegate:User settings:User settings:User level"
+                    Val="0" ID="24053">
+        <Delegate Name="Config:Security Delegate:User settings:User settings:Mode"
+                  Hide="true"/>
+        <Delegate Name="Config:Security Delegate:User settings:User settings:User name"
+                  Hide="true"/>
+        <Delegate Name="Config:Security Delegate:User settings:User settings:Initialize password"
+                  Hide="true"/>
+
+        <Delegate Name="Config:Security Delegate:User settings:User settings:User property"
+                  Hide="true"/>
+        <Delegate Name="Config:Security Delegate:User settings:User settings:Authority number"
+                  Hide="true"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Security Delegate:User settings:User settings:User level"
+                    Val="1" ID="24053">
+        <Delegate Name="Config:Security Delegate:User settings:User settings:Mode"
+                  Hide="slot"/>
+        <Delegate Name="Config:Security Delegate:User settings:User settings:User name"
+                  Hide="slot"/>
+        <Delegate Name="Config:Security Delegate:User settings:User settings:Initialize password"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Security Delegate:User settings:User settings:User property"
+                  Hide="true"/>
+        <Delegate Name="Config:Security Delegate:User settings:User settings:Authority number"
+                  Hide="true"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Security Delegate:User settings:User settings:User level"
+                    Val="2" ID="24053">
+        <Delegate Name="Config:Security Delegate:User settings:User settings:Mode"
+                  Hide="slot"/>
+        <Delegate Name="Config:Security Delegate:User settings:User settings:User name"
+                  Hide="slot"/>
+        <Delegate Name="Config:Security Delegate:User settings:User settings:Initialize password"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Security Delegate:User settings:User settings:User property"
+                  Hide="slot"/>
+    </ValueChange>
+
+</Root>

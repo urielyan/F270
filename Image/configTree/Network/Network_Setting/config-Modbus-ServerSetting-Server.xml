@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Modbus server settings">
+                <Object Name="Server name" ID="20464"/>
+                <Object Name="Port number" ID="20465"/>
+        </Config>
+</Root>
+

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Group settings" ID="21332">
+                <Delegate Name="On/Off"
+                            ID="21333"
+                            Slot1="slotDispGroupGroupSwitchChanged()"/>
+                <Delegate Name="Group name"
+                            ID="21335"
+                            Slot1="slotDispGroupGroupNameChanged()"/>
+                <Delegate Name="Channel set"
+                            ID="21334"
+                            Slot1="slotDispGroupGroupSetChanged()"/>
+                <Delegate Name="Channel set Channel item" ID="21336"/>
+        </Delegate>
+
+        <Delegate Name="Scale image" ID="21337">
+                <Delegate Name="On/Off"
+                            ID="21338"
+                            Slot1="slotDispGroupScaleSwitchChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Trip line 1" ID="21340">
+                <Delegate Name="On/Off"
+                            ID="21341"
+                            Slot1="slotDispGroupTrip1SwitchChanged()"/>
+                <Delegate Name="Position"
+                            ID="21342"
+                            Slot1="slotDispGroupTrip1PosChanged()"/>
+                <Delegate Name="Color"
+                            ID="21344"
+                            Slot1="slotDispGroupTrip1ColorChanged()"/>
+                <Delegate Name="Line width"
+                            ID="21343"
+                            Slot1="slotDispGroupTrip1WidthChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Trip line 2" ID="21345">
+                <Delegate Name="On/Off"
+                            ID="21346"
+                            Slot1="slotDispGroupTrip2SwitchChanged()"/>
+                <Delegate Name="Position"
+                            ID="21347"
+                            Slot1="slotDispGroupTrip2PosChanged()"/>
+                <Delegate Name="Color"
+                            ID="21349"
+                            Slot1="slotDispGroupTrip2ColorChanged()"/>
+                <Delegate Name="Line width"
+                            ID="21348"
+                            Slot1="slotDispGroupTrip2WidthChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Trip line 3" ID="21351">
+                <Delegate Name="On/Off"
+                            ID="21352"
+                            Slot1="slotDispGroupTrip3SwitchChanged()"/>
+                <Delegate Name="Position"
+                            ID="21353"
+                            Slot1="slotDispGroupTrip3PosChanged()"/>
+                <Delegate Name="Color"
+                            ID="21355"
+                            Slot1="slotDispGroupTrip3ColorChanged()"/>
+                <Delegate Name="Line width"
+                            ID="21354"
+                            Slot1="slotDispGroupTrip3WidthChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Trip line 4" ID="21360">
+                <Delegate Name="On/Off"
+                            ID="21361"
+                            Slot1="slotDispGroupTrip4SwitchChanged()"/>
+                <Delegate Name="Position"
+                            ID="21362"
+                            Slot1="slotDispGroupTrip4PosChanged()"/>
+                <Delegate Name="Color"
+                            ID="21364"
+                            Slot1="slotDispGroupTrip4ColorChanged()"/>
+                <Delegate Name="Line width"
+                            ID="21363"
+                            Slot1="slotDispGroupTrip4WidthChanged()"/>
+        </Delegate>
+
+</Root>

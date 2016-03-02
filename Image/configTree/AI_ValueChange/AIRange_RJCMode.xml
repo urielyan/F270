@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:AI Delegate:Range:RJC:Mode"
+                    Val="0" ID="10071">
+        <Delegate Name="Config:AI Delegate:Range:RJC:Temperature"
+                  Hide="true"
+                  Value=""/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Range:RJC:Mode"
+                    Val="1" ID="10071">
+        <Delegate Name="Config:AI Delegate:Range:RJC:Temperature"
+                  Hide="slot"/>
+    </ValueChange>
+
+</Root>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+
+                <Delegate Name="Fail relay"
+                            ID="22761"
+                            Slot1="slotsystemRelayFailChange()"/>
+
+                <Delegate Name="Memory/Media status"
+                            ID="22762"
+                            Slot1="slotsystemRelayStatusChange()"/>
+
+                <Delegate Name="Measurement error"
+                            ID="22763"
+                            Slot1="slotsystemRelayMeasurementChange()"/>
+
+                <Delegate Name="Communication error"
+                            ID="22764"
+                            Slot1="slotsystemRelayCommunicationChange()"/>
+
+                <Delegate Name="Record stop"
+                            ID="22765"
+                            Slot1="slotsystemRelayRecordChange()"/>
+
+                <Delegate Name="Alarm"
+                            ID="22766"
+                            Slot1="slotsystemRelayAlarmChange()"/>
+
+
+
+</Root>

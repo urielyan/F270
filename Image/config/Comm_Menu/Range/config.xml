@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Communication channel Delegate:On/Off, Span">
+	<MenuNormal
+                Path="Config:Communication channel Delegate:First-CH"
+		Normal = ":/config/AI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change-blue.png"
+		Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+		Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                Clicked = "slotCommMenuClicked()"
+                Include ="none"/>
+	<MenuNormal
+                Path="Config:Communication channel Delegate:Last-CH"
+		Normal = ":/config/AI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change-blue.png"
+		Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+		Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                Clicked = "slotCommMenuClicked()"
+                Include ="none"/>
+	
+	<MenuGroup
+                Path="Config:Communication channel Delegate:On/Off, Span:On/Off, Span"
+		Normal = "none"
+		Changed = "none"
+		Hint = "none"
+		Extend = "none">
+		<MenuNormal
+                        Path="Config:Communication channel Delegate:On/Off, Span:On/Off, Span:On/Off"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:Communication channel Delegate:On/Off, Span:On/Off, Span:Decimal place"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotCommChannelDecimalPlaceClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:Communication channel Delegate:On/Off, Span:On/Off, Span:Span Lower"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:Communication channel Delegate:On/Off, Span:On/Off, Span:Span Upper"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:Communication channel Delegate:On/Off, Span:On/Off, Span:Unit"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSoftKeypadClicked()"
+                        Include ="none"/>
+	</MenuGroup>
+	
+        <MenuGroup
+                Path="Config:Communication channel Delegate:On/Off, Span:At power on"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication channel Delegate:On/Off, Span:At power on:Value at power on"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotCommChannelValuePowerClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Communication channel Delegate:On/Off, Span:Preset value"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication channel Delegate:On/Off, Span:Preset value:Preset value"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Communication channel Delegate:On/Off, Span:Watchdog timer"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication channel Delegate:On/Off, Span:Watchdog timer:On/Off"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication channel Delegate:On/Off, Span:Watchdog timer:Timer"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication channel Delegate:On/Off, Span:Watchdog timer:Value at timer-expired"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotCommChannelValuePowerClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+</Config>

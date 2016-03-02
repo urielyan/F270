@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delegate Name="Data save Delegate"  ID="21700">
+
+        <Delegate Name="Save directory"  ID="21701">
+                <Delegate Name="Directory name"
+                            ID="21702"
+                            Slot1="slotDatasaveDirectNameChanged()"/>
+        </Delegate>
+
+        <Delegate Name="File header"  ID="21710">
+                <Delegate Name="Characters"
+                            ID="21712"
+                            Slot1="slotDatasaveHeaderCharChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Data file name"  ID="21720">
+                <Delegate Name="Structure"
+                            ID="21721"
+                            Slot1="slotDatasaveFileStructChanged()"/>
+                <Delegate Name="Identified strings"
+                            ID="21722"
+                            Slot1="slotDatasaveFileIdentyChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Media save"  ID="21730">
+                <Delegate Name="Auto save"
+                            ID="21731"
+                            Slot1="slotDatasaveMediaAutoChanged()"/>
+                <Delegate Name="Media FIFO"
+                            ID="21732"
+                            Slot1="slotDatasaveMediaFIFOChanged()"/>
+        </Delegate>
+
+        <Delegate Name="File format"  ID="21740">
+                <Delegate Name="Display / Event data"
+                            ID="21741"
+                            Slot1="slotDatasaveFormatDataChanged()"/>
+        </Delegate>
+
+</Delegate>

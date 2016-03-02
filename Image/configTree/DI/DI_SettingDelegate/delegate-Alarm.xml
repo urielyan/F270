@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Level 1" ID="16001">
+                <Delegate Name="On/Off"
+                            ID="16002"
+                            Slot1="slotDIAlarm_Level1OnoffChanged()"/>
+                <Delegate Name="Type"
+                            ID="16003"
+                            Slot1="slotDIAlarm_Level1TypeChanged()"/>
+                <Delegate Name="Value"
+                            ID="16004"
+                            Slot1="slotDIAlarm_Level1ValueChanged()"/>
+                <Delegate Name="Hysteresis"
+                            ID="16005"
+                            Slot1="slotDIAlarm_Level1HysterChanged()"/>
+                <Delegate Name="Logging"
+                            ID="16006"
+                            Slot1="slotDIAlarm_Level1LogChanged()"/>
+                <Delegate Name="Output type"
+                            ID="16007"
+                            Slot1="slotDIAlarm_Level1OutTypeChanged()"/>
+                <Delegate Name="Output No."
+                            ID="16008"
+                            Slot1="slotDIAlarm_Level1OutNoChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Level 2" ID="16011">
+        <Delegate Name="On/Off"
+                    ID="16012"
+                    Slot1="slotDIAlarm_Level2OnoffChanged()"/>
+        <Delegate Name="Type"
+                    ID="16013"
+                    Slot1="slotDIAlarm_Level2TypeChanged()"/>
+        <Delegate Name="Value"
+                    ID="16014"
+                    Slot1="slotDIAlarm_Level2ValueChanged()"/>
+        <Delegate Name="Hysteresis"
+                    ID="16015"
+                    Slot1="slotDIAlarm_Level2HysterChanged()"/>
+        <Delegate Name="Logging"
+                    ID="16016"
+                    Slot1="slotDIAlarm_Level2LogChanged()"/>
+        <Delegate Name="Output type"
+                    ID="16017"
+                    Slot1="slotDIAlarm_Level2OutTypeChanged()"/>
+        <Delegate Name="Output No."
+                    ID="16018"
+                    Slot1="slotDIAlarm_Level2OutNoChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Level 3" ID="16021">
+        <Delegate Name="On/Off"
+                    ID="16022"
+                    Slot1="slotDIAlarm_Level3OnoffChanged()"/>
+        <Delegate Name="Type"
+                    ID="16023"
+                    Slot1="slotDIAlarm_Level3TypeChanged()"/>
+        <Delegate Name="Value"
+                    ID="16024"
+                    Slot1="slotDIAlarm_Level3ValueChanged()"/>
+        <Delegate Name="Hysteresis"
+                    ID="16025"
+                    Slot1="slotDIAlarm_Level3HysterChanged()"/>
+        <Delegate Name="Logging"
+                    ID="16026"
+                    Slot1="slotDIAlarm_Level3LogChanged()"/>
+        <Delegate Name="Output type"
+                    ID="16027"
+                    Slot1="slotDIAlarm_Level3OutTypeChanged()"/>
+        <Delegate Name="Output No."
+                    ID="16028"
+                    Slot1="slotDIAlarm_Level3OutNoChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Level 4" ID="16031">
+        <Delegate Name="On/Off"
+                    ID="16032"
+                    Slot1="slotDIAlarm_Level4OnoffChanged()"/>
+        <Delegate Name="Type"
+                    ID="16033"
+                    Slot1="slotDIAlarm_Level4TypeChanged()"/>
+        <Delegate Name="Value"
+                    ID="16034"
+                    Slot1="slotDIAlarm_Level4ValueChanged()"/>
+        <Delegate Name="Hysteresis"
+                    ID="16035"
+                    Slot1="slotDIAlarm_Level4HysterChanged()"/>
+        <Delegate Name="Logging"
+                    ID="16036"
+                    Slot1="slotDIAlarm_Level4LogChanged()"/>
+        <Delegate Name="Output type"
+                    ID="16037"
+                    Slot1="slotDIAlarm_Level4OutTypeChanged()"/>
+        <Delegate Name="Output No."
+                    ID="16038"
+                    Slot1="slotDIAlarm_Level4OutNoChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Alarm delay" ID="16041">
+                <Delegate Name="Hour"
+                            ID="16044"
+                            Slot1="slotDIAlarm_DelayHourChanged()"/>
+                <Delegate Name="Minute"
+                            ID="16043"
+                            Slot1="slotDIAlarm_DelayMinChanged()"/>
+                <Delegate Name="Second"
+                            ID="16042"
+                            Slot1="slotDIAlarm_DelaySecChanged()"/>
+        </Delegate>
+
+</Root>

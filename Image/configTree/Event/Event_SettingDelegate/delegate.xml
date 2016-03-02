@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delegate Name="Event Delegate"
+            ID="22300"
+            File=":/configtree/Image/configTree/Event/Event_SettingDelegate/delegate-Event Action.xml">
+
+    <Delegate Name="Event action number"
+                ID="22301"
+                Slot1="slotEventAction_GrpNumchanged()"
+                Slot2="slotEventDelegateChange()"/>
+
+</Delegate>

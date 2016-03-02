@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:AI Delegate:Range">
+	<MenuNormal
+                Path="Config:AI Delegate:First-CH"
+		Normal = ":/config/AI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change-blue.png"
+		Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+		Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                Clicked = "slotAIMenuClicked()"
+                Include ="none"/>
+	<MenuNormal
+                Path="Config:AI Delegate:Last-CH"
+		Normal = ":/config/AI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change-blue.png"
+		Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+		Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                Clicked = "slotAIMenuClicked()"
+                Include ="none"/>
+	
+	<MenuGroup
+                Path="Config:AI Delegate:Range:Range"
+		Normal = "none"
+		Changed = "none"
+		Hint = "none"
+		Extend = "none">
+		<MenuNormal
+                        Path="Config:AI Delegate:Range:Range:Type"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIRangeRangeTypeMenuClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:AI Delegate:Range:Range:Range"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIRangeRangeRangeMenuClicked()"
+                        Include ="none"/>
+
+                <MenuNormal
+                        Path="Config:AI Delegate:Range:Range:Span Lower"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:AI Delegate:Range:Range:Span Upper"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+
+		<MenuNormal
+                        Path="Config:AI Delegate:Range:Range:Calculation"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIRangeRangeCalculationMenuClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:AI Delegate:Range:Range:Reference channel"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+	</MenuGroup>
+	
+	<MenuGroup
+                Path="Config:AI Delegate:Range:Scale"
+		Normal = "none"
+		Changed = "none"
+		Hint = "none"
+		Extend = "none">
+		<MenuNormal
+                        Path="Config:AI Delegate:Range:Scale:Decimal place"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIRangeScalePosMenuClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:AI Delegate:Range:Scale:Scale Lower"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:AI Delegate:Range:Scale:Scale Upper"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:AI Delegate:Range:Scale:Unit"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSoftKeypadClicked()"
+                        Include ="none"/>
+	</MenuGroup>
+	
+	<MenuGroup
+                Path="Config:AI Delegate:Range:Low-cut"
+		Normal = "none"
+		Changed = "none"
+		Hint = "none"
+		Extend = "none">
+		<MenuNormal
+                        Path="Config:AI Delegate:Range:Low-cut:On/Off"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:AI Delegate:Range:Low-cut:Low-cut value"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:AI Delegate:Range:Low-cut:Low-cut output"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIRangeLowCutOutputMenuClicked()"
+                        Include ="none"/>
+	</MenuGroup>
+	
+	<MenuGroup
+                Path="Config:AI Delegate:Range:Moving average"
+		Normal = "none"
+		Changed = "none"
+		Hint = "none"
+		Extend = "none">
+		<MenuNormal
+                        Path="Config:AI Delegate:Range:Moving average:On/Off"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:AI Delegate:Range:Moving average:Count"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+	</MenuGroup>
+	
+	<MenuGroup
+                Path="Config:AI Delegate:Range:RJC"
+		Normal = "none"
+		Changed = "none"
+		Hint = "none"
+		Extend = "none">
+		<MenuNormal
+                        Path="Config:AI Delegate:Range:RJC:Mode"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIRangeRJCModeMenuClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:AI Delegate:Range:RJC:Temperature"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+	</MenuGroup>
+	
+	<MenuGroup
+                Path="Config:AI Delegate:Range:Burnout set"
+		Normal = "none"
+		Changed = "none"
+		Hint = "none"
+		Extend = "none">
+		<MenuNormal
+                        Path="Config:AI Delegate:Range:Burnout set:Mode"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIRangeBurnoutModeMenuClicked()"
+                        Include ="none"/>
+	</MenuGroup>
+	
+	<MenuGroup
+                Path="Config:AI Delegate:Range:Bias"
+		Normal = "none"
+		Changed = "none"
+		Hint = "none"
+		Extend = "none">
+		<MenuNormal
+                        Path="Config:AI Delegate:Range:Bias:Value"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+	</MenuGroup>
+
+</Config>

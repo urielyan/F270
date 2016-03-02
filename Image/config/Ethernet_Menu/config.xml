@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Communication (Ethernet) Delegate">
+        <MenuTitle
+                Path="Config:Communication (Ethernet) Delegate:Basic settings"
+                Type = "title"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Ethernet_Menu/basic_menu/config.xml"/>
+        <MenuTitle
+                Path="Config:Communication (Ethernet) Delegate:FTP client settings"
+                Type = "title"
+                Normal = ":/config/Measure_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Ethernet_Menu/FTP_menu/config.xml"/>
+        <MenuTitle
+                Path="Config:Communication (Ethernet) Delegate:SMTP client settings"
+                Type = "title"
+                Normal = ":/config/Measure_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Ethernet_Menu/SMTP_menu/config.xml"/>
+        <MenuTitle
+                Path="Config:Communication (Ethernet) Delegate:E-mail settings"
+                Type = "title"
+                Normal = ":/config/Measure_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Ethernet_Menu/E_mail_menu/config.xml"/>
+        <MenuTitle
+                Path="Config:Communication (Ethernet) Delegate:SNTP client settings"
+                Type = "title"
+                Normal = ":/config/Measure_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Ethernet_Menu/SNTP_menu/config.xml"/>
+        <MenuTitle
+                Path="Config:Communication (Ethernet) Delegate:Modbus client settings"
+                Type = "title"
+                Normal = ":/config/Measure_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Ethernet_Menu/modbus_menu/config.xml"/>
+        <MenuTitle
+                Path="Config:Communication (Ethernet) Delegate:Server settings"
+                Type = "title"
+                Normal = ":/config/Measure_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Ethernet_Menu/server_menu/config.xml"/>
+</Config>

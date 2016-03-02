@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <HideChange Normal1="Config:DO Delegate:Range:Range:Type"
+                Value1="0"
+                Normal2="Config:DO Delegate:Range:Action:Action"
+                Value2="1">
+        <Factor Name="Config:DO Delegate:Range:Action:Hold"
+                Hide="slot"/>
+        <Factor Name="Config:DO Delegate:Range:Action:Relay deactivated interval"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DO Delegate:Range:Range:Type"
+                Value1="0"
+                Normal2="Config:DO Delegate:Range:Action:Action"
+                Value2="0">
+        <Factor Name="Config:DO Delegate:Range:Action:Hold"
+                Hide="slot"/>
+        <Factor Name="Config:DO Delegate:Range:Action:Relay deactivated interval"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DO Delegate:Range:Range:Type"
+                Value1="0"
+                Normal2="Config:DO Delegate:Range:Action:Action"
+                Value2="2">
+        <Factor Name="Config:DO Delegate:Range:Action:Hold"
+                Hide="true"
+                Value=""/>
+        <Factor Name="Config:DO Delegate:Range:Action:Relay deactivated interval"
+                Hide="slot"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DO Delegate:Range:Range:Type"
+                Value1="1"
+                Normal2="Config:DO Delegate:Range:Action:Action"
+                Value2="1">
+        <Factor Name="Config:DO Delegate:Range:Action:Hold"
+                Hide="true"
+                Value=""/>
+        <Factor Name="Config:DO Delegate:Range:Action:Relay deactivated interval"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DO Delegate:Range:Range:Type"
+                Value1="1"
+                Normal2="Config:DO Delegate:Range:Action:Action"
+                Value2="0">
+        <Factor Name="Config:DO Delegate:Range:Action:Hold"
+                Hide="true"
+                Value=""/>
+        <Factor Name="Config:DO Delegate:Range:Action:Relay deactivated interval"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DO Delegate:Range:Range:Type"
+                Value1="1"
+                Normal2="Config:DO Delegate:Range:Action:Action"
+                Value2="2">
+        <Factor Name="Config:DO Delegate:Range:Action:Hold"
+                Hide="true"
+                Value=""/>
+        <Factor Name="Config:DO Delegate:Range:Action:Relay deactivated interval"
+                Hide="slot"/>
+    </HideChange>
+
+</Root>

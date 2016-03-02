@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:System Delegate:Environment(Lanuage) settings">
+
+                <MenuNormal
+                    Path="Config:System Delegate:Environment(Lanuage) settings:Language"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSystemEnvironmentLanguageClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:System Delegate:Environment(Lanuage) settings:Temperature"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSystemEnvironmentTemperatureClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:System Delegate:Environment(Lanuage) settings:Decimal Point Type"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSystemEnvironmentDecimalClicked()"
+                    Include ="none"/>
+        <MenuGroup
+                Path="Config:System Delegate:Environment(Lanuage) settings:Date format"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:System Delegate:Environment(Lanuage) settings:Date format:Date format"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSystemEnvironmentDataClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:System Delegate:Environment(Lanuage) settings:Date format:Delimiter"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSystemEnvironmentDelimiterClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:System Delegate:Environment(Lanuage) settings:Date format:Month indicator"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSystemEnvironmentMonthClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+
+</Config>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Modbus client function">
+                <Object Name="On/Off" ID="20453"/>
+        </Config>
+
+        <Config Name="Communication">
+                <Object Name="Interval" ID="20455"/>
+        </Config>
+
+        <Config Name="Recovery action">
+                <Object Name="Wait time" ID="20457"/>
+        </Config>
+
+        <Config Name="Connection">
+                <Object Name="Keep connection" ID="20459"/>
+                <Object Name="Connection timeout" ID="20460"/>
+        </Config>
+
+
+</Root>

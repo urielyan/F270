@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="SMTP client function">
+                <Object Name="On/Off" ID="20202"/>
+        </Config>
+
+        <Config Name="Authentication">
+                <Object Name="Authentication" ID="20211"/>
+        </Config>
+
+        <Config Name="Encryption">
+                <Object Name="Encryption" ID="20221"/>
+                <Object Name="Verification of certificate" ID="20222"/>
+        </Config>
+
+        <Config Name="SMTP server">
+                <Object Name="SMTP Server name" ID="20232"/>
+                <Object Name="Port number" ID="20231"/>
+                <Object Name="User name" ID="20233"/>
+                <Object Name="Password" ID="20234"/>
+        </Config>
+
+        <Config Name="POP3 server">
+                <Object Name="POP3 Server name" ID="20242"/>
+                <Object Name="Port number" ID="20241"/>
+                <Object Name="User name" ID="20243"/>
+                <Object Name="Password" ID="20244"/>
+        </Config>
+
+</Root>

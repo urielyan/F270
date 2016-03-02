@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Range" ID="15007">
+                <Delegate Name="Type"
+                            ID="15010"
+                            Slot1="slotDIRange_RangeTypeChanged()"/>
+                <Delegate Name="Range Upper" ID="15022"/>
+                <Delegate Name="Range Lower" ID="15021"/>
+                <Delegate Name="Span Upper"
+                            ID="15031"
+                            Slot1="slotDIRange_SpanUpperChanged()"/>
+                <Delegate Name="Span Lower"
+                            ID="15030"
+                            Slot1="slotDIRange_SpanLowerChanged()"/>
+                <Delegate Name="Calculation"
+                            ID="15032"
+                            Slot1="slotDIRange_CalculationChanged()"/>
+                <Delegate Name="Reference channel"
+                            ID="15033"
+                            Slot1="slotDIRange_RefChannelChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Scale" ID="15040">
+                <Delegate Name="Decimal place"
+                            ID="15041"
+                            Slot1="slotDIRange_ScaleDecPosChanged()"/>
+                <Delegate Name="Scale Lower"
+                            ID="15042"
+                            Slot1="slotDIRange_ScaleLowerChanged()"/>
+                <Delegate Name="Scale Upper"
+                            ID="15043"
+                            Slot1="slotDIRange_ScaleUpperChanged()"/>
+                <Delegate Name="Unit"
+                            ID="15044"
+                            Slot1="slotDIRange_ScaleUnitChanged()"/>
+        </Delegate>
+
+</Root>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:DO Delegate:Range:Action:Action"
+                    Val="0" ID="18042">
+        <Delegate Name="Config:DO Delegate:Range:Action:Hold"
+                  Hide=":/configtree/Image/configTree/DO/DO_ValueChange/HideRangeAction_c.xml"/>
+        <Delegate Name="Config:DO Delegate:Range:Action:Relay deactivated interval"
+                  Hide=":/configtree/Image/configTree/DO/DO_ValueChange/HideRangeAction_c.xml"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:DO Delegate:Range:Action:Action"
+                    Val="1" ID="18042">
+        <Delegate Name="Config:DO Delegate:Range:Action:Hold"
+                  Hide=":/configtree/Image/configTree/DO/DO_ValueChange/HideRangeAction_c.xml"/>
+        <Delegate Name="Config:DO Delegate:Range:Action:Relay deactivated interval"
+                  Hide=":/configtree/Image/configTree/DO/DO_ValueChange/HideRangeAction_c.xml"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:DO Delegate:Range:Action:Action"
+                    Val="2" ID="18042">
+        <Delegate Name="Config:DO Delegate:Range:Action:Hold"
+                  Hide=":/configtree/Image/configTree/DO/DO_ValueChange/HideRangeAction_c.xml"/>
+        <Delegate Name="Config:DO Delegate:Range:Action:Relay deactivated interval"
+                  Hide=":/configtree/Image/configTree/DO/DO_ValueChange/HideRangeAction_c.xml"/>
+    </ValueChange>
+
+</Root>

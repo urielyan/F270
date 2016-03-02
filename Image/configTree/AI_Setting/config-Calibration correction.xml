@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Mode">
+                <Object Name="Mode" ID="13011"/>
+                <Object Name="Number of set points" ID="13012"/>
+        </Config>
+
+        <Config Name="1">
+                <Object Name="Linearizer input" ID="13021"/>
+                <Object Name="Linearizer output" ID="13022"/>
+                <Object Name="Execution of the input measurement" ID="13023"/>
+        </Config>
+
+        <Config Name="2">
+                <Object Name="Linearizer input" ID="13031"/>
+                <Object Name="Linearizer output" ID="13032"/>
+                <Object Name="Execution of the input measurement" ID="13033"/>
+        </Config>
+
+        <Config Name="3">
+                <Object Name="Linearizer input" ID="13041"/>
+                <Object Name="Linearizer output" ID="13042"/>
+                <Object Name="Execution of the input measurement" ID="13043"/>
+        </Config>
+
+        <Config Name="4">
+                <Object Name="Linearizer input" ID="13051"/>
+                <Object Name="Linearizer output" ID="13052"/>
+                <Object Name="Execution of the input measurement" ID="13053"/>
+        </Config>
+
+        <Config Name="5">
+                <Object Name="Linearizer input" ID="13061"/>
+                <Object Name="Linearizer output" ID="13062"/>
+                <Object Name="Execution of the input measurement" ID="13063"/>
+        </Config>
+
+        <Config Name="6">
+                <Object Name="Linearizer input" ID="13071"/>
+                <Object Name="Linearizer output" ID="13072"/>
+                <Object Name="Execution of the input measurement" ID="13073"/>
+        </Config>
+
+        <Config Name="7">
+                <Object Name="Linearizer input" ID="13081"/>
+                <Object Name="Linearizer output" ID="13082"/>
+                <Object Name="Execution of the input measurement" ID="13083"/>
+        </Config>
+
+        <Config Name="8">
+                <Object Name="Linearizer input" ID="13091"/>
+                <Object Name="Linearizer output" ID="13092"/>
+                <Object Name="Execution of the input measurement" ID="13093"/>
+        </Config>
+
+        <Config Name="9">
+                <Object Name="Linearizer input" ID="13101"/>
+                <Object Name="Linearizer output" ID="13102"/>
+                <Object Name="Execution of the input measurement" ID="13103"/>
+        </Config>
+
+        <Config Name="10">
+                <Object Name="Linearizer input" ID="13111"/>
+                <Object Name="Linearizer output" ID="13112"/>
+                <Object Name="Execution of the input measurement" ID="13113"/>
+        </Config>
+
+        <Config Name="11">
+                <Object Name="Linearizer input" ID="13121"/>
+                <Object Name="Linearizer output" ID="13122"/>
+                <Object Name="Execution of the input measurement" ID="13123"/>
+        </Config>
+
+        <Config Name="12">
+                <Object Name="Linearizer input" ID="13131"/>
+                <Object Name="Linearizer output" ID="13132"/>
+                <Object Name="Execution of the input measurement" ID="13133"/>
+        </Config>
+
+</Root>

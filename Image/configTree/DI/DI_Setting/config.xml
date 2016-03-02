@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config Name="DI channel settings">
+
+    <Config Name="Range">
+            <Group Type="DI-Channel"
+                   File=":/configtree/Image/configTree/DI/DI_Setting/config-Range.xml"/>
+    </Config>
+
+    <Config Name="Alarm">
+            <Group Type="DI-Channel"
+                   File=":/configtree/Image/configTree/DI/DI_Setting/config-Alarm.xml"/>
+    </Config>
+
+    <Config Name="Display settings">
+            <Group Type="DI-Channel"
+                   File=":/configtree/Image/configTree/DI/DI_Setting/config-Display settings.xml"/>
+    </Config>
+
+    <Object Name="First-CH" ID="15002"/>
+    <Object Name="Last-CH" ID="15001"/>
+</Config>

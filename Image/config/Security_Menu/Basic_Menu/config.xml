@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Security Delegate:Basic settings">
+        <MenuGroup
+                Path="Config:Security Delegate:Basic settings:Security function"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Security Delegate:Basic settings:Security function:Touch operation"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityBasicTouchClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:Basic settings:Security function:Communication"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityBasicCommClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Security Delegate:Basic settings:Logout"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Security Delegate:Basic settings:Logout:Auto logout"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityBasicAutoClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:Basic settings:Logout:Operation without Login"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSwitchClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+
+</Config>

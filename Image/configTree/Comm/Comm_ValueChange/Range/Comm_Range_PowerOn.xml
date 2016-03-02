@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Communication channel Delegate:On/Off, Span:At power on:Value at power on"
+                    Val="0" ID="22521">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication channel Delegate:On/Off, Span:At power on:Value at power on"
+                    Val="1" ID="22521">
+    </ValueChange>
+</Root>

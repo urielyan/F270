@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config Name="Security settings">
+
+    <Config Name="Basic settings"
+            File=":/configtree/Image/configTree/Security/Security_Setting/config-Basic.xml"/>
+
+    <Config Name="Operation Lock"
+            File=":/configtree/Image/configTree/Security/Security_Setting/config-OpeLock.xml"/>
+
+    <Config Name="User settings">
+            <Group Type="User-settings"
+                   File=":/configtree/Image/configTree/Security/Security_Setting/config-Settings.xml"/>
+    </Config>
+
+    <Config Name="User property">
+            <Group Type="User-property"
+                   File=":/configtree/Image/configTree/Security/Security_Setting/config-Property.xml"/>
+    </Config>
+
+    <Object Name="User number" ID="24051"/>
+    <Object Name="Authority number" ID="24072"/>
+
+</Config>

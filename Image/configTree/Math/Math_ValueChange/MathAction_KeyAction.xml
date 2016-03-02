@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Math Delegate:Math action settings:START/STOP key action"
+                    Val="0" ID="21182">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Math action settings:START/STOP key action"
+                    Val="1" ID="21182">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Math action settings:START/STOP key action"
+                    Val="2" ID="21182">
+
+    </ValueChange>
+
+</Root>

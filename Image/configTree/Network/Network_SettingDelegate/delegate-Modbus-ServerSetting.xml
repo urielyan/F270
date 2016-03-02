@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="Server number"
+                    ID="20462"
+                    Slot1="slotNetworkModbusServerNumberChange()"
+                    Slot2="slotNetworkDelegateChange()"/>
+
+        <Delegate Name="Modbus server settings"
+                    ID="20463"
+                    File=":/configtree/Image/configTree/Network/Network_SettingDelegate/delegate-Modbus-ServerSetting-Server.xml"/>
+</Root>

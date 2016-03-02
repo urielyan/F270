@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Math Delegate:Display settings">
+        <MenuNormal
+                Path="Config:Math Delegate:First-CH"
+                Normal = ":/config/AI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change-blue.png"
+                Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                Clicked = "slotMathMenuClicked()"
+                Include ="none"/>
+        <MenuNormal
+                Path="Config:Math Delegate:Last-CH"
+                Normal = ":/config/AI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change-blue.png"
+                Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                Clicked = "slotMathMenuClicked()"
+                Include ="none"/>
+
+        <MenuGroup
+                Path="Config:Math Delegate:Display settings:Tag"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Tag:Characters"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSoftKeypadClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Tag:No."
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSoftKeypadClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Math Delegate:Display settings:Color"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Color:Color"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSelectColorClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Math Delegate:Display settings:Zone"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Zone:Lower"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Zone:Upper"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Math Delegate:Display settings:Scale"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Scale:Position"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIDisplayScalePosMenuClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Scale:Division"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIDisplayScaleDivMenuClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Math Delegate:Display settings:Bar graph"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Bar graph:Base position"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIDisplayBarPosMenuClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Bar graph:Division"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIDisplayBarDivMenuClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Math Delegate:Display settings:Partial"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Partial:On/Off"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Partial:Expand"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Partial:Boundary"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Math Delegate:Display settings:Color scale band"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Color scale band:Band area"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIDisplayCsbandModeMenuClicked()"
+                        Include ="none"/>
+
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Color scale band:Color"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSelectColorClicked()"
+                        Include ="none"/>
+
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Color scale band:Display position Lower"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Color scale band:Display position Upper"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Math Delegate:Display settings:Alarm point mark"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Alarm point mark:Indicate on Scale"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Alarm point mark:Mark type"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIDisplayAlarmTypeMenuClicked()"
+                        Include ="none"/>
+
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Alarm point mark:Alarm 1 color"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSelectColorClicked()"
+                        Include ="none"/>
+
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Alarm point mark:Alarm 2 color"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSelectColorClicked()"
+                        Include ="none"/>
+
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Alarm point mark:Alarm 3 color"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSelectColorClicked()"
+                        Include ="none"/>
+
+                <MenuNormal
+                        Path="Config:Math Delegate:Display settings:Alarm point mark:Alarm 4 color"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSelectColorClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+</Config>

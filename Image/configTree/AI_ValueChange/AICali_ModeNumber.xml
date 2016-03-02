@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:AI Delegate:Calibration correction:Mode:Number of set points"
+                    Val="2" ID="13012">
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Calibration correction:Mode:Number of set points"
+                    Val="3" ID="13012">
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Calibration correction:Mode:Number of set points"
+                    Val="4" ID="13012">
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Calibration correction:Mode:Number of set points"
+                    Val="5" ID="13012">
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Calibration correction:Mode:Number of set points"
+                    Val="6" ID="13012">
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Calibration correction:Mode:Number of set points"
+                    Val="7" ID="13012">
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Calibration correction:Mode:Number of set points"
+                    Val="8" ID="13012">
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Calibration correction:Mode:Number of set points"
+                    Val="9" ID="13012">
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Calibration correction:Mode:Number of set points"
+                    Val="10" ID="13012">
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Calibration correction:Mode:Number of set points"
+                    Val="11" ID="13012">
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Calibration correction:Mode:Number of set points"
+                    Val="12" ID="13012">
+    </ValueChange>
+
+</Root>

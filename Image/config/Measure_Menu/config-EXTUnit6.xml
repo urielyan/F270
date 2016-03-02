@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Measurement Delegate:Select unit:Ext Unit 6">
+        <MenuTitle
+                Path="Config:Measurement Delegate:Select unit:Ext Unit 6:Unit 6 Module 0"
+                Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "slotMeasureUnitModuleMenuClicked()"
+                Include = ":/config/Image/config/Measure_Menu/menu-normal.xml"/>
+
+        <MenuTitle
+                Path="Config:Measurement Delegate:Select unit:Ext Unit 6:Unit 6 Module 1"
+                Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "slotMeasureUnitModuleMenuClicked()"
+                Include = ":/config/Image/config/Measure_Menu/menu-normal.xml"/>
+
+        <MenuTitle
+                Path="Config:Measurement Delegate:Select unit:Ext Unit 6:Unit 6 Module 2"
+                Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "slotMeasureUnitModuleMenuClicked()"
+                Include = ":/config/Image/config/Measure_Menu/menu-normal.xml"/>
+
+        <MenuTitle
+                Path="Config:Measurement Delegate:Select unit:Ext Unit 6:Unit 6 Module 3"
+                Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "slotMeasureUnitModuleMenuClicked()"
+                Include = ":/config/Image/config/Measure_Menu/menu-normal.xml"/>
+
+        <MenuTitle
+                Path="Config:Measurement Delegate:Select unit:Ext Unit 6:Unit 6 Module 4"
+                Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "slotMeasureUnitModuleMenuClicked()"
+                Include = ":/config/Image/config/Measure_Menu/menu-normal.xml"/>
+
+        <MenuTitle
+                Path="Config:Measurement Delegate:Select unit:Ext Unit 6:Unit 6 Module 5"
+                Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "slotMeasureUnitModuleMenuClicked()"
+                Include = ":/config/Image/config/Measure_Menu/menu-normal.xml"/>
+
+</Config>

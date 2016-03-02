@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Security function" ID="24002">
+            <Delegate Name="Touch operation" ID="24003" Slot1="slotSecurityBasicTouchChange()"/>
+            <Delegate Name="Communication" ID="24004" Slot1="slotSecurityBasicCommChange()"/>
+        </Delegate>
+
+        <Delegate Name="Logout" ID="24010">
+            <Delegate Name="Auto logout" ID="24011" Slot1="slotSecurityBasicAutoChange()"/>
+            <Delegate Name="Operation without Login" ID="24012" Slot1="slotSecurityBasicQuitChange()"/>
+        </Delegate>
+
+</Root>

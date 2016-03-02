@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Color">
+                <Object Name="Color" ID="19002"/>
+        </Config>
+
+        <Config Name="Tag">
+                <Object Name="Characters" ID="19011"/>
+                <Object Name="No." ID="19012"/>
+        </Config>
+
+        <Config Name="Zone">
+                <Object Name="Upper" ID="19021"/>
+                <Object Name="Lower" ID="19022"/>
+        </Config>
+
+        <Config Name="Scale">
+                <Object Name="Position" ID="19031"/>
+        </Config>
+
+        <Config Name="Bar graph">
+                <Object Name="Base position" ID="19041"/>
+        </Config>
+
+        <Config Name="Display characters of each value">
+                <Object Name="0" ID="19081"/>
+                <Object Name="1" ID="19082"/>
+        </Config>
+
+</Root>

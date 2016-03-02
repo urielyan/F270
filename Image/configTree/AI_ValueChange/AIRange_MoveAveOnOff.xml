@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:AI Delegate:Range:Moving average:On/Off"
+                    Val="0" ID="10061">
+        <Delegate Name="Config:AI Delegate:Range:Moving average:Count"
+                  Hide="true"
+                  Value=""/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Range:Moving average:On/Off"
+                    Val="1" ID="10061">
+        <Delegate Name="Config:AI Delegate:Range:Moving average:Count"
+                  Hide="slot"/>
+    </ValueChange>
+
+</Root>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="Time Zone" ID="22731">
+                <Delegate Name="Hour"
+                            ID="22732"
+                            Slot1="slotsystemTimeHourChange()"/>
+
+                <Delegate Name="Minute"
+                            ID="22733"
+                            Slot1="slotsystemTimeMinuteChange()"/>
+        </Delegate>
+
+
+
+</Root>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+	Path="Config">
+	<MenuClass
+                Path="Config:AI Delegate"
+                Normal = ":/setting/Image/config/AI_Menu/normal.png"
+                Changed = ":/setting/Image/config/AI_Menu/changed.png"
+		Hint = "none"
+		Extend = "none"
+                Clicked = "none"
+                Include =":/config/Image/config/AI_Menu/config.xml" />
+	<MenuClass
+                Path="Config:DI Delegate"
+                Normal = ":/setting/Image/config/DI_Menu/normal.png"
+                Changed = ":/setting/Image/config/DI_Menu/changed.png"
+		Hint = "none"
+		Extend = "none"
+                Clicked = "none"
+                Include =":/config/Image/config/DI_Menu/config.xml" />
+	<MenuClass
+                Path="Config:DO Delegate"
+                Normal = ":/setting/Image/config/DO_Menu/normal.png"
+                Changed = ":/setting/Image/config/DO_Menu/changed.png"
+		Hint = "none"
+		Extend = "none"
+                Clicked = "none"
+                Include =":/config/Image/config/DO_Menu/config.xml" />
+	<MenuClass
+                Path="Config:Math Delegate"
+                Normal = ":/setting/Image/config/Math_Menu/normal.png"
+                Changed = ":/setting/Image/config/Math_Menu/changed.png"
+		Hint = "none"
+		Extend = "none"
+                Clicked = "none"
+                Include =":/config/Image/config/Math_Menu/config.xml" />
+	<MenuClass
+                Path="Config:Communication channel Delegate"
+                Normal = ":/setting/Image/config/Comm_Menu/normal.png"
+                Changed = ":/setting/Image/config/Comm_Menu/changed.png"
+		Hint = "none"
+		Extend = "none"
+                Clicked = "none"
+                Include =":/config/Image/config/Comm_Menu/config.xml" />
+	<MenuClass
+                Path="Config:Display Delegate"
+                Normal = ":/setting/Image/config/Display_Menu/normal.png"
+                Changed = ":/setting/Image/config/Display_Menu/changed.png"
+		Hint = "none"
+		Extend = "none"
+                Clicked = "none"
+                Include =":/config/Image/config/Display_Menu/config.xml" />
+	<MenuClass
+                Path="Config:Measurement Delegate"
+                Normal = ":/setting/Image/config/Measure_Menu/normal.png"
+                Changed = ":/setting/Image/config/Measure_Menu/changed.png"
+		Hint = "none"
+		Extend = "none"
+                Clicked = "none"
+                Include =":/config/Image/config/Measure_Menu/config.xml" />
+	<MenuClass
+                Path="Config:Recording Delegate"
+                Normal = ":/setting/Image/config/Record_Menu/normal.png"
+                Changed = ":/setting/Image/config/Record_Menu/changed.png"
+		Hint = "none"
+		Extend = "none"
+                Clicked = "none"
+                Include =":/config/Image/config/Record_Menu/config.xml"/>
+	<MenuClass
+                Path="Config:Data save Delegate"
+                Normal = ":/setting/Image/config/Data_Menu/normal.png"
+                Changed = ":/setting/Image/config/Data_Menu/changed.png"
+		Hint = "none"
+		Extend = "none"
+                Clicked = "none"
+                Include =":/config/Image/config/Data_Menu/config.xml"/>
+	<MenuClass
+                Path="Config:Batch Delegate"
+                Normal = ":/setting/Image/config/Batch_Menu/normal.png"
+                Changed = ":/setting/Image/config/Batch_Menu/changed.png"
+		Hint = "none"
+		Extend = "none"
+                Clicked = "none"
+                Include =":/config/Image/config/Batch_Menu/config.xml"/>
+	<MenuClass
+                Path="Config:Report Delegate"
+                Normal = ":/setting/Image/config/Report_Menu/normal.png"
+                Changed = ":/setting/Image/config/Report_Menu/changed.png"
+		Hint = "none"
+		Extend = "none"
+                Clicked = "none"
+                Include =":/config/Image/config/Report_Menu/config.xml"/>
+	<MenuClass
+                Path="Config:Timer Delegate"
+                Normal = ":/setting/Image/config/Timer_Menu/normal.png"
+                Changed = ":/setting/Image/config/Timer_Menu/changed.png"
+		Hint = "none"
+		Extend = "none"
+                Clicked = "none"
+                Include =":/config/Image/config/Timer_Menu/config.xml"/>
+	<MenuClass
+                Path="Config:Event Delegate"
+                Normal = ":/setting/Image/config/Event_Menu/normal.png"
+                Changed = ":/setting/Image/config/Event_Menu/changed.png"
+		Hint = "none"
+		Extend = "none"
+                Clicked = "none"
+                Include =":/config/Image/config/Event_Menu/config.xml"/>
+	<MenuClass
+                Path="Config:Communication (Ethernet) Delegate"
+                Normal = ":/setting/Image/config/Ethernet_Menu/normal.png"
+                Changed = ":/setting/Image/config/Ethernet_Menu/changed.png"
+		Hint = "none"
+		Extend = "none"
+                Clicked = "none"
+                Include =":/config/Image/config/Ethernet_Menu/config.xml"/>
+	<MenuClass
+                Path="Config:Communication (Serial) Delegate"
+                Normal = ":/setting/Image/config/Serial_Menu/normal.png"
+                Changed = ":/setting/Image/config/Serial_Menu/changed.png"
+		Hint = "none"
+		Extend = "none"
+                Clicked = "none"
+                Include =":/config/Image/config/Serial_Menu/config.xml"/>
+	<MenuClass
+                Path="Config:System Delegate"
+                Normal = ":/setting/Image/config/System_Menu/normal.png"
+                Changed = ":/setting/Image/config/System_Menu/changed.png"
+		Hint = "none"
+		Extend = "none"
+                Clicked = "none"
+                Include =":/config/Image/config/System_Menu/config.xml"/>
+        <MenuClass
+                Path="Config:Security Delegate"
+                Normal = ":/setting/Image/config/Security_Menu/normal.png"
+                Changed = ":/setting/Image/config/Security_Menu/changed.png"
+                Hint = "none"
+                Extend = "none"
+                Clicked = "none"
+                Include =":/config/Image/config/Security_Menu/config.xml"/>
+</Config>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Trend interval">
+                <Object Name="Trend interval [/div]" ID="21302"/>
+                <Object Name="Trend rate switching" ID="21304"/>
+                <Object Name="Second interval [/div]" ID="21303"/>
+        </Config>
+
+        <Config Name="Trend Basic">
+                <Object Name="Direction" ID="21306"/>
+                <Object Name="Trend clear" ID="21307"/>
+                <Object Name="Trend line" ID="21308"/>
+                <Object Name="Grid" ID="21309"/>
+        </Config>
+
+        <Config Name="Scale">
+                <Object Name="Digit" ID="21311"/>
+                <Object Name="Value indicator" ID="21312"/>
+                <Object Name="Digit of mark" ID="21313"/>
+        </Config>
+
+        <Config Name="Partial">
+                <Object Name="On/Off" ID="21321"/>
+        </Config>
+
+        <Config Name="Message">
+                <Object Name="Write group" ID="21323"/>
+                <Object Name="Power-fail message" ID="21324"/>
+                <Object Name="Change message" ID="21325"/>
+        </Config>
+
+</Root>

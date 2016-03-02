@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <DelegateChange Type="Module"
+            Name="Config:Measurement Delegate:Select unit:A/D integrate"
+            Objects="Config:Measurement settings:Select unit:%1:%2:A/D integrate"/>
+
+    <DelegateChange Type="Module"
+            Name="Config:Measurement Delegate:Select unit:A/D integrate:A/D integrate"
+            Objects="Config:Measurement settings:Select unit:%1:%2:A/D integrate:A/D integrate"/>
+
+    <DelegateChange Type="Module"
+            Name="Config:Measurement Delegate:Select unit:General signal"
+            Objects="Config:Measurement settings:Select unit:%1:%2:General signal"/>
+
+    <DelegateChange Type="Module"
+            Name="Config:Measurement Delegate:Select unit:General signal:Lower limit of burnout set"
+            Objects="Config:Measurement settings:Select unit:%1:%2:General signal:Lower limit of burnout set"/>
+
+    <DelegateChange Type="Module"
+            Name="Config:Measurement Delegate:Select unit:General signal:Upper limit of burnout set"
+            Objects="Config:Measurement settings:Select unit:%1:%2:General signal:Upper limit of burnout set"/>
+
+    <DelegateChange Type="Module"
+            Name="Config:Measurement Delegate:Select unit:DI Operation mode"
+            Objects="Config:Measurement settings:Select unit:%1:%2:DI Operation mode"/>
+
+    <DelegateChange Type="Module"
+            Name="Config:Measurement Delegate:Select unit:DI Operation mode:DI Operation mode"
+            Objects="Config:Measurement settings:Select unit:%1:%2:DI Operation mode:DI Operation mode"/>
+
+</Root>
+

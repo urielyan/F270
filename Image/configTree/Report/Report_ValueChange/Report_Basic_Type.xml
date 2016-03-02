@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Report Delegate:Basic settings:Type:Type"
+                    Val="0" ID="22003">
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Day"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Day of week"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Hour"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Minute"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Save interval"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:File creation interval"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report1"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report2"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report3"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report4"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report5"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:File type"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:File type:File type"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output:Excel file"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output:PDF file"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output:Printer"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Electronic signature"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Electronic signature:PDF electronic signature"
+                  Hide="true"
+                  Value=""/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Report Delegate:Basic settings:Type:Type"
+                    Val="1" ID="22003">
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Day"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Day of week"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Hour"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Minute"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Save interval"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:File creation interval"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report1"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report2"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report3"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report4"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report5"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:File type"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:File type:File type"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output:Excel file"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output:PDF file"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output:Printer"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Electronic signature"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Electronic signature:PDF electronic signature"
+                  Hide="slot"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Report Delegate:Basic settings:Type:Type"
+                    Val="2" ID="22003">
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Day"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Day of week"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Hour"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Minute"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Save interval"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:File creation interval"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report1"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report2"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report3"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report4"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report5"
+                  Hide="slot"/>
+
+
+        <Delegate Name="Config:Report Delegate:Basic settings:File type"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:File type:File type"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output:Excel file"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output:PDF file"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output:Printer"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Electronic signature"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Electronic signature:PDF electronic signature"
+                  Hide="slot"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Report Delegate:Basic settings:Type:Type"
+                    Val="3" ID="22003">
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Day"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Day of week"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Hour"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Minute"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Save interval"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:File creation interval"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report1"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report2"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report3"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report4"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report5"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:File type"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:File type:File type"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output:Excel file"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output:PDF file"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output:Printer"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Electronic signature"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Electronic signature:PDF electronic signature"
+                  Hide="slot"/>
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Report Delegate:Basic settings:Type:Type"
+                    Val="4" ID="22003">
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Day"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Day of week"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Hour"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Minute"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Save interval"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:File creation interval"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report1"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report2"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report3"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report4"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report5"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:File type"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:File type:File type"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output:Excel file"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output:PDF file"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output:Printer"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Electronic signature"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Electronic signature:PDF electronic signature"
+                  Hide="slot"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Report Delegate:Basic settings:Type:Type"
+                    Val="5" ID="22003">
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Day"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Day of week"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Hour"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Minute"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:Save interval"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Creation time:File creation interval"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report1"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report2"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report3"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report4"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Data type:Report5"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:File type"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:File type:File type"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output:Excel file"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output:PDF file"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Report template output:Printer"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Electronic signature"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Report Delegate:Basic settings:Electronic signature:PDF electronic signature"
+                  Hide="slot"/>
+    </ValueChange>
+
+
+</Root>

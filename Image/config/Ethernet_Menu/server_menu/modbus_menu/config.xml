@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients">
+	<MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:Modbus client connect limits function"
+		Type = "group"
+		Normal = "none"
+		Changed = "none"
+		Hint = "none"
+		Extend = "none">
+		<MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:Modbus client connect limits function:On/Off"
+			Type = "normal"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+	</MenuGroup>
+	
+	<MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:1"
+		Type = "group"
+		Normal = "none"
+		Changed = "none"
+		Hint = "none"
+		Extend = "none">
+		<MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:1:On/Off"
+			Type = "normal"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:1:IP Address"
+			Type = "normal"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNetworkIPNumericKeypadClicked()"
+                        Include ="none"/>
+	</MenuGroup>
+
+        <MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:2"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:2:On/Off"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:2:IP Address"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNetworkIPNumericKeypadClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:3"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:3:On/Off"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:3:IP Address"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNetworkIPNumericKeypadClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:4"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:4:On/Off"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:4:IP Address"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNetworkIPNumericKeypadClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:5"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:5:On/Off"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:5:IP Address"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNetworkIPNumericKeypadClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:6"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:6:On/Off"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:6:IP Address"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNetworkIPNumericKeypadClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:7"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:7:On/Off"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:7:IP Address"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNetworkIPNumericKeypadClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:8"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:8:On/Off"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:8:IP Address"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNetworkIPNumericKeypadClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:9"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:9:On/Off"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:9:IP Address"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNetworkIPNumericKeypadClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:10"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:10:On/Off"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:10:IP Address"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNetworkIPNumericKeypadClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+</Config>

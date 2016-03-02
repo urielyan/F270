@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:AI Delegate">
+	<MenuTitle
+                Path="Config:AI Delegate:Range"
+		Normal = ":/config/AI_Menu/Range_Menu/range.png"
+                Changed = ":/setting/Image/setting/change.png"
+		Hint = ":/config/AI_Menu/Range_Menu/range_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/AI_Menu/Range_Menu/config.xml"/>
+	<MenuTitle
+                Path="Config:AI Delegate:Alarm"
+		Normal = ":/config/AI_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+		Hint = ":/config/AI_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/AI_Menu/Alarm_Menu/config.xml"/>
+	<MenuTitle
+                Path="Config:AI Delegate:Display settings"
+		Normal = ":/config/AI_Menu/Display_Menu/display.png"
+                Changed = ":/setting/Image/setting/change.png"
+		Hint = ":/config/AI_Menu/Display_Menu/display_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/AI_Menu/Display_Menu/config.xml"/>
+	<MenuTitle
+                Path="Config:AI Delegate:Calibration correction"
+		Normal = ":/config/AI_Menu/Calibration_Menu/calibration.png"
+                Changed = ":/setting/Image/setting/change.png"
+		Hint = ":/config/AI_Menu/Calibration_Menu/calibration_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/AI_Menu/Calibration_Menu/config.xml"/>
+</Config>

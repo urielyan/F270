@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list:HTTP:On/Off"
+                    Val="0" ID="20571">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list:HTTP:On/Off"
+                    Val="1" ID="20571">
+    </ValueChange>
+
+</Root>

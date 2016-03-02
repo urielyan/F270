@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Math Delegate:Math action settings">
+        <MenuNormal
+                Path="Config:Math Delegate:Math action settings:Value on Error"
+                Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                Changed = ":/setting/Image/setting/change-blue.png"
+                Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                Clicked = "slotMathActionErrorMenuClicked()"
+                Include ="none"/>
+        <MenuNormal
+                Path="Config:Math Delegate:Math action settings:START/STOP key action"
+                Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                Changed = ":/setting/Image/setting/change-blue.png"
+                Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                Clicked = "slotMathActionActionMenuClicked()"
+                Include ="none"/>
+
+        <MenuGroup
+                Path="Config:Math Delegate:Math action settings:Value on Overflow"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Math Delegate:Math action settings:Value on Overflow:SUM, AVE"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotMathActionSumaveMenuClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Math Delegate:Math action settings:Value on Overflow:MAX, MIN, P-P"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotMathActionPPMenuClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+</Config>

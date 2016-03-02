@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Batch Delegate:Batch function:Auto increment"
+                    Val="0" ID="21904">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Batch Delegate:Batch function:Auto increment"
+                    Val="1" ID="21904">
+    </ValueChange>
+</Root>

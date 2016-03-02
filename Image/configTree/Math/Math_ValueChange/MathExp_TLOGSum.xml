@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Math Delegate:Calculation expression:TLOG:Sum scale"
+                    Val="0" ID="21014">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Calculation expression:TLOG:Sum scale"
+                    Val="1000" ID="21014">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Calculation expression:TLOG:Sum scale"
+                    Val="60000" ID="21014">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Calculation expression:TLOG:Sum scale"
+                    Val="3600000" ID="21014">
+
+    </ValueChange>
+
+</Root>

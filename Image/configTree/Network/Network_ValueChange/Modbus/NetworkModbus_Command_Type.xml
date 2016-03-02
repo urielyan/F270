@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Type"
+                    Val="0" ID="20473">
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Server"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Unit No."
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Data type"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Channel type"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Register"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:First-CH"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Last-CH"
+                  Hide="true"
+                  Value=""/>
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Type"
+                    Val="1" ID="20473">
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Server"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Unit No."
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Data type"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Channel type"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Register"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:First-CH"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Last-CH"
+                  Hide="slot"/>
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Type"
+                    Val="2" ID="20473">
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Server"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Unit No."
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Data type"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Channel type"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Register"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:First-CH"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Last-CH"
+                  Hide="slot"/>
+
+    </ValueChange>
+</Root>

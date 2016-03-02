@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delegate Name="Math Delegate" ID="21000">
+
+    <Delegate Name="Calculation expression"
+                ID="21003"
+                File=":/configtree/Image/configTree/Math/Math_SettingDelegate/delegate-CalcuExp.xml"/>
+
+    <Delegate Name="Alarm"
+                ID="21040"
+                File=":/configtree/Image/configTree/Math/Math_SettingDelegate/delegate-Alarm.xml"/>
+
+    <Delegate Name="Display settings"
+                ID="21100"
+                File=":/configtree/Image/configTree/Math/Math_SettingDelegate/delegate-Display.xml"/>
+
+    <Delegate Name="Constant"
+                ID="21190"
+                File=":/configtree/Image/configTree/Math/Math_SettingDelegate/delegate-Constant.xml"/>
+
+    <Delegate Name="Math action settings"
+                ID="21180"
+                File=":/configtree/Image/configTree/Math/Math_SettingDelegate/delegate-MathAction.xml"/>
+
+    <Delegate Name="First-CH"
+                ID="21001"
+                Slot1="slotMathFirst_chanSelectchanged()"/>
+    <Delegate Name="Last-CH"
+                ID="21002"
+                Slot1="slotMathLast_chanSelectchanged()"
+                Slot2="slotMathDelegateChange()"/>
+    <Delegate Name="Constant number"
+                ID="21191"
+                Slot1="slotMathConstantKChanged()"/>
+
+</Delegate>

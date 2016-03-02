@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delegate>
+        <Delegate Name="Operation mode"   ID="xxx">
+                <Delegate Name="Operation mode"
+                            ID="xxx"
+                            Slot1="xxx()"/>
+        </Delegate>
+
+        <Delegate Name="A/D integrate"   ID="xxx">
+                <Delegate Name="A/D integrate"
+                            ID="xxx"
+                            Slot1="xxx()"/>
+        </Delegate>
+
+        <Delegate Name="General signal"   ID="xxx">
+                <Delegate Name="Lower limit of burnout set"
+                            ID="xxx"
+                            Slot1="xxx()"/>
+                <Delegate Name="Upoper limit of burnout set"
+                            ID="xxx"
+                            Slot1="xxx()"/>
+        </Delegate>
+
+</Delegate>

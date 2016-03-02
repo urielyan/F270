@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Config Name="Rate of change">
+                <Object Name="Decrease" ID="22722"/>
+                <Object Name="Increase" ID="22723"/>
+        </Config>
+
+        <Config Name="Indicator">
+                <Object Name="Hold/Nonhold" ID="22726"/>
+        </Config>
+
+        <Config Name="AlarmACK">
+                <Object Name="Individual alarm ACK" ID="22729"/>
+        </Config>
+
+
+
+</Root>

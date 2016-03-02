@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Object Name="Server number" ID="20462"/>
+
+        <Group Type="Server"
+                     File=":/configtree/Image/configTree/Network/Network_Setting/config-Modbus-ServerSetting-Server.xml"/>
+
+</Root>
+

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <HideChange Normal1="Config:AI Delegate:Alarm:Level 1:On/Off"
+                Value1="0"
+                Normal2="Config:AI Delegate:Alarm:Level 2:On/Off"
+                Value2="0"
+                Normal3="Config:AI Delegate:Alarm:Level 3:On/Off"
+                Value3="0"
+                Normal4="Config:AI Delegate:Alarm:Level 4:On/Off"
+                Value4="0">
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Alarm:Level 1:On/Off"
+                Value1="0"
+                Normal2="Config:AI Delegate:Alarm:Level 2:On/Off"
+                Value2="0"
+                Normal3="Config:AI Delegate:Alarm:Level 3:On/Off"
+                Value3="0"
+                Normal4="Config:AI Delegate:Alarm:Level 4:On/Off"
+                Value4="1">
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay"
+                Hide="false"
+                Value=""/>
+
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Hour"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Minute"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Second"
+                Hide="slot"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Alarm:Level 1:On/Off"
+                Value1="0"
+                Normal2="Config:AI Delegate:Alarm:Level 2:On/Off"
+                Value2="0"
+                Normal3="Config:AI Delegate:Alarm:Level 3:On/Off"
+                Value3="1"
+                Normal4="Config:AI Delegate:Alarm:Level 4:On/Off"
+                Value4="0">
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay"
+                Hide="false"
+                Value=""/>
+
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Hour"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Minute"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Second"
+                Hide="slot"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Alarm:Level 1:On/Off"
+                Value1="0"
+                Normal2="Config:AI Delegate:Alarm:Level 2:On/Off"
+                Value2="0"
+                Normal3="Config:AI Delegate:Alarm:Level 3:On/Off"
+                Value3="1"
+                Normal4="Config:AI Delegate:Alarm:Level 4:On/Off"
+                Value4="1">
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay"
+                Hide="false"
+                Value=""/>
+
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Hour"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Minute"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Second"
+                Hide="slot"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Alarm:Level 1:On/Off"
+                Value1="0"
+                Normal2="Config:AI Delegate:Alarm:Level 2:On/Off"
+                Value2="1"
+                Normal3="Config:AI Delegate:Alarm:Level 3:On/Off"
+                Value3="0"
+                Normal4="Config:AI Delegate:Alarm:Level 4:On/Off"
+                Value4="0">
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay"
+                Hide="false"
+                Value=""/>
+
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Hour"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Minute"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Second"
+                Hide="slot"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Alarm:Level 1:On/Off"
+                Value1="0"
+                Normal2="Config:AI Delegate:Alarm:Level 2:On/Off"
+                Value2="1"
+                Normal3="Config:AI Delegate:Alarm:Level 3:On/Off"
+                Value3="0"
+                Normal4="Config:AI Delegate:Alarm:Level 4:On/Off"
+                Value4="1">
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay"
+                Hide="false"
+                Value=""/>
+
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Hour"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Minute"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Second"
+                Hide="slot"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Alarm:Level 1:On/Off"
+                Value1="0"
+                Normal2="Config:AI Delegate:Alarm:Level 2:On/Off"
+                Value2="1"
+                Normal3="Config:AI Delegate:Alarm:Level 3:On/Off"
+                Value3="1"
+                Normal4="Config:AI Delegate:Alarm:Level 4:On/Off"
+                Value4="0">
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay"
+                Hide="false"
+                Value=""/>
+
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Hour"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Minute"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Second"
+                Hide="slot"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Alarm:Level 1:On/Off"
+                Value1="0"
+                Normal2="Config:AI Delegate:Alarm:Level 2:On/Off"
+                Value2="1"
+                Normal3="Config:AI Delegate:Alarm:Level 3:On/Off"
+                Value3="1"
+                Normal4="Config:AI Delegate:Alarm:Level 4:On/Off"
+                Value4="1">
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay"
+                Hide="false"
+                Value=""/>
+
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Hour"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Minute"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Second"
+                Hide="slot"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Alarm:Level 1:On/Off"
+                Value1="1"
+                Normal2="Config:AI Delegate:Alarm:Level 2:On/Off"
+                Value2="0"
+                Normal3="Config:AI Delegate:Alarm:Level 3:On/Off"
+                Value3="0"
+                Normal4="Config:AI Delegate:Alarm:Level 4:On/Off"
+                Value4="0">
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay"
+                Hide="false"
+                Value=""/>
+
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Hour"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Minute"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Second"
+                Hide="slot"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Alarm:Level 1:On/Off"
+                Value1="1"
+                Normal2="Config:AI Delegate:Alarm:Level 2:On/Off"
+                Value2="0"
+                Normal3="Config:AI Delegate:Alarm:Level 3:On/Off"
+                Value3="0"
+                Normal4="Config:AI Delegate:Alarm:Level 4:On/Off"
+                Value4="1">
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay"
+                Hide="false"
+                Value=""/>
+
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Hour"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Minute"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Second"
+                Hide="slot"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Alarm:Level 1:On/Off"
+                Value1="1"
+                Normal2="Config:AI Delegate:Alarm:Level 2:On/Off"
+                Value2="0"
+                Normal3="Config:AI Delegate:Alarm:Level 3:On/Off"
+                Value3="1"
+                Normal4="Config:AI Delegate:Alarm:Level 4:On/Off"
+                Value4="0">
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay"
+                Hide="false"
+                Value=""/>
+
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Hour"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Minute"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Second"
+                Hide="slot"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Alarm:Level 1:On/Off"
+                Value1="1"
+                Normal2="Config:AI Delegate:Alarm:Level 2:On/Off"
+                Value2="0"
+                Normal3="Config:AI Delegate:Alarm:Level 3:On/Off"
+                Value3="1"
+                Normal4="Config:AI Delegate:Alarm:Level 4:On/Off"
+                Value4="1">
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay"
+                Hide="false"
+                Value=""/>
+
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Hour"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Minute"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Second"
+                Hide="slot"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Alarm:Level 1:On/Off"
+                Value1="1"
+                Normal2="Config:AI Delegate:Alarm:Level 2:On/Off"
+                Value2="1"
+                Normal3="Config:AI Delegate:Alarm:Level 3:On/Off"
+                Value3="0"
+                Normal4="Config:AI Delegate:Alarm:Level 4:On/Off"
+                Value4="0">
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay"
+                Hide="false"
+                Value=""/>
+
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Hour"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Minute"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Second"
+                Hide="slot"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Alarm:Level 1:On/Off"
+                Value1="1"
+                Normal2="Config:AI Delegate:Alarm:Level 2:On/Off"
+                Value2="1"
+                Normal3="Config:AI Delegate:Alarm:Level 3:On/Off"
+                Value3="0"
+                Normal4="Config:AI Delegate:Alarm:Level 4:On/Off"
+                Value4="1">
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay"
+                Hide="false"
+                Value=""/>
+
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Hour"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Minute"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Second"
+                Hide="slot"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Alarm:Level 1:On/Off"
+                Value1="1"
+                Normal2="Config:AI Delegate:Alarm:Level 2:On/Off"
+                Value2="1"
+                Normal3="Config:AI Delegate:Alarm:Level 3:On/Off"
+                Value3="1"
+                Normal4="Config:AI Delegate:Alarm:Level 4:On/Off"
+                Value4="0">
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay"
+                Hide="false"
+                Value=""/>
+
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Hour"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Minute"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Second"
+                Hide="slot"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Alarm:Level 1:On/Off"
+                Value1="1"
+                Normal2="Config:AI Delegate:Alarm:Level 2:On/Off"
+                Value2="1"
+                Normal3="Config:AI Delegate:Alarm:Level 3:On/Off"
+                Value3="1"
+                Normal4="Config:AI Delegate:Alarm:Level 4:On/Off"
+                Value4="1">
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay"
+                Hide="false"
+                Value=""/>
+
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Hour"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Minute"
+                Hide="slot"/>
+        <Factor Name="Config:AI Delegate:Alarm:Alarm delay:Second"
+                Hide="slot"/>
+    </HideChange>
+
+</Root>

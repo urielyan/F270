@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <DelegateChange Type="Unique"
+            Name="Config:Event Delegate"
+            Objects="Config:Event action"/>
+
+    <DelegateChange Type="Unique"
+                Name="Config:Event Delegate:Event action number"
+                Objects="Config:Event action:Event action number"/>
+
+    <DelegateChange Type="Event-Action"
+                Name="Config:Event Delegate:Event action"
+                Objects="Config:Event action:%1:Event action"/>
+    <DelegateChange Type="Event-Action"
+                Name="Config:Event Delegate:Event"
+                Objects="Config:Event action:%1:Event"/>
+    <DelegateChange Type="Event-Action"
+                Name="Config:Event Delegate:Action"
+                Objects="Config:Event action:%1:Action"/>
+
+    <DelegateChange Type="Event-Action"
+                Name="Config:Event Delegate:Event action:On/Off"
+                Objects="Config:Event action:%1:Event action:On/Off"/>
+
+    <DelegateChange Type="Event-Action"
+                Name="Config:Event Delegate:Event:Type"
+                Objects="Config:Event action:%1:Event:Type"/>
+
+    <DelegateChange Type="Event-Action"
+                Name="Config:Event Delegate:Event:Number"
+                Objects="Config:Event action:%1:Event:Number"/>
+
+    <DelegateChange Type="Event-Action"
+                Name="Config:Event Delegate:Event:Event details"
+                Objects="Config:Event action:%1:Event:Event details"/>
+
+    <DelegateChange Type="Event-Action"
+                Name="Config:Event Delegate:Event:Alarm level"
+                Objects="Config:Event action:%1:Event:Alarm level"/>
+
+    <DelegateChange Type="Event-Action"
+                Name="Config:Event Delegate:Event:Operation mode"
+                Objects="Config:Event action:%1:Event:Operation mode"/>
+
+    <DelegateChange Type="Event-Action"
+                Name="Config:Event Delegate:Action:Type"
+                Objects="Config:Event action:%1:Action:Type"/>
+
+    <DelegateChange Type="Event-Action"
+                Name="Config:Event Delegate:Action:Number"
+                Objects="Config:Event action:%1:Action:Number"/>
+
+    <DelegateChange Type="Event-Action"
+                Name="Config:Event Delegate:Action:Detail"
+                Objects="Config:Event action:%1:Action:Detail"/>
+
+    <DelegateChange Type="Event-Action"
+                Name="Config:Event Delegate:Action:Group number"
+                Objects="Config:Event action:%1:Action:Group number"/>
+
+</Root>

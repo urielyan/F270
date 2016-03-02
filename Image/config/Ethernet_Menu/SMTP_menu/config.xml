@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Communication (Ethernet) Delegate:SMTP client settings">
+	<MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP client function"
+		Type = "group"
+		Normal = "none"
+		Changed = "none"
+		Hint = "none"
+		Extend = "none">
+		<MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP client function:On/Off"
+			Type = "normal"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+	</MenuGroup>
+	
+        <MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:SMTP client settings:Authentication"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:SMTP client settings:Authentication:Authentication"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSMTPAuthenticationCLicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:SMTP client settings:Encryption"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:SMTP client settings:Encryption:Encryption"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:SMTP client settings:Encryption:Verification of certificate"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server:SMTP Server name"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotEnglishInputClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server:Port number"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server:User name"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotEnglishInputClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server:Password"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotEnglishInputClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server:POP3 Server name"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotEnglishInputClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server:Port number"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server:User name"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotEnglishInputClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server:Password"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotEnglishInputClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+</Config>

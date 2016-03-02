@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:DO Delegate:Range:Range:Type"
+                    Val="0" ID="18010">
+
+        <Delegate Name="Config:DO Delegate:Range:Action:Action"
+                  Hide="slot"/>
+        <Delegate Name="Config:DO Delegate:Range:Action:Relay Action on ACK"
+                  Hide="slot"/>
+        <Delegate Name="Config:DO Delegate:Range:Action:Hold"
+                  Hide=":/configtree/Image/configTree/DO/DO_ValueChange/HideRangeAction_c.xml"/>
+        <Delegate Name="Config:DO Delegate:Range:Action:Relay deactivated interval"
+                  Hide=":/configtree/Image/configTree/DO/DO_ValueChange/HideRangeAction_c.xml"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:DO Delegate:Range:Range:Type"
+                    Val="1" ID="18010">
+
+        <Delegate Name="Config:DO Delegate:Range:Action:Action"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:DO Delegate:Range:Action:Relay Action on ACK"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:DO Delegate:Range:Action:Hold"
+                  Hide=":/configtree/Image/configTree/DO/DO_ValueChange/HideRangeAction_c.xml"/>
+        <Delegate Name="Config:DO Delegate:Range:Action:Relay deactivated interval"
+                  Hide=":/configtree/Image/configTree/DO/DO_ValueChange/HideRangeAction_c.xml"/>
+    </ValueChange>
+
+</Root>

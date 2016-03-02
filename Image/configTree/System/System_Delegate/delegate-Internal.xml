@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+                <Delegate Name="First number"
+                            ID="22771"
+                            Slot1="slotsystemInternalFirstChange()"/>
+
+                <Delegate Name="Last number"
+                            ID="22772"
+                            Slot1="slotsystemInternalLastChange()"
+                            Slot2="slotSystemDelegateChange()"/>
+
+        <Delegate Name="Internal switch" ID="22773">
+                <Delegate Name="Type"
+                            ID="22774"
+                            Slot1="slotsystemInternalTypeChange()"/>
+
+                <Delegate Name="And/Or"
+                            ID="22775"
+                            Slot1="slotsystemInternalAndorChange()"/>
+        </Delegate>
+
+
+
+</Root>

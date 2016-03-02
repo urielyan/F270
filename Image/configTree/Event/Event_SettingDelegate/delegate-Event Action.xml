@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Event action" ID="22310">
+                <Delegate Name="On/Off"
+                            ID="22311"
+                            Slot1="slotEventAction_GrpSWchanged()"/>
+        </Delegate>
+
+        <Delegate Name="Event" ID="22320">
+                <Delegate Name="Type"
+                            ID="22321"
+                            Slot1="slotEventAction_E_Typechanged()"/>
+                <Delegate Name="Number"
+                            ID="22322"
+                            Slot1="slotEventAction_E_Numberchanged()"/>
+                <Delegate Name="Event details"
+                            ID="22324"
+                            Slot1="slotEventAction_E_Detailchanged()"/>
+                <Delegate Name="Alarm level"
+                            ID="22323"
+                            Slot1="slotEventAction_E_Alarmlvlchanged()"/>
+                <Delegate Name="Operation mode"
+                            ID="22325"
+                            Slot1="slotEventAction_E_Modechanged()"/>
+        </Delegate>
+
+        <Delegate Name="Action" ID="22330">
+                <Delegate Name="Type"
+                            ID="22331"
+                            Slot1="slotEventAction_A_Typechanged()"/>
+                <Delegate Name="Number"
+                            ID="22332"
+                            Slot1="slotEventAction_A_Numberchanged()"/>
+                <Delegate Name="Detail"
+                            ID="22333"
+                            Slot1="slotEventAction_A_Detailchanged()"/>
+                <Delegate Name="Group number"
+                            ID="22334"
+                            Slot1="slotEventAction_A_GrpNochanged()"/>
+        </Delegate>
+</Root>

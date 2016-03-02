@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Security Delegate:Basic settings">
+        <MenuGroup
+                Path="Config:Security Delegate:Operation Lock:Operation Lock function"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Security Delegate:Operation Lock:Operation Lock function:Password"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotEnglishInputClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Security Delegate:Operation Lock:Limitations"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Security Delegate:Operation Lock:Limitations:Record"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityPropertyClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:Operation Lock:Limitations:Math"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityPropertyClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:Operation Lock:Limitations:Data save"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityPropertyClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:Operation Lock:Limitations:Message"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityPropertyClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:Operation Lock:Limitations:Batch"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityPropertyClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:Operation Lock:Limitations:AlarmACK"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityPropertyClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:Operation Lock:Limitations:Communication"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityPropertyClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:Operation Lock:Limitations:Touch operation"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityPropertyClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:Operation Lock:Limitations:Time set"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityPropertyClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:Operation Lock:Limitations:Setting operation"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityPropertyClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:Operation Lock:Limitations:External media"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityPropertyClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:Operation Lock:Limitations:System operation"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityPropertyClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:Operation Lock:Limitations:Output operation"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityPropertyClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+
+</Config>

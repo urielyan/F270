@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Batch Delegate">
+        <MenuGroup
+                Path="Config:Batch Delegate:Batch function"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/config/Measure_Menu/Range_Menu/range_c.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/config/Measure_Menu/Range_Menu/range_e.png"
+                Clicked = "none"
+                Include ="none">
+                <MenuNormal
+                        Path="Config:Batch Delegate:Batch function:On/Off"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Batch Delegate:Batch function:Lot-No. digit"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotBatchCommonClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Batch Delegate:Batch function:Auto increment"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Batch Delegate:Batch text"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/config/Measure_Menu/Range_Menu/range_c.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/config/Measure_Menu/Range_Menu/range_e.png"
+                Clicked = "none"
+                Include ="none">
+                <MenuTitle
+                        Path="Config:Batch Delegate:Batch text:Batch text"
+                        Normal = ":/config/AI_Menu/Range_Menu/range.png"
+                        Changed = ":/setting/Image/setting/change.png"
+                        Hint = ":/config/AI_Menu/Range_Menu/range_h.png"
+                        Extend = ":/setting/Image/setting/title.png"
+                        Clicked = "none"
+                        Include =":/config/Image/config/Batch_Menu/config-text.xml"/>
+          </MenuGroup>
+</Config>

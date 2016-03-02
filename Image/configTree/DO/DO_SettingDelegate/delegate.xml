@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delegate Name="DO Delegate" ID="18000">
+
+        <Delegate Name="Range"
+                  ID="18003"
+                  File=":/configtree/Image/configTree/DO/DO_SettingDelegate/delegate-Range.xml"/>
+
+        <Delegate Name="Display settings"
+                  ID="19000"
+                  File=":/configtree/Image/configTree/DO/DO_SettingDelegate/delegate-Display settings.xml"/>
+
+    <Delegate Name="First-CH"
+                ID="18002"
+                Slot1="slotDOFirst_chanSelectchanged()"/>
+    <Delegate Name="Last-CH"
+                ID="18001"
+                Slot1="slotDOLast_chanSelectchanged()"
+                Slot2="slotDODelegateChange()"/>
+</Delegate>

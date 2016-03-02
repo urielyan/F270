@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delegate Name="Measurement Delegate"  ID="21500">
+
+        <Delegate Name="Scan interval"  ID="21510">
+            <Delegate Name="Scan interval"
+                        ID="21511"
+                        Slot1="slotMeasureIntervalChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Over-range"  ID="21520">
+            <Delegate Name="Value on over-range"
+                        ID="21521"
+                        Slot1="slotMeasureOverRangeChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Select unit"   ID="21530">
+            <Delegate Name="Main Unit"   ID="30000">
+                <Delegate Name="Unit 0 Module 0"   ID="30010"/>
+                <Delegate Name="Unit 0 Module 1"   ID="30011"/>
+                <Delegate Name="Unit 0 Module 2"   ID="30012"/>
+                <Delegate Name="Unit 0 Module 3"   ID="30013"/>
+                <Delegate Name="Unit 0 Module 4"   ID="30014"/>
+                <Delegate Name="Unit 0 Module 5"   ID="30015"/>
+                <Delegate Name="Unit 0 Module 6"   ID="30016"/>
+                <Delegate Name="Unit 0 Module 7"   ID="30017"/>
+                <Delegate Name="Unit 0 Module 8"   ID="30018"/>
+                <Delegate Name="Unit 0 Module 9"   ID="30019"/>
+            </Delegate>
+
+            <Delegate Name="Ext Unit 1"   ID="30001">
+                <Delegate Name="Unit 1 Module 0"   ID="30020"/>
+                <Delegate Name="Unit 1 Module 1"   ID="30021"/>
+                <Delegate Name="Unit 1 Module 2"   ID="30022"/>
+                <Delegate Name="Unit 1 Module 3"   ID="30023"/>
+                <Delegate Name="Unit 1 Module 4"   ID="30024"/>
+                <Delegate Name="Unit 1 Module 5"   ID="30025"/>
+            </Delegate>
+
+            <Delegate Name="Ext Unit 2"   ID="30002">
+                <Delegate Name="Unit 2 Module 0"   ID="30030"/>
+                <Delegate Name="Unit 2 Module 1"   ID="30031"/>
+                <Delegate Name="Unit 2 Module 2"   ID="30032"/>
+                <Delegate Name="Unit 2 Module 3"   ID="30033"/>
+                <Delegate Name="Unit 2 Module 4"   ID="30034"/>
+                <Delegate Name="Unit 2 Module 5"   ID="30035"/>
+            </Delegate>
+
+            <Delegate Name="Ext Unit 3"   ID="30003">
+                <Delegate Name="Unit 3 Module 0"   ID="30040"/>
+                <Delegate Name="Unit 3 Module 1"   ID="30041"/>
+                <Delegate Name="Unit 3 Module 2"   ID="30042"/>
+                <Delegate Name="Unit 3 Module 3"   ID="30043"/>
+                <Delegate Name="Unit 3 Module 4"   ID="30044"/>
+                <Delegate Name="Unit 3 Module 5"   ID="30045"/>
+            </Delegate>
+
+            <Delegate Name="Ext Unit 4"   ID="30004">
+                <Delegate Name="Unit 4 Module 0"   ID="30050"/>
+                <Delegate Name="Unit 4 Module 1"   ID="30051"/>
+                <Delegate Name="Unit 4 Module 2"   ID="30052"/>
+                <Delegate Name="Unit 4 Module 3"   ID="30053"/>
+                <Delegate Name="Unit 4 Module 4"   ID="30054"/>
+                <Delegate Name="Unit 4 Module 5"   ID="30055"/>
+            </Delegate>
+
+            <Delegate Name="Ext Unit 5"   ID="30005">
+                <Delegate Name="Unit 5 Module 0"   ID="30060"/>
+                <Delegate Name="Unit 5 Module 1"   ID="30061"/>
+                <Delegate Name="Unit 5 Module 2"   ID="30062"/>
+                <Delegate Name="Unit 5 Module 3"   ID="30063"/>
+                <Delegate Name="Unit 5 Module 4"   ID="30064"/>
+                <Delegate Name="Unit 5 Module 5"   ID="30065"/>
+            </Delegate>
+
+            <Delegate Name="Ext Unit 6"   ID="30006">
+                <Delegate Name="Unit 6 Module 0"   ID="30070"/>
+                <Delegate Name="Unit 6 Module 1"   ID="30071"/>
+                <Delegate Name="Unit 6 Module 2"   ID="30072"/>
+                <Delegate Name="Unit 6 Module 3"   ID="30073"/>
+                <Delegate Name="Unit 6 Module 4"   ID="30074"/>
+                <Delegate Name="Unit 6 Module 5"   ID="30075"/>
+            </Delegate>
+
+            <Delegate Name="A/D integrate"   ID="30103">
+                <Delegate Name="A/D integrate"
+                            ID="30104"
+                            Slot1="slotMeasureADmodechanged()"/>
+            </Delegate>
+
+            <Delegate Name="General signal"   ID="30105">
+                <Delegate Name="Lower limit of burnout set"
+                            ID="30106"
+                            Slot1="slotMeasureBurnLowchanged()"/>
+                <Delegate Name="Upper limit of burnout set"
+                            ID="30107"
+                            Slot1="slotMeasureBurnUpchanged()"/>
+            </Delegate>
+
+            <Delegate Name="DI Operation mode"   ID="30111">
+                <Delegate Name="DI Operation mode"
+                            ID="30112"
+                            Slot1="slotMeasureDIOperModechanged()"/>
+            </Delegate>
+        </Delegate>
+
+</Delegate>

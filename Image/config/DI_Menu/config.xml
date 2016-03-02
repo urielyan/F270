@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:DI Delegate">
+	<MenuTitle
+                Path="Config:DI Delegate:Range"
+                Normal = ":/config/DI_Menu/Range_Menu/range.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/DI_Menu/Range_Menu/range_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/DI_Menu/Range_Menu/config.xml"/>
+	<MenuTitle
+                Path="Config:DI Delegate:Alarm"
+                Normal = ":/config/DI_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/DI_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/DI_Menu/Alarm_Menu/config.xml"/>
+	<MenuTitle
+                Path="Config:DI Delegate:Display settings"
+                Normal = ":/config/DI_Menu/Display_Menu/display.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/DI_Menu/Display_Menu/display_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/DI_Menu/Display_Menu/config.xml"/>
+
+</Config>

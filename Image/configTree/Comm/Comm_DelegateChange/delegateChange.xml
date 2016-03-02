@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication channel Delegate"
+                    Objects="Config:Communication channel settings"/>
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication channel Delegate:On/Off, Span"
+                    Objects="Config:Communication channel settings:On/Off, Span"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication channel Delegate:Alarm"
+                    Objects="Config:Communication channel settings:Alarm"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication channel Delegate:Display settings"
+                    Objects="Config:Communication channel settings:Display settings"/>
+
+
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication channel Delegate:First-CH"
+                    Objects="Config:Communication channel settings:First-CH"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication channel Delegate:Last-CH"
+                    Objects="Config:Communication channel settings:Last-CH"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:On/Off, Span:On/Off, Span"
+                    Objects="Config:Communication channel settings:On/Off, Span:%1:On/Off, Span"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:On/Off, Span:On/Off, Span:On/Off"
+                    Objects="Config:Communication channel settings:On/Off, Span:%1:On/Off, Span:On/Off"/>
+
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:On/Off, Span:On/Off, Span:Decimal place"
+                    Objects="Config:Communication channel settings:On/Off, Span:%1:On/Off, Span:Decimal place"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:On/Off, Span:On/Off, Span:Span Lower"
+                    Objects="Config:Communication channel settings:On/Off, Span:%1:On/Off, Span:Span Lower"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:On/Off, Span:On/Off, Span:Span Upper"
+                    Objects="Config:Communication channel settings:On/Off, Span:%1:On/Off, Span:Span Upper"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:On/Off, Span:On/Off, Span:Unit"
+                    Objects="Config:Communication channel settings:On/Off, Span:%1:On/Off, Span:Unit"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:On/Off, Span:At power on"
+                    Objects="Config:Communication channel settings:On/Off, Span:%1:At power on"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:On/Off, Span:At power on:Value at power on"
+                    Objects="Config:Communication channel settings:On/Off, Span:%1:At power on:Value at power on"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:On/Off, Span:Preset value"
+                    Objects="Config:Communication channel settings:On/Off, Span:%1:Preset value"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:On/Off, Span:Preset value:Preset value"
+                    Objects="Config:Communication channel settings:On/Off, Span:%1:Preset value:Preset value"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:On/Off, Span:Watchdog timer"
+                    Objects="Config:Communication channel settings:On/Off, Span:%1:Watchdog timer"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:On/Off, Span:Watchdog timer:On/Off"
+                    Objects="Config:Communication channel settings:On/Off, Span:%1:Watchdog timer:On/Off"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:On/Off, Span:Watchdog timer:Timer"
+                    Objects="Config:Communication channel settings:On/Off, Span:%1:Watchdog timer:Timer"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:On/Off, Span:Watchdog timer:Value at timer-expired"
+                    Objects="Config:Communication channel settings:On/Off, Span:%1:Watchdog timer:Value at timer-expired"/>
+
+
+
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level1"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level1"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level1:On/Off"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level1:On/Off"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level1:Type"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level1:Type"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level1:Value"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level1:Value"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level1:Hysteresis"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level1:Hysteresis"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level1:Logging"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level1:Logging"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level1:Output type"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level1:Output type"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level1:Output No."
+                    Objects="Config:Communication channel settings:Alarm:%1:Level1:Output No."/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level2"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level2"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level2:On/Off"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level2:On/Off"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level2:Type"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level2:Type"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level2:Value"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level2:Value"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level2:Hysteresis"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level2:Hysteresis"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level2:Logging"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level2:Logging"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level2:Output type"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level2:Output type"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level2:Output No."
+                    Objects="Config:Communication channel settings:Alarm:%1:Level2:Output No."/>
+
+
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level3"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level3"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level3:On/Off"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level3:On/Off"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level3:Type"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level3:Type"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level3:Value"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level3:Value"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level3:Hysteresis"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level3:Hysteresis"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level3:Logging"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level3:Logging"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level3:Output type"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level3:Output type"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level3:Output No."
+                    Objects="Config:Communication channel settings:Alarm:%1:Level3:Output No."/>
+
+
+
+
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level4"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level4"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level4:On/Off"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level4:On/Off"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level4:Type"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level4:Type"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level4:Value"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level4:Value"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level4:Hysteresis"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level4:Hysteresis"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level4:Logging"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level4:Logging"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level4:Output type"
+                    Objects="Config:Communication channel settings:Alarm:%1:Level4:Output type"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Level4:Output No."
+                    Objects="Config:Communication channel settings:Alarm:%1:Level4:Output No."/>
+
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Alarm delay"
+                    Objects="Config:Communication channel settings:Alarm:%1:Alarm delay"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Alarm delay:Hour"
+                    Objects="Config:Communication channel settings:Alarm:%1:Alarm delay:Hour"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Alarm delay:Minute"
+                    Objects="Config:Communication channel settings:Alarm:%1:Alarm delay:Minute"/>
+
+        <DelegateChange Type="Comm-Channel"
+                    Name="Config:Communication channel Delegate:Alarm:Alarm delay:Second"
+                    Objects="Config:Communication channel settings:Alarm:%1:Alarm delay:Second"/>
+
+
+
+
+
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Color"
+                Objects="Config:Communication channel settings:Display settings:%1:Color"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Color:Color"
+                Objects="Config:Communication channel settings:Display settings:%1:Color:Color"/>
+
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Tag"
+                Objects="Config:Communication channel settings:Display settings:%1:Tag"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Tag:Characters"
+                Objects="Config:Communication channel settings:Display settings:%1:Tag:Characters"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Tag:No."
+                Objects="Config:Communication channel settings:Display settings:%1:Tag:No."/>
+
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Zone"
+                Objects="Config:Communication channel settings:Display settings:%1:Zone"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Zone:Upper"
+                Objects="Config:Communication channel settings:Display settings:%1:Zone:Upper"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Zone:Lower"
+                Objects="Config:Communication channel settings:Display settings:%1:Zone:Lower"/>
+
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Scale"
+                Objects="Config:Communication channel settings:Display settings:%1:Scale"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Scale:Position"
+                Objects="Config:Communication channel settings:Display settings:%1:Scale:Position"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Scale:Division"
+                Objects="Config:Communication channel settings:Display settings:%1:Scale:Division"/>
+
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Bar graph"
+                Objects="Config:Communication channel settings:Display settings:%1:Bar graph"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Bar graph:Base position"
+                Objects="Config:Communication channel settings:Display settings:%1:Bar graph:Base position"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Bar graph:Division"
+                Objects="Config:Communication channel settings:Display settings:%1:Bar graph:Division"/>
+
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Partial"
+                Objects="Config:Communication channel settings:Display settings:%1:Partial"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Partial:On/Off"
+                Objects="Config:Communication channel settings:Display settings:%1:Partial:On/Off"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Partial:Expand"
+                Objects="Config:Communication channel settings:Display settings:%1:Partial:Expand"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Partial:Boundary"
+                Objects="Config:Communication channel settings:Display settings:%1:Partial:Boundary"/>
+
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Color scale band"
+                Objects="Config:Communication channel settings:Display settings:%1:Color scale band"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Color scale band:Band area"
+                Objects="Config:Communication channel settings:Display settings:%1:Color scale band:Band area"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Color scale band:Display position Upper"
+                Objects="Config:Communication channel settings:Display settings:%1:Color scale band:Display position Upper"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Color scale band:Display position Lower"
+                Objects="Config:Communication channel settings:Display settings:%1:Color scale band:Display position Lower"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Color scale band:Color"
+                Objects="Config:Communication channel settings:Display settings:%1:Color scale band:Color"/>
+
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Alarm point mark"
+                Objects="Config:Communication channel settings:Display settings:%1:Alarm point mark"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Alarm point mark:Indicate on Scale"
+                Objects="Config:Communication channel settings:Display settings:%1:Alarm point mark:Indicate on Scale"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Alarm point mark:Mark type"
+                Objects="Config:Communication channel settings:Display settings:%1:Alarm point mark:Mark type"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Alarm point mark:Alarm 1 color"
+                Objects="Config:Communication channel settings:Display settings:%1:Alarm point mark:Alarm 1 color"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Alarm point mark:Alarm 2 color"
+                Objects="Config:Communication channel settings:Display settings:%1:Alarm point mark:Alarm 2 color"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Alarm point mark:Alarm 3 color"
+                Objects="Config:Communication channel settings:Display settings:%1:Alarm point mark:Alarm 3 color"/>
+    <DelegateChange Type="Comm-Channel"
+                Name="Config:Communication channel Delegate:Display settings:Alarm point mark:Alarm 4 color"
+                Objects="Config:Communication channel settings:Display settings:%1:Alarm point mark:Alarm 4 color"/>
+
+</Root>
+

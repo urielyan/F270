@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Sound">
+                <Object Name="Touch" ID="22752"/>
+                <Object Name="Warning" ID="22753"/>
+        </Config>
+
+        <Config Name="LED">
+                <Object Name="MENU key LED" ID="22756"/>
+        </Config>
+
+</Root>

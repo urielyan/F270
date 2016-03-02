@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Color" ID="19001">
+                <Delegate Name="Color"
+                            ID="19002"
+                            Slot1="slotDODisp_ColorColorChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Tag" ID="19010">
+                <Delegate Name="Characters"
+                            ID="19011"
+                            Slot1="slotDODisp_TagCharChanged()"/>
+                <Delegate Name="No."
+                            ID="19012"
+                            Slot1="slotDODisp_TagNoChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Zone" ID="19020">
+                <Delegate Name="Upper"
+                            ID="19021"
+                            Slot1="slotDODisp_ZoneUpperChanged()"/>
+                <Delegate Name="Lower"
+                            ID="19022"
+                            Slot1="slotDODisp_ZoneLowerChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Scale" ID="19030">
+                <Delegate Name="Position"
+                            ID="19031"
+                            Slot1="slotDODisp_ScalePosChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Bar graph" ID="19040">
+                <Delegate Name="Base position"
+                            ID="19041"
+                            Slot1="slotDODisp_BarPosChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Display characters of each value" ID="19080">
+                <Delegate Name="0"
+                            ID="19081"
+                            Slot1="slotDODisp_DischarVal0Changed()"/>
+                <Delegate Name="1"
+                            ID="19082"
+                            Slot1="slotDODisp_DischarVal1Changed()"/>
+        </Delegate>
+
+</Root>

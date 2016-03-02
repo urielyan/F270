@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+
+        <Delegate Name="Sound" ID="22751">
+                <Delegate Name="Touch"
+                            ID="22752"
+                            Slot1="slotsystemSoundTouchChange()"/>
+
+                <Delegate Name="Warning"
+                            ID="22753"
+                            Slot1="slotsystemSoundWarningChange()"/>
+
+        </Delegate>
+
+
+        <Delegate Name="LED" ID="22755">
+                <Delegate Name="MENU key LED"
+                            ID="22756"
+                            Slot1="slotsystemSoundLedChange()"/>
+
+        </Delegate>
+
+
+
+
+</Root>

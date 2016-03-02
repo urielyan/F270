@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config Name="Communication channel settings">
+
+        <Config Name="On/Off, Span">
+                <Group Type="Comm-Channel"
+                        File=":/configtree/Image/configTree/Comm/Comm_Setting/config-range.xml"/>
+        </Config>
+
+        <Config Name="Alarm">
+                <Group Type="Comm-Channel"
+                        File=":/configtree/Image/configTree/Comm/Comm_Setting/config-alarm.xml"/>
+        </Config>
+
+        <Config Name="Display settings">
+                <Group Type="Comm-Channel"
+                        File=":/configtree/Image/configTree/Comm/Comm_Setting/config-Display settings.xml"/>
+        </Config>
+
+        <Object Name="First-CH" ID="22501"/>
+        <Object Name="Last-CH" ID="22502"/>
+</Config>

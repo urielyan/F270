@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:System Delegate:Printer settings:Resolution (dpi)"
+                    Val="0" ID="22784">
+    </ValueChange>
+
+    <ValueChange    Name="Config:System Delegate:Printer settings:Resolution (dpi)"
+                    Val="1" ID="22784">
+    </ValueChange>
+</Root>

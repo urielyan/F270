@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Event Delegate:Event action:On/Off"
+                    Val="0" ID="22311">
+        <Delegate Name="Config:Event Delegate:Event"
+                  Hide="true"/>
+        <Delegate Name="Config:Event Delegate:Action"
+                  Hide="true"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Event Delegate:Event action:On/Off"
+                    Val="1" ID="22311">
+
+        <Delegate Name="Config:Event Delegate:Event"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Event Delegate:Event:Type"
+                  Hide="slot"/>
+        <Delegate Name="Config:Event Delegate:Event:Operation mode"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Event Delegate:Action"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Event Delegate:Action:Type"
+                  Hide="slot"/>
+    </ValueChange>
+
+</Root>

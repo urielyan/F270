@@ -1,0 +1,11 @@
+<Delegate Name="Report Delegate" ID="22000">
+
+        <Delegate Name="Basic settings"
+                    ID="22001"
+                    File=":/configtree/Image/configTree/Report/Report_Delegate/delegate-Basic.xml"/>
+
+        <Delegate Name="Report channel settings"
+                    ID="22060"
+                    File=":/configtree/Image/configTree/Report/Report_Delegate/delegate-Channel.xml"/>
+
+</Delegate>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config Name="Data save settings">
+
+        <Config Name="Save directory">
+                <Object Name="Directory name" ID="21702"/>
+        </Config>
+
+        <Config Name="File header">
+                <Object Name="Characters" ID="21712"/>
+        </Config>
+
+        <Config Name="Data file name">
+                <Object Name="Structure" ID="21721"/>
+                <Object Name="Identified strings" ID="21722"/>
+        </Config>
+
+        <Config Name="Media save">
+                <Object Name="Auto save" ID="21731"/>
+                <Object Name="Media FIFO" ID="21732"/>
+        </Config>
+
+        <Config Name="File format">
+                <Object Name="Display / Event data" ID="21741"/>
+        </Config>
+
+</Config>

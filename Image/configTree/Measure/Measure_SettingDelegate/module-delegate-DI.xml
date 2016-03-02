@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <DelegateChange Type="Module"
+            Name="Config:Measurement Delegate:Select unit:DI Operation mode"
+            Objects="Config:Measurement settings:Select unit:%1:%2:DI Operation mode"/>
+
+    <DelegateChange Type="Module"
+            Name="Config:Measurement Delegate:Select unit:DI Operation mode:DI Operation mode"
+            Objects="Config:Measurement settings:Select unit:%1:%2:DI Operation mode:DI Operation mode"/>
+
+</Root>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Command settings">
+                <Object Name="Type" ID="20473"/>
+                <Object Name="Server" ID="20474"/>
+                <Object Name="Unit No." ID="20475"/>
+                <Object Name="Data type" ID="20476"/>
+                <Object Name="Register" ID="20477"/>
+                <Object Name="Channel type" ID="20478"/>
+                <Object Name="First-CH" ID="20479"/>
+                <Object Name="Last-CH" ID="20480"/>
+        </Config>
+
+</Root>
+
+
+
+

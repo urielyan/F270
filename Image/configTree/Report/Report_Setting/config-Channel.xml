@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Object Name="number" ID="22061"/>
+
+        <Group Type="Report-Channel"
+                    File=":/configtree/Image/configTree/Report/Report_Setting/config-Channel-setting.xml"/>
+
+</Root>

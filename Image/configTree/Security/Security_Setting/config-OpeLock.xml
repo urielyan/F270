@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Operation Lock function">
+            <Object Name="Password" ID="24022"/>
+        </Config>
+
+        <Config Name="Limitations">
+            <Object Name="Record" ID="24031"/>
+            <Object Name="Math" ID="24032"/>
+            <Object Name="Data save" ID="24033"/>
+            <Object Name="Message" ID="24034"/>
+            <Object Name="Batch" ID="24035"/>
+            <Object Name="AlarmACK" ID="24036"/>
+            <Object Name="Communication" ID="24037"/>
+            <Object Name="Touch operation" ID="24038"/>
+            <Object Name="Time set" ID="24039"/>
+            <Object Name="Setting operation" ID="24040"/>
+            <Object Name="External media" ID="24041"/>
+            <Object Name="System operation" ID="24042"/>
+            <Object Name="Output operation" ID="24043"/>
+        </Config>
+
+</Root>

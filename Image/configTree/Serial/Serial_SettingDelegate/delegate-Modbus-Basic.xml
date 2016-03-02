@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="Master function" ID="22422">
+                <Delegate Name="On/Off"
+                            ID="22423"
+                            Slot1="slotSerialModbusFunctionChange()"/>
+        </Delegate>
+
+        <Delegate Name="Communication" ID="22430">
+                <Delegate Name="Interval"
+                            ID="22431"
+                            Slot1="slotSerialModbusIntervalChange()"/>
+                <Delegate Name="Communication timeout"
+                            ID="22432"
+                            Slot1="slotSerialModbusTimeoutChange()"/>
+                <Delegate Name="Gap between message"
+                            ID="22433"
+                            Slot1="slotSerialModbusGapChange()"/>
+        </Delegate>
+
+        <Delegate Name="Recovery action" ID="22440">
+                <Delegate Name="Retry"
+                            ID="22441"
+                            Slot1="slotSerialModbusRecoverChange()"/>
+                <Delegate Name="Wait time"
+                            ID="22442"
+                            Slot1="slotSerialModbusWaitTimeChange()"/>
+        </Delegate>
+
+</Root>

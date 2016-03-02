@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:DO Delegate:Display settings:Bar graph:Base position"
+                    Val="0" ID="19041">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:DO Delegate:Display settings:Bar graph:Base position"
+                    Val="1" ID="19041">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:DO Delegate:Display settings:Bar graph:Base position"
+                    Val="2" ID="19041">
+
+    </ValueChange>
+
+</Root>

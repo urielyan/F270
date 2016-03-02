@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Object Name="Language" ID="22702"/>
+        <Object Name="Temperature" ID="22703"/>
+        <Object Name="Decimal Point Type" ID="22704"/>
+
+        <Config Name="Date format">
+                <Object Name="Date format" ID="22711"/>
+                <Object Name="Delimiter" ID="22712"/>
+                <Object Name="Month indicator" ID="22713"/>
+        </Config>
+
+</Root>

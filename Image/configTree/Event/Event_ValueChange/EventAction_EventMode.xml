@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Event Delegate:Event:Operation mode"
+                    Val="0" ID="22325">
+        <Delegate Name="Config:Event Delegate:Action:Type"
+                  Hide="refresh"
+                  Value="12"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Event Delegate:Event:Operation mode"
+                    Val="1" ID="22325">
+        <Delegate Name="Config:Event Delegate:Action:Type"
+                  Hide="refresh"
+                  Value="12"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Event Delegate:Event:Operation mode"
+                    Val="2" ID="22325">
+        <Delegate Name="Config:Event Delegate:Action:Type"
+                  Hide="refresh"
+                  Value="2"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Event Delegate:Event:Operation mode"
+                    Val="3" ID="22325">
+        <Delegate Name="Config:Event Delegate:Action:Type"
+                  Hide="refresh"
+                  Value="12"/>
+    </ValueChange>
+
+</Root>

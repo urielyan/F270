@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Communication (Ethernet) Delegate:Modbus client settings">
+        <MenuTitle
+                Path="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings"
+		Type = "normal"
+		Normal = ":/config/AI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change.png"
+		Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Ethernet_Menu/modbus_menu/basic_menu/config.xml"/>
+        <MenuTitle
+                Path="Config:Communication (Ethernet) Delegate:Modbus client settings:Modbus server settings"
+		Type = "normal"
+		Normal = ":/config/AI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change.png"
+		Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Ethernet_Menu/modbus_menu/server_menu/config.xml"/>
+
+        <MenuTitle
+                Path="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings"
+                Type = "normal"
+                Normal = ":/config/AI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Ethernet_Menu/modbus_menu/command_menu/config.xml"/>
+
+</Config>

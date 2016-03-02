@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Communication (Ethernet) Delegate:SNTP client settings">
+	<MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP client function"
+		Type = "group"
+		Normal = "none"
+		Changed = "none"
+		Hint = "none"
+		Extend = "none">
+		<MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP client function:On/Off"
+			Type = "normal"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+	</MenuGroup>
+
+        <MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP server"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP server:SNTP server name"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotEnglishInputClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP server:Port number"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:SNTP client settings:Query action"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:SNTP client settings:Query action:Interval"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSNTPIntervalCLicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:SNTP client settings:Query action:Timeout"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSNTPTimeoutCLicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:SNTP client settings:Query action:Time adjust on Start action"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+</Config>

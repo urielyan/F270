@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config Name="DO channel settings">
+
+    <Config Name="Range">
+            <Group Type="DO-Channel"
+                          File=":/configtree/Image/configTree/DO/DO_Setting/config-Range.xml"/>
+    </Config>
+
+    <Config Name="Display settings">
+            <Group Type="DO-Channel"
+                          File=":/configtree/Image/configTree/DO/DO_Setting/config-Display settings.xml"/>
+    </Config>
+
+    <Object Name="First-CH" ID="18001"/>
+    <Object Name="Last-CH" ID="18002"/>
+</Config>

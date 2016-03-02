@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Math Delegate:Display settings:Partial:On/Off"
+                    Val="0" ID="21151">
+        <Delegate Name="Config:Math Delegate:Display settings:Partial:Boundary"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Math Delegate:Display settings:Partial:Expand"
+                  Hide="true"
+                  Value=""/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Display settings:Partial:On/Off"
+                    Val="1" ID="21151">
+        <Delegate Name="Config:Math Delegate:Display settings:Partial:Boundary"
+                  Hide="slot"/>
+        <Delegate Name="Config:Math Delegate:Display settings:Partial:Expand"
+                  Hide="slot"/>
+    </ValueChange>
+
+</Root>

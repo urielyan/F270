@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Pre-trigger"
+                    Val="0" ID="21617">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Pre-trigger"
+                    Val="5" ID="21617">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Pre-trigger"
+                    Val="25" ID="21617">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Pre-trigger"
+                    Val="50" ID="21617">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Pre-trigger"
+                    Val="75" ID="21617">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Pre-trigger"
+                    Val="95" ID="21617">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Pre-trigger"
+                    Val="100" ID="21617">
+
+    </ValueChange>
+
+</Root>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:System Delegate:Alarm basic settings">
+        <MenuGroup
+                Path="Config:System Delegate:Alarm basic settings:Rate of change"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:System Delegate:Alarm basic settings:Rate of change:Decrease"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotModbusServerSettingNumberClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:System Delegate:Alarm basic settings:Rate of change:Increase"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotModbusServerSettingNumberClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:System Delegate:Alarm basic settings:Indicator"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:System Delegate:Alarm basic settings:Indicator:Hold/Nonhold"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSystemAlarmHoldClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:System Delegate:Alarm basic settings:AlarmACK"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:System Delegate:Alarm basic settings:AlarmACK:Individual alarm ACK"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSwitchClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+
+</Config>

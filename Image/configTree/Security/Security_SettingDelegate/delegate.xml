@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delegate Name="Security Delegate" ID="24000">
+
+    <Delegate Name="Basic settings"
+                ID="24001"
+                File=":/configtree/Image/configTree/Security/Security_SettingDelegate/delegate-Basic.xml"/>
+
+    <Delegate Name="Operation Lock"
+                ID="24020"
+                File=":/configtree/Image/configTree/Security/Security_SettingDelegate/delegate-OpeLock.xml"/>
+
+    <Delegate Name="User settings"
+                ID="24050"
+                File=":/configtree/Image/configTree/Security/Security_SettingDelegate/delegate-Settings.xml"/>
+
+    <Delegate Name="User property"
+                ID="24071"
+                File=":/configtree/Image/configTree/Security/Security_SettingDelegate/delegate-Property.xml"/>
+
+    <Delegate Name="User number"
+                ID="24051"
+                Slot1="slotSecuritySettingUserNumChange()"
+                Slot2="slotSecurityDelegateChange()"/>
+    <Delegate Name="Authority number"
+                ID="24072"
+                Slot1="slotSecurityPropertyNumChange()"
+                Slot2="slotSecurityDelegateChange()"/>
+
+</Delegate>

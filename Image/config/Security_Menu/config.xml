@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Security Delegate">
+        <MenuTitle
+                Path="Config:Security Delegate:Basic settings"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Security_Menu/Basic_Menu/config.xml"/>
+        <MenuTitle
+                Path="Config:Security Delegate:Operation Lock"
+                Normal = ":/config/Measure_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Security_Menu/OpeLock_Menu/config.xml"/>
+        <MenuTitle
+                Path="Config:Security Delegate:User settings"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Security_Menu/UserSet_Menu/config.xml"/>
+        <MenuTitle
+                Path="Config:Security Delegate:User property"
+                Normal = ":/config/Measure_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Security_Menu/UserAuth_Menu/config.xml"/>
+</Config>

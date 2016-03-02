@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Timer Delegate">
+        <MenuGroup
+                Path="Config:Timer Delegate:Timer"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/config/Measure_Menu/Range_Menu/range_c.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/config/Measure_Menu/Range_Menu/range_e.png"
+                Clicked = "none"
+                Include ="none">
+                <MenuTitle
+                        Path="Config:Timer Delegate:Timer:Timer1"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/setting/Image/setting/title.png"
+                        Clicked = "none"
+                        Include =":/config/Image/config/Timer_Menu/config-Time1.xml"/>
+                <MenuTitle
+                        Path="Config:Timer Delegate:Timer:Timer2"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/setting/Image/setting/title.png"
+                        Clicked = "none"
+                        Include =":/config/Image/config/Timer_Menu/config-Time2.xml"/>
+                <MenuTitle
+                        Path="Config:Timer Delegate:Timer:Timer3"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/setting/Image/setting/title.png"
+                        Clicked = "none"
+                        Include =":/config/Image/config/Timer_Menu/config-Time3.xml"/>
+                <MenuTitle
+                        Path="Config:Timer Delegate:Timer:Timer4"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/setting/Image/setting/title.png"
+                        Clicked = "none"
+                        Include =":/config/Image/config/Timer_Menu/config-Time4.xml"/>
+        </MenuGroup>
+        <MenuGroup
+                Path="Config:Timer Delegate:Match time timer"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/config/Measure_Menu/Range_Menu/range_c.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/config/Measure_Menu/Range_Menu/range_e.png"
+                Clicked = "none"
+                Include ="none">
+                <MenuTitle
+                        Path="Config:Timer Delegate:Match time timer:Match time timer1"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/setting/Image/setting/title.png"
+                        Clicked = "none"
+                        Include =":/config/Image/config/Timer_Menu/config-MatchTime1.xml"/>
+                <MenuTitle
+                        Path="Config:Timer Delegate:Match time timer:Match time timer2"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/setting/Image/setting/title.png"
+                        Clicked = "none"
+                        Include =":/config/Image/config/Timer_Menu/config-MatchTime2.xml"/>
+                <MenuTitle
+                        Path="Config:Timer Delegate:Match time timer:Match time timer3"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/setting/Image/setting/title.png"
+                        Clicked = "none"
+                        Include =":/config/Image/config/Timer_Menu/config-MatchTime3.xml"/>
+                <MenuTitle
+                        Path="Config:Timer Delegate:Match time timer:Match time timer4"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/setting/Image/setting/title.png"
+                        Clicked = "none"
+                        Include =":/config/Image/config/Timer_Menu/config-MatchTime4.xml"/>
+        </MenuGroup>
+</Config>

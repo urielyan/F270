@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="Client command number"
+                    ID="20471"
+                    Slot1="slotNetworkModbusCommandNumberChange()"
+                    Slot2="slotNetworkDelegateChange()"/>
+
+        <Delegate Name="Command settings"
+                    ID="20472"
+                    File=":/configtree/Image/configTree/Network/Network_SettingDelegate/delegate-Modbus-CommandSetting-Command.xml"/>
+</Root>

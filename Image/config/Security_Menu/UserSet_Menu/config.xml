@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Security Delegate:User settings">
+        <MenuNormal
+            Path="Config:Security Delegate:User number"
+            Type = "normal"
+            Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+            Changed = ":/setting/Image/setting/change.png"
+            Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+            Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+            Clicked = "slotSecurityUserNumClicked()"
+            Include ="none"/>
+
+        <MenuGroup
+                Path="Config:Security Delegate:User settings:User settings"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Security Delegate:User settings:User settings:User level"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityUserLvlClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:User settings:User settings:Mode"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityUserModeClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:User settings:User settings:User name"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotEnglishInputClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:User settings:User settings:Initialize password"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSecurityUserInitClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:User settings:User settings:User property"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSwitchClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Security Delegate:User settings:User settings:Authority number"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotNumericKeypadClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+
+</Config>

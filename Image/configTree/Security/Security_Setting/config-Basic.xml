@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Security function">
+            <Object Name="Touch operation" ID="24003"/>
+            <Object Name="Communication" ID="24004"/>
+        </Config>
+
+        <Config Name="Logout">
+            <Object Name="Auto logout" ID="24011"/>
+            <Object Name="Operation without Login" ID="24012"/>
+        </Config>
+
+</Root>

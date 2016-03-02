@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server:Port number"
+                    ID="20231">
+    </ValueChange>
+
+</Root>

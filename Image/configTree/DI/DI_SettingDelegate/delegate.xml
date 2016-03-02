@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delegate Name="DI Delegate" ID="15000">
+
+        <Delegate Name="Range"
+                  ID="15003"
+                  File=":/configtree/Image/configTree/DI/DI_SettingDelegate/delegate-Range.xml"/>
+
+        <Delegate Name="Alarm"
+                  ID="16000"
+                  File=":/configtree/Image/configTree/DI/DI_SettingDelegate/delegate-Alarm.xml"/>
+
+        <Delegate Name="Display settings"
+                  ID="17000"
+                  File=":/configtree/Image/configTree/DI/DI_SettingDelegate/delegate-Display settings.xml"/>
+
+    <Delegate Name="First-CH"
+                ID="15002"
+                Slot1="slotDIFirst_chanSelectchanged()"/>
+    <Delegate Name="Last-CH"
+                ID="15001"
+                Slot1="slotDILast_chanSelectchanged()"
+                Slot2="slotDIDelegateChange()"/>
+</Delegate>

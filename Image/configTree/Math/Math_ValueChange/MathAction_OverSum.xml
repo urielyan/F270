@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Math Delegate:Math action settings:Value on Overflow:SUM, AVE"
+                    Val="0" ID="21184">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Math action settings:Value on Overflow:SUM, AVE"
+                    Val="1" ID="21184">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Math action settings:Value on Overflow:SUM, AVE"
+                    Val="2" ID="21184">
+
+    </ValueChange>
+
+</Root>

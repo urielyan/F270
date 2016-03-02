@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Type:Type"
+                    Val="0" ID="22152">
+                    <Delegate Name="Config:Timer Delegate:Timer:Timer3:Interval"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Timer:Timer3:Interval:Day"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Timer:Timer3:Interval:Hour"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Timer:Timer3:Interval:Minute"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                              Hide="true"
+                              Value=""/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Type:Type"
+                    Val="1" ID="22152">
+                    <Delegate Name="Config:Timer Delegate:Timer:Timer3:Interval"
+                              Hide="false"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Timer:Timer3:Interval:Day"
+                              Hide="false"
+                              Value="0"/>
+
+                    <Delegate Name="Config:Timer Delegate:Timer:Timer3:Interval:Hour"
+                              Hide="false"
+                              Value="0"/>
+
+                    <Delegate Name="Config:Timer Delegate:Timer:Timer3:Interval:Minute"
+                              Hide="false"
+                              Value="1"/>
+
+                    <Delegate Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                              Hide="true"
+                              Value=""/>
+    </ValueChange>
+
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Type:Type"
+                    Val="2" ID="22152">
+                    <Delegate Name="Config:Timer Delegate:Timer:Timer3:Interval"
+                              Hide="false"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Timer:Timer3:Interval:Day"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Timer:Timer3:Interval:Hour"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Timer:Timer3:Interval:Minute"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                              Hide="false"
+                              Value="60"/>
+    </ValueChange>
+
+</Root>
+
+
+
+
+
+

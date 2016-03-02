@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="Type" ID="22241">
+                <Delegate Name="Type"
+                            ID="22242"
+                            Slot1="slotTImerSettingMatchTime3TypeChange()"/>
+        </Delegate>
+
+        <Delegate Name="Timer match condition" ID="22250">
+                <Delegate Name="Month"
+                            ID="22251"
+                            Slot1="slotTImerSettingMatchTime3MonthChange()"/>
+
+                <Delegate Name="Day"
+                            ID="22252"
+                            Slot1="slotTImerSettingMatchTime3DayChange()"/>
+
+                <Delegate Name="Day of week"
+                            ID="22253"
+                            Slot1="slotTImerSettingMatchTime3WeekChange()"/>
+
+                <Delegate Name="Hour"
+                            ID="22254"
+                            Slot1="slotTImerSettingMatchTime3HourChange()"/>
+
+                <Delegate Name="Minute"
+                            ID="22255"
+                            Slot1="slotTImerSettingMatchTime3MinuteChange()"/>
+        </Delegate>
+
+        <Delegate Name="Timer action" ID="22591">
+                <Delegate Name="Timer action"
+                            ID="22256"
+                            Slot1="slotTImerSettingMatchTime3ActionChange()"/>
+        </Delegate>
+
+</Root>

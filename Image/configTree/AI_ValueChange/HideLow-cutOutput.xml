@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="2"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="2">
+        <Factor Name="Config:AI Delegate:Range:Low-cut:Low-cut output"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+</Root>

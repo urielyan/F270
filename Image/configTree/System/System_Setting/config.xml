@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config Name="System settings">
+
+    <Config Name="Environment(Lanuage) settings"
+            File=":/configtree/Image/configTree/System/System_Setting/config-Environment.xml">
+    </Config>
+
+    <Config Name="Alarm basic settings"
+            File=":/configtree/Image/configTree/System/System_Setting/config-Alarm.xml">
+    </Config>
+
+    <Config Name="Time basic settings"
+            File=":/configtree/Image/configTree/System/System_Setting/config-Time.xml">
+    </Config>
+
+    <Config Name="Internal switch settings"
+            File=":/configtree/Image/configTree/System/System_Setting/config-Internal.xml">
+    </Config>
+
+    <Config Name="Status relay"
+            File=":/configtree/Image/configTree/System/System_Setting/config-Relay.xml">
+    </Config>
+
+    <Config Name="Printer settings"
+            File=":/configtree/Image/configTree/System/System_Setting/config-Printer.xml">
+    </Config>
+
+    <Config Name="Sound, LED"
+            File=":/configtree/Image/configTree/System/System_Setting/config-Sound.xml">
+    </Config>
+
+    <Config Name="Instrument tag"
+            File=":/configtree/Image/configTree/System/System_Setting/config-Instrument.xml">
+    </Config>
+
+    <Config Name="Settings file"
+            File=":/configtree/Image/configTree/System/System_Setting/config-File.xml">
+    </Config>
+
+</Config>

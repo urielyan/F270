@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate"
+            Objects="Config:Measurement settings"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Scan interval"
+            Objects="Config:Measurement settings:Scan interval"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Scan interval:Scan interval"
+            Objects="Config:Measurement settings:Scan interval:Scan interval"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Over-range"
+            Objects="Config:Measurement settings:Over-range"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Over-range:Value on over-range"
+            Objects="Config:Measurement settings:Over-range:Value on over-range"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit"
+            Objects="Config:Measurement settings:Select unit"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Main Unit"
+            Objects="Config:Measurement settings:Select unit:Main Unit"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Main Unit:Unit 0 Module 0"
+            Objects="Config:Measurement settings:Select unit:Main Unit:Unit 0 Module 0"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Main Unit:Unit 0 Module 1"
+            Objects="Config:Measurement settings:Select unit:Main Unit:Unit 0 Module 1"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Main Unit:Unit 0 Module 2"
+            Objects="Config:Measurement settings:Select unit:Main Unit:Unit 0 Module 2"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Main Unit:Unit 0 Module 3"
+            Objects="Config:Measurement settings:Select unit:Main Unit:Unit 0 Module 3"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Main Unit:Unit 0 Module 4"
+            Objects="Config:Measurement settings:Select unit:Main Unit:Unit 0 Module 4"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Main Unit:Unit 0 Module 5"
+            Objects="Config:Measurement settings:Select unit:Main Unit:Unit 0 Module 5"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Main Unit:Unit 0 Module 6"
+            Objects="Config:Measurement settings:Select unit:Main Unit:Unit 0 Module 6"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Main Unit:Unit 0 Module 7"
+            Objects="Config:Measurement settings:Select unit:Main Unit:Unit 0 Module 7"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Main Unit:Unit 0 Module 8"
+            Objects="Config:Measurement settings:Select unit:Main Unit:Unit 0 Module 8"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Main Unit:Unit 0 Module 9"
+            Objects="Config:Measurement settings:Select unit:Main Unit:Unit 0 Module 9"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 1"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 1"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 1:Unit 1 Module 0"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 1:Unit 1 Module 0"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 1:Unit 1 Module 1"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 1:Unit 1 Module 1"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 1:Unit 1 Module 2"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 1:Unit 1 Module 2"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 1:Unit 1 Module 3"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 1:Unit 1 Module 3"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 1:Unit 1 Module 4"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 1:Unit 1 Module 4"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 1:Unit 1 Module 5"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 1:Unit 1 Module 5"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 2"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 2"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 2:Unit 2 Module 0"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 2:Unit 2 Module 0"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 2:Unit 2 Module 1"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 2:Unit 2 Module 1"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 2:Unit 2 Module 2"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 2:Unit 2 Module 2"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 2:Unit 2 Module 3"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 2:Unit 2 Module 3"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 2:Unit 2 Module 4"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 2:Unit 2 Module 4"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 2:Unit 2 Module 5"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 2:Unit 2 Module 5"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 3"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 3"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 3:Unit 3 Module 0"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 3:Unit 3 Module 0"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 3:Unit 3 Module 1"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 3:Unit 3 Module 1"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 3:Unit 3 Module 2"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 3:Unit 3 Module 2"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 3:Unit 3 Module 3"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 3:Unit 3 Module 3"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 3:Unit 3 Module 4"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 3:Unit 3 Module 4"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 3:Unit 3 Module 5"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 3:Unit 3 Module 5"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 4"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 4"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 4:Unit 4 Module 0"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 4:Unit 4 Module 0"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 4:Unit 4 Module 1"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 4:Unit 4 Module 1"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 4:Unit 4 Module 2"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 4:Unit 4 Module 2"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 4:Unit 4 Module 3"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 4:Unit 4 Module 3"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 4:Unit 4 Module 4"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 4:Unit 4 Module 4"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 4:Unit 4 Module 5"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 4:Unit 4 Module 5"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 5"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 5"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 5:Unit 5 Module 0"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 5:Unit 5 Module 0"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 5:Unit 5 Module 1"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 5:Unit 5 Module 1"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 5:Unit 5 Module 2"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 5:Unit 5 Module 2"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 5:Unit 5 Module 3"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 5:Unit 5 Module 3"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 5:Unit 5 Module 4"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 5:Unit 5 Module 4"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 5:Unit 5 Module 5"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 5:Unit 5 Module 5"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 6"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 6"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 6:Unit 6 Module 0"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 6:Unit 6 Module 0"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 6:Unit 6 Module 1"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 6:Unit 6 Module 1"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 6:Unit 6 Module 2"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 6:Unit 6 Module 2"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 6:Unit 6 Module 3"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 6:Unit 6 Module 3"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 6:Unit 6 Module 4"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 6:Unit 6 Module 4"/>
+
+    <DelegateChange Type="Unique"
+            Name="Config:Measurement Delegate:Select unit:Ext Unit 6:Unit 6 Module 5"
+            Objects="Config:Measurement settings:Select unit:Ext Unit 6:Unit 6 Module 5"/>
+</Root>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="Level1" ID="22551">
+                <Delegate Name="On/Off"
+                            ID="22552"
+                            Slot1="slotCommAlarmL1SwitchChange()"
+                            Slot2="slotCommAlarmDelayHideChange()"/>
+
+                <Delegate Name="Type"
+                            ID="22553"
+                            Slot1="slotCommAlarmL1TypeChange()"/>
+
+                <Delegate Name="Value"
+                            ID="22554"
+                            Slot1="slotCommAlarmL1ValueChange()"/>
+
+                <Delegate Name="Hysteresis"
+                            ID="22555"
+                            Slot1="slotCommAlarmL1HysteresisChange()"/>
+
+                <Delegate Name="Logging"
+                            ID="22556"
+                            Slot1="slotCommAlarmL1LoggingChange()"/>
+
+                <Delegate Name="Output type"
+                            ID="22557"
+                            Slot1="slotCommAlarmL1OutTypeChange()"/>
+
+                <Delegate Name="Output No."
+                            ID="22558"
+                            Slot1="slotCommAlarmL1OutNOChange()"/>
+        </Delegate>
+
+        <Delegate Name="Level2" ID="22561">
+                <Delegate Name="On/Off"
+                            ID="22562"
+                            Slot1="slotCommAlarmL2SwitchChange()"
+                            Slot2="slotCommAlarmDelayHideChange()"/>
+
+                <Delegate Name="Type"
+                            ID="22563"
+                            Slot1="slotCommAlarmL2TypeChange()"/>
+
+                <Delegate Name="Value"
+                            ID="22564"
+                            Slot1="slotCommAlarmL2ValueChange()"/>
+
+                <Delegate Name="Hysteresis"
+                            ID="22565"
+                            Slot1="slotCommAlarmL2HysteresisChange()"/>
+
+                <Delegate Name="Logging"
+                            ID="22566"
+                            Slot1="slotCommAlarmL2LoggingChange()"/>
+
+                <Delegate Name="Output type"
+                            ID="22567"
+                            Slot1="slotCommAlarmL2OutTypeChange()"/>
+
+                <Delegate Name="Output No."
+                            ID="22568"
+                            Slot1="slotCommAlarmL2OutNOChange()"/>
+        </Delegate>
+
+        <Delegate Name="Level3" ID="22571">
+                <Delegate Name="On/Off"
+                            ID="22572"
+                            Slot1="slotCommAlarmL3SwitchChange()"
+                            Slot2="slotCommAlarmDelayHideChange()"/>
+
+                <Delegate Name="Type"
+                            ID="22573"
+                            Slot1="slotCommAlarmL3TypeChange()"/>
+
+                <Delegate Name="Value"
+                            ID="22574"
+                            Slot1="slotCommAlarmL3ValueChange()"/>
+
+                <Delegate Name="Hysteresis"
+                            ID="22575"
+                            Slot1="slotCommAlarmL3HysteresisChange()"/>
+
+                <Delegate Name="Logging"
+                            ID="22576"
+                            Slot1="slotCommAlarmL3LoggingChange()"/>
+
+                <Delegate Name="Output type"
+                            ID="22577"
+                            Slot1="slotCommAlarmL3OutTypeChange()"/>
+
+                <Delegate Name="Output No."
+                            ID="22578"
+                            Slot1="slotCommAlarmL3OutNOChange()"/>
+        </Delegate>
+
+        <Delegate Name="Level4" ID="22581">
+                <Delegate Name="On/Off"
+                            ID="22582"
+                            Slot1="slotCommAlarmL4SwitchChange()"
+                            Slot2="slotCommAlarmDelayHideChange()"/>
+
+                <Delegate Name="Type"
+                            ID="22583"
+                            Slot1="slotCommAlarmL4TypeChange()"/>
+
+                <Delegate Name="Value"
+                            ID="22584"
+                            Slot1="slotCommAlarmL4ValueChange()"/>
+
+                <Delegate Name="Hysteresis"
+                            ID="22585"
+                            Slot1="slotCommAlarmL4HysteresisChange()"/>
+
+                <Delegate Name="Logging"
+                            ID="22586"
+                            Slot1="slotCommAlarmL4LoggingChange()"/>
+
+                <Delegate Name="Output type"
+                            ID="22587"
+                            Slot1="slotCommAlarmL4OutTypeChange()"/>
+
+                <Delegate Name="Output No."
+                            ID="22588"
+                            Slot1="slotCommAlarmL4OutNOChange()"/>
+        </Delegate>
+
+        <Delegate Name="Alarm delay" ID="22591">
+                <Delegate Name="Hour"
+                            ID="22594"
+                            Slot1="slotCommAlarmDelayHourChange()"/>
+
+                <Delegate Name="Minute"
+                            ID="22593"
+                            Slot1="slotCommAlarmDelayMinuteChange()"/>
+
+                <Delegate Name="Second"
+                            ID="22592"
+                            Slot1="slotCommAlarmDelaySecendChange()"/>
+        </Delegate>
+
+</Root>

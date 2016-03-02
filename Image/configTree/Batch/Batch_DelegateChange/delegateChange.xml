@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Batch Delegate"
+                    Objects="Config:Batch settings"/>
+
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Batch Delegate:Batch function"
+                    Objects="Config:Batch settings:Batch function"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Batch Delegate:Batch text"
+                    Objects="Config:Batch settings:Batch text"/>
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Batch Delegate:Batch function:On/Off"
+                    Objects="Config:Batch settings:Batch function:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Batch Delegate:Batch function:Lot-No. digit"
+                    Objects="Config:Batch settings:Batch function:Lot-No. digit"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Batch Delegate:Batch function:Auto increment"
+                    Objects="Config:Batch settings:Batch function:Auto increment"/>
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Batch Delegate:Batch text:Batch text"
+                    Objects="Config:Batch settings:Batch text:Batch text"/>
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Batch Delegate:Batch text:Batch text:Text num"
+                    Objects="Config:Batch settings:Batch text:Batch text:Text num"/>
+
+
+        <DelegateChange Type="Batch-Text"
+                    Name="Config:Batch Delegate:Batch text:Batch text:Text field"
+                    Objects="Config:Batch settings:Batch text:Batch text:%1:Text field"/>
+
+
+        <DelegateChange Type="Batch-Text"
+                    Name="Config:Batch Delegate:Batch text:Batch text:Text field:Title of field"
+                    Objects="Config:Batch settings:Batch text:Batch text:%1:Text field:Title of field"/>
+
+        <DelegateChange Type="Batch-Text"
+                    Name="Config:Batch Delegate:Batch text:Batch text:Text field:Characters"
+                    Objects="Config:Batch settings:Batch text:Batch text:%1:Text field:Characters"/>
+
+</Root>
+

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Timer Delegate:Match time timer:Match time timer1:Type:Type"
+                    Val="0" ID="22202">
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Month"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Day"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Day of week"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Hour"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Minute"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer action"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer action:Timer action"
+                              Hide="true"
+                              Value=""/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Match time timer:Match time timer1:Type:Type"
+                    Val="1" ID="22202">
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition"
+                              Hide="false"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Month"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Day"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Day of week"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Hour"
+                              Hide="false"
+                              Value="0"/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Minute"
+                              Hide="false"
+                              Value="0"/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer action"
+                              Hide="false"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer action:Timer action"
+                              Hide="false"
+                              Value="1"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Match time timer:Match time timer1:Type:Type"
+                    Val="2" ID="22202">
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition"
+                              Hide="false"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Month"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Day"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Day of week"
+                              Hide="false"
+                              Value="0"/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Hour"
+                              Hide="false"
+                              Value="0"/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Minute"
+                              Hide="false"
+                              Value="0"/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer action"
+                              Hide="false"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer action:Timer action"
+                              Hide="false"
+                              Value="1"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Match time timer:Match time timer1:Type:Type"
+                    Val="3" ID="22202">
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition"
+                              Hide="false"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Month"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Day"
+                              Hide="false"
+                              Value="1"/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Day of week"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Hour"
+                              Hide="false"
+                              Value="0"/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Minute"
+                              Hide="false"
+                              Value="0"/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer action"
+                              Hide="false"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer action:Timer action"
+                              Hide="false"
+                              Value="1"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Match time timer:Match time timer1:Type:Type"
+                    Val="4" ID="22202">
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition"
+                              Hide="false"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Month"
+                              Hide="false"
+                              Value="8"/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Day"
+                              Hide="false"
+                              Value="1"/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Day of week"
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Hour"
+                              Hide="false"
+                              Value="0"/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Minute"
+                              Hide="false"
+                              Value="0"/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer action"
+                              Hide="false"
+                              Value=""/>
+
+                    <Delegate Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer action:Timer action"
+                              Hide="false"
+                              Value="1"/>
+    </ValueChange>
+
+</Root>
+
+

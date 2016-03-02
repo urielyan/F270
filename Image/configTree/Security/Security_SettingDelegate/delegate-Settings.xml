@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="User settings" ID="24052">
+            <Delegate Name="User level" ID="24053" Slot1="slotSecuritySettingLvlChange()"/>
+            <Delegate Name="Mode" ID="24054" Slot1="slotSecuritySettingModeChange()"/>
+            <Delegate Name="User name" ID="24055" Slot1="slotSecuritySettingNameChange()"/>
+            <Delegate Name="User password" ID="24056"/>
+            <Delegate Name="Initialize password" ID="24057" Slot1="slotSecuritySettingInitChange()"/>
+            <Delegate Name="User property" ID="24058" Slot1="slotSecuritySettingPropertyChange()"/>
+            <Delegate Name="Authority number" ID="24059" Slot1="slotSecuritySettingAuthNumChange()"/>
+        </Delegate>
+
+</Root>

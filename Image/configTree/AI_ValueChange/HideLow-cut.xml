@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="0"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="0">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="0"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="1">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="0"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="2">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="0"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="3">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="1"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="0">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="1"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="1">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="1"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="2">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="1"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="3">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="false"
+                Value=""/>
+        <Factor Name="Config:AI Delegate:Range:Low-cut:On/Off"
+                Hide="false"
+                Value="0"/>
+        <Factor Name="Config:AI Delegate:Range:Low-cut:Low-cut value"
+                Hide="true"
+                Value=""/>
+        <Factor Name="Config:AI Delegate:Range:Low-cut:Low-cut output"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="2"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="0">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="2"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="1">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="2"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="2">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="false"
+                Value=""/>
+        <Factor Name="Config:AI Delegate:Range:Low-cut:On/Off"
+                Hide="false"
+                Value="0"/>
+        <Factor Name="Config:AI Delegate:Range:Low-cut:Low-cut value"
+                Hide="true"
+                Value=""/>
+        <Factor Name="Config:AI Delegate:Range:Low-cut:Low-cut output"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="2"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="3">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="false"
+                Value=""/>
+        <Factor Name="Config:AI Delegate:Range:Low-cut:On/Off"
+                Hide="false"
+                Value="0"/>
+        <Factor Name="Config:AI Delegate:Range:Low-cut:Low-cut value"
+                Hide="true"
+                Value=""/>
+        <Factor Name="Config:AI Delegate:Range:Low-cut:Low-cut output"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="3"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="0">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="3"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="1">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="3"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="2">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="3"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="3">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="4"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="0">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="4"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="1">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="4"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="2">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="4"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="3">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="5"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="0">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="5"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="1">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="5"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="2">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="5"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="3">
+        <Factor Name="Config:AI Delegate:Range:Low-cut"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+</Root>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Config Name="Type">
+                <Object Name="Type" ID="22003"/>
+        </Config>
+
+        <Config Name="Creation time">
+                <Object Name="Day" ID="22013"/>
+                <Object Name="Day of week" ID="22014"/>
+                <Object Name="Hour" ID="22011"/>
+                <Object Name="Minute" ID="22012"/>
+                <Object Name="Save interval" ID="22015"/>
+                <Object Name="File creation interval" ID="22016"/>
+        </Config>
+
+        <Config Name="Data type">
+                <Object Name="Report1" ID="22021"/>
+                <Object Name="Report2" ID="22022"/>
+                <Object Name="Report3" ID="22023"/>
+                <Object Name="Report4" ID="22024"/>
+                <Object Name="Report5" ID="22025"/>
+        </Config>
+
+        <Config Name="File type">
+                <Object Name="File type" ID="22031"/>
+        </Config>
+
+        <Config Name="Report template output">
+                <Object Name="Excel file" ID="22041"/>
+                <Object Name="PDF file" ID="22042"/>
+                <Object Name="Printer" ID="22043"/>
+        </Config>
+
+        <Config Name="Electronic signature">
+                <Object Name="PDF electronic signature" ID="22051"/>
+        </Config>
+
+</Root>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Object Name="Client command number" ID="20471"/>
+
+        <Group Type="Network-Command"
+                    File=":/configtree/Image/configTree/Network/Network_Setting/config-Modbus-CommandSetting-Command.xml"/>
+
+</Root>
+
+
+
+

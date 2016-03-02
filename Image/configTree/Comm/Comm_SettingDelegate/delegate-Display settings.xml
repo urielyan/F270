@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Color" ID="22661">
+                <Delegate Name="Color"
+                            ID="22662"
+                            Slot1="slotCommDisplayColorChange()"/>
+        </Delegate>
+
+        <Delegate Name="Tag" ID="22670">
+                <Delegate Name="Characters"
+                            ID="22671"
+                            Slot1="slotCommDisplayTagCharactersChange()"/>
+                <Delegate Name="No."
+                            ID="22672"
+                            Slot1="slotCommDisplayTagNoChange()"/>
+        </Delegate>
+
+        <Delegate Name="Zone" ID="22680">
+                <Delegate Name="Upper"
+                            ID="22681"
+                            Slot1="slotCommDisplayZoneUpperChange()"/>
+                <Delegate Name="Lower"
+                            ID="22682"
+                            Slot1="slotCommDisplayZoneLowerChange()"/>
+        </Delegate>
+
+        <Delegate Name="Scale" ID="22690">
+                <Delegate Name="Position"
+                            ID="22691"
+                            Slot1="slotCommDisplayScalePostionChange()"/>
+                <Delegate Name="Division"
+                            ID="22692"
+                            Slot1="slotCommDisplayScaleDivisionChange()"/>
+        </Delegate>
+
+        <Delegate Name="Bar graph" ID="22600">
+                <Delegate Name="Base position"
+                            ID="22601"
+                            Slot1="slotCommDisplayBarPositionChange()"/>
+                <Delegate Name="Division"
+                            ID="22602"
+                            Slot1="slotCommDisplayBarDivisionChange()"/>
+        </Delegate>
+
+        <Delegate Name="Partial" ID="22610">
+                <Delegate Name="On/Off"
+                            ID="22611"
+                            Slot1="slotCommDisplayPartialOnOrOffChange()"/>
+                <Delegate Name="Expand"
+                            ID="22613"
+                            Slot1="slotCommDisplayPartialExpandChange()"/>
+                <Delegate Name="Boundary"
+                            ID="22612"
+                            Slot1="slotCommDisplayPartialBoundaryChange()"/>
+        </Delegate>
+
+        <Delegate Name="Color scale band" ID="22620">
+                <Delegate Name="Band area"
+                            ID="22624"
+                            Slot1="slotCommDisplayBandAreaChange()"/>
+                <Delegate Name="Display position Upper"
+                            ID="22623"
+                            Slot1="slotCommDisplayBandUpperChange()"/>
+                <Delegate Name="Display position Lower"
+                            ID="22622"
+                            Slot1="slotCommDisplayBandLowerChange()"/>
+                <Delegate Name="Color"
+                            ID="22621"
+                            Slot1="slotCommDisplayBandColorChange()"/>
+        </Delegate>
+
+        <Delegate Name="Alarm point mark" ID="22630">
+                <Delegate Name="Indicate on Scale"
+                            ID="22631"
+                            Slot1="slotCommDisplayMarkScaleChange()"/>
+                <Delegate Name="Mark type"
+                            ID="22632"
+                            Slot1="slotCommDisplayMarkTypeChange()"/>
+                <Delegate Name="Alarm 1 color"
+                            ID="22633"
+                            Slot1="slotCommDisplayMarkAlarm1Change()"/>
+                <Delegate Name="Alarm 2 color"
+                            ID="22634"
+                            Slot1="slotCommDisplayMarkAlarm2Change()"/>
+                <Delegate Name="Alarm 3 color"
+                            ID="22635"
+                            Slot1="slotCommDisplayMarkAlarm3Change()"/>
+                <Delegate Name="Alarm 4 color"
+                            ID="22636"
+                            Slot1="slotCommDisplayMarkAlarm4Change()"/>
+        </Delegate>
+
+
+</Root>

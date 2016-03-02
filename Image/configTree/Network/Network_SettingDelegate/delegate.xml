@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delegate Name="Communication (Ethernet) Delegate" ID="20000">
+
+        <Delegate Name="Basic settings"
+                    ID="20001"
+                    File=":/configtree/Image/configTree/Network/Network_SettingDelegate/delegate-Basic.xml"/>
+
+        <Delegate Name="FTP client settings"
+                    ID="20100"
+                    File=":/configtree/Image/configTree/Network/Network_SettingDelegate/delegate-FTP.xml"/>
+
+        <Delegate Name="SMTP client settings"
+                    ID="20200"
+                    File=":/configtree/Image/configTree/Network/Network_SettingDelegate/delegate-SMTP.xml"/>
+
+        <Delegate Name="E-mail settings"
+                    ID="20300"
+                    File=":/configtree/Image/configTree/Network/Network_SettingDelegate/delegate-EMail.xml"/>
+
+        <Delegate Name="SNTP client settings"
+                    ID="20400"
+                    File=":/configtree/Image/configTree/Network/Network_SettingDelegate/delegate-SNTP.xml"/>
+
+        <Delegate Name="Modbus client settings"
+                    ID="20450"
+                    File=":/configtree/Image/configTree/Network/Network_SettingDelegate/delegate-Modbus.xml"/>
+
+        <Delegate Name="Server settings"
+                    ID="20500"
+                    File=":/configtree/Image/configTree/Network/Network_SettingDelegate/delegate-Server.xml"/>
+
+</Delegate>

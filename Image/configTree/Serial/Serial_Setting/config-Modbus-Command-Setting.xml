@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Command settings">
+                <Object Name="Type" ID="22461"/>
+                <Object Name="Slave" ID="22462"/>
+                <Object Name="Data type" ID="22463"/>
+                <Object Name="Register" ID="22464"/>
+                <Object Name="Channel type" ID="22465"/>
+                <Object Name="First-CH" ID="22466"/>
+                <Object Name="Last-CH" ID="22467"/>
+        </Config>
+
+</Root>

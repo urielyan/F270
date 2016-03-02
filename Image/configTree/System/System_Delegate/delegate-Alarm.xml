@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+
+        <Delegate Name="Rate of change" ID="22721">
+                <Delegate Name="Decrease"
+                            ID="22722"
+                            Slot1="slotsystemAlarmRateDecreaseChange()"/>
+
+                <Delegate Name="Increase"
+                            ID="22723"
+                            Slot1="slotsystemAlarmRateIncreaseChange()"/>
+        </Delegate>
+
+        <Delegate Name="Indicator" ID="22725">
+                <Delegate Name="Hold/Nonhold"
+                            ID="22726"
+                            Slot1="slotsystemAlarmIndicatorChange()"/>
+
+        </Delegate>
+
+        <Delegate Name="AlarmACK" ID="22728">
+                <Delegate Name="Individual alarm ACK"
+                            ID="22729"
+                            Slot1="slotsystemAlarmAlarmackChange()"/>
+
+        </Delegate>
+
+
+
+</Root>

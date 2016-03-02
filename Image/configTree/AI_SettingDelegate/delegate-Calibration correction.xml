@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Mode" ID="13010">
+                <Delegate Name="Mode"
+                            ID="13011"
+                            Slot1="slotAICali_ModeModeChanged()"/>
+                <Delegate Name="Number of set points"
+                            ID="13012"
+                            Slot1="slotAICali_ModeNumSetChanged()"/>
+        </Delegate>
+
+        <Delegate Name="1" ID="13020">
+                <Delegate Name="Linearizer input"
+                            ID="13021"
+                            Slot1="slotAICali_OneLineInChanged()"/>
+                <Delegate Name="Linearizer output"
+                            ID="13022"
+                            Slot1="slotAICali_OneLineOutChanged()"/>
+                <Delegate Name="Execution of the input measurement"
+                            ID="13023"/>
+        </Delegate>
+
+        <Delegate Name="2" ID="13030">
+                <Delegate Name="Linearizer input"
+                        ID="13031"
+                        Slot1="slotAICali_TwoLineInChanged()"/>
+                <Delegate Name="Linearizer output"
+                        ID="13032"
+                        Slot1="slotAICali_TwoLineOutChanged()"/>
+                <Delegate Name="Execution of the input measurement"
+                        ID="13033"/>
+        </Delegate>
+
+        <Delegate Name="3" ID="13040">
+                <Delegate Name="Linearizer input"
+                            ID="13041"
+                            Slot1="slotAICali_ThreeLineInChanged()"/>
+                <Delegate Name="Linearizer output"
+                            ID="13042"
+                            Slot1="slotAICali_ThreeLineOutChanged()"/>
+                <Delegate Name="Execution of the input measurement"
+                            ID="13043"/>
+        </Delegate>
+
+        <Delegate Name="4" ID="13050">
+                <Delegate Name="Linearizer input"
+                            ID="13051"
+                            Slot1="slotAICali_FourLineInChanged()"/>
+                <Delegate Name="Linearizer output"
+                            ID="13052"
+                            Slot1="slotAICali_FourLineOutChanged()"/>
+                <Delegate Name="Execution of the input measurement"
+                            ID="13053"/>
+        </Delegate>
+
+        <Delegate Name="5" ID="13060">
+                <Delegate Name="Linearizer input"
+                            ID="13061"
+                            Slot1="slotAICali_FiveLineInChanged()"/>
+                <Delegate Name="Linearizer output"
+                            ID="13062"
+                            Slot1="slotAICali_FiveLineOutChanged()"/>
+                <Delegate Name="Execution of the input measurement"
+                            ID="13063"/>
+        </Delegate>
+
+        <Delegate Name="6" ID="13070">
+                <Delegate Name="Linearizer input"
+                            ID="13071"
+                            Slot1="slotAICali_SixLineInChanged()"/>
+                <Delegate Name="Linearizer output"
+                            ID="13072"
+                            Slot1="slotAICali_SixLineOutChanged()"/>
+                <Delegate Name="Execution of the input measurement"
+                            ID="13073"/>
+        </Delegate>
+
+        <Delegate Name="7" ID="13080">
+                <Delegate Name="Linearizer input"
+                            ID="13081"
+                            Slot1="slotAICali_SevenLineInChanged()"/>
+                <Delegate Name="Linearizer output"
+                            ID="13082"
+                            Slot1="slotAICali_SevenLineOutChanged()"/>
+                <Delegate Name="Execution of the input measurement"
+                            ID="13083"/>
+        </Delegate>
+
+        <Delegate Name="8" ID="13090">
+                <Delegate Name="Linearizer input"
+                            ID="13091"
+                            Slot1="slotAICali_EightLineInChanged()"/>
+                <Delegate Name="Linearizer output"
+                            ID="13092"
+                            Slot1="slotAICali_EightLineOutChanged()"/>
+                <Delegate Name="Execution of the input measurement"
+                            ID="13093"/>
+        </Delegate>
+
+        <Delegate Name="9" ID="13100">
+                <Delegate Name="Linearizer input"
+                            ID="13101"
+                            Slot1="slotAICali_NineLineInChanged()"/>
+                <Delegate Name="Linearizer output"
+                            ID="13102"
+                            Slot1="slotAICali_NineLineOutChanged()"/>
+                <Delegate Name="Execution of the input measurement"
+                            ID="13103"/>
+        </Delegate>
+
+        <Delegate Name="10" ID="13110">
+                <Delegate Name="Linearizer input"
+                            ID="13111"
+                            Slot1="slotAICali_TenLineInChanged()"/>
+                <Delegate Name="Linearizer output"
+                            ID="13112"
+                            Slot1="slotAICali_TenLineOutChanged()"/>
+                <Delegate Name="Execution of the input measurement"
+                            ID="13113"/>
+        </Delegate>
+
+        <Delegate Name="11" ID="13120">
+                <Delegate Name="Linearizer input"
+                            ID="13121"
+                            Slot1="slotAICali_ElevenLineInChanged()"/>
+                <Delegate Name="Linearizer output"
+                            ID="13122"
+                            Slot1="slotAICali_ElevenLineOutChanged()"/>
+                <Delegate Name="Execution of the input measurement"
+                            ID="13123"/>
+        </Delegate>
+
+        <Delegate Name="12" ID="13130">
+                <Delegate Name="Linearizer input"
+                            ID="13131"
+                            Slot1="slotAICali_TwelveLineInChanged()"/>
+                <Delegate Name="Linearizer output"
+                            ID="13132"
+                            Slot1="slotAICali_TwelveLineOutChanged()"/>
+                <Delegate Name="Execution of the input measurement"
+                            ID="13133"/>
+        </Delegate>
+
+</Root>

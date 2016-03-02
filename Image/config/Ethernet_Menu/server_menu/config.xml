@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Communication (Ethernet) Delegate:Server settings">
+        <MenuTitle
+                Path="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients"
+                Type = "title"
+		Normal = ":/config/AI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change.png"
+		Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Ethernet_Menu/server_menu/modbus_menu/config.xml"/>
+        <MenuTitle
+                Path="Config:Communication (Ethernet) Delegate:Server settings:Server list"
+                Type = "title"
+		Normal = ":/config/AI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change.png"
+		Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Ethernet_Menu/server_menu/server_menu/config.xml"/>
+
+
+</Config>

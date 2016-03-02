@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Communication (Serial) Delegate:Basic settings">
+        <MenuGroup
+                Path="Config:Communication (Serial) Delegate:Basic settings:Receiver"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Communication (Serial) Delegate:Basic settings:Receiver:Function"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSerialBasicReceiveFunctionClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Communication (Serial) Delegate:Basic settings:Receiver:Address"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotNumericKeypadClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+        <MenuGroup
+                Path="Config:Communication (Serial) Delegate:Basic settings:Data transfer"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Communication (Serial) Delegate:Basic settings:Data transfer:Baud rate"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSerialBasicBaudClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Communication (Serial) Delegate:Basic settings:Data transfer:Parity bit"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSerialBasicParityClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Communication (Serial) Delegate:Basic settings:Data transfer:Stop bit"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSerialBasicStopClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Communication (Serial) Delegate:Basic settings:Data transfer:Data length"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSerialBasicLengthClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+</Config>

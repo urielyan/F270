@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server:SMTP Server name"
+                    ID="20232">
+    </ValueChange>
+
+</Root>

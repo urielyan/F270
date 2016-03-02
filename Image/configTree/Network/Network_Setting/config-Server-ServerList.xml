@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="FTP">
+                <Object Name="On/Off" ID="20562"/>
+                <Object Name="Encryption" ID="20563"/>
+                <Object Name="Port number" ID="20565"/>
+                <Object Name="Keep alive" ID="20564"/>
+        </Config>
+
+        <Config Name="HTTP">
+                <Object Name="On/Off" ID="20571"/>
+                <Object Name="Encryption" ID="20572"/>
+                <Object Name="Port number" ID="20573"/>
+        </Config>
+
+        <Config Name="SNTP">
+                <Object Name="On/Off" ID="20576"/>
+                <Object Name="Port number" ID="20577"/>
+        </Config>
+
+        <Config Name="MODBUS">
+                <Object Name="On/Off" ID="20581"/>
+                <Object Name="Port number" ID="20582"/>
+                <Object Name="Modbus delay response" ID="20504"/>
+        </Config>
+
+
+</Root>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Recording mode" ID="21602">
+                <Delegate Name="Mode"
+                        ID="21603"
+                        Slot1="slotRecordBasicModeModeChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Display data, Trend waveform" ID="21620">
+                <Delegate Name="Saving interval"
+                        ID="21621"
+                        Slot1="slotRecordBasicDispValueChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Event data" ID="21610">
+                <Delegate Name="Recording interval"
+                        ID="21611"
+                        Slot1="slotRecordBasicEventInterChanged()"/>
+                <Delegate Name="Recording mode"
+                        ID="21612"
+                        Slot1="slotRecordBasicEventModeChanged()"/>
+                <Delegate Name="Data length"
+                        ID="21613"
+                        Slot1="slotRecordBasicEventLenChanged()"/>
+                <Delegate Name="Pre-trigger"
+                        ID="21617"
+                        Slot1="slotRecordBasicEventTrigChanged()"/>
+                <Delegate Name="Trigger source operation"
+                        ID="21616"
+                        Slot1="slotRecordBasicEventOperaChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Record confirmation action" ID="21630">
+                <Delegate Name="Confirmation screen"
+                        ID="21631"
+                        Slot1="slotRecordBasicScreenSWChanged()"/>
+        </Delegate>
+
+</Root>

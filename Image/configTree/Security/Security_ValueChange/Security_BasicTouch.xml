@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Security Delegate:Basic settings:Security function:Touch operation"
+                    Val="0" ID="24003">
+        <Delegate Name="Config:Security Delegate:Operation Lock"
+                  Hide="true"/>
+        <Delegate Name="Config:Security Delegate:User settings"
+                  Hide=":/configtree/Image/configTree/Security/Security_ValueChange/Hide_SecurityUser.xml"/>
+        <Delegate Name="Config:Security Delegate:User property"
+                  Hide=":/configtree/Image/configTree/Security/Security_ValueChange/Hide_SecurityUser.xml"/>
+
+        <Delegate Name="Config:Security Delegate:Basic settings:Logout"
+                  Hide="true"/>
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Security Delegate:Basic settings:Security function:Touch operation"
+                    Val="1" ID="24003">
+        <Delegate Name="Config:Security Delegate:Operation Lock"
+                  Hide="true"/>
+        <Delegate Name="Config:Security Delegate:User settings"
+                  Hide=":/configtree/Image/configTree/Security/Security_ValueChange/Hide_SecurityUser.xml"/>
+        <Delegate Name="Config:Security Delegate:User property"
+                  Hide=":/configtree/Image/configTree/Security/Security_ValueChange/Hide_SecurityUser.xml"/>
+
+        <Delegate Name="Config:Security Delegate:Basic settings:Logout"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Security Delegate:Basic settings:Logout:Auto logout"
+                  Hide="slot"/>
+        <Delegate Name="Config:Security Delegate:Basic settings:Logout:Operation without Login"
+                  Hide="slot"/>
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Security Delegate:Basic settings:Security function:Touch operation"
+                    Val="2" ID="24003">
+        <Delegate Name="Config:Security Delegate:Operation Lock"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Security Delegate:Operation Lock:Operation Lock function"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Security Delegate:Operation Lock:Operation Lock function"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Security Delegate:Operation Lock:Operation Lock function:Password"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Security Delegate:Operation Lock:Limitations"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Security Delegate:Operation Lock:Limitations:Record"
+                  Hide="slot"/>
+        <Delegate Name="Config:Security Delegate:Operation Lock:Limitations:Math"
+                  Hide="slot"/>
+        <Delegate Name="Config:Security Delegate:Operation Lock:Limitations:Data save"
+                  Hide="slot"/>
+        <Delegate Name="Config:Security Delegate:Operation Lock:Limitations:Message"
+                  Hide="slot"/>
+        <Delegate Name="Config:Security Delegate:Operation Lock:Limitations:Batch"
+                  Hide="slot"/>
+        <Delegate Name="Config:Security Delegate:Operation Lock:Limitations:AlarmACK"
+                  Hide="slot"/>
+        <Delegate Name="Config:Security Delegate:Operation Lock:Limitations:Communication"
+                  Hide="slot"/>
+        <Delegate Name="Config:Security Delegate:Operation Lock:Limitations:Touch operation"
+                  Hide="slot"/>
+        <Delegate Name="Config:Security Delegate:Operation Lock:Limitations:Time set"
+                  Hide="slot"/>
+        <Delegate Name="Config:Security Delegate:Operation Lock:Limitations:Setting operation"
+                  Hide="slot"/>
+        <Delegate Name="Config:Security Delegate:Operation Lock:Limitations:External media"
+                  Hide="slot"/>
+        <Delegate Name="Config:Security Delegate:Operation Lock:Limitations:System operation"
+                  Hide="slot"/>
+        <Delegate Name="Config:Security Delegate:Operation Lock:Limitations:Output operation"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Security Delegate:User settings"
+                  Hide=":/configtree/Image/configTree/Security/Security_ValueChange/Hide_SecurityUser.xml"/>
+        <Delegate Name="Config:Security Delegate:User property"
+                  Hide=":/configtree/Image/configTree/Security/Security_ValueChange/Hide_SecurityUser.xml"/>
+
+        <Delegate Name="Config:Security Delegate:Basic settings:Logout"
+                  Hide="true"/>
+    </ValueChange>
+
+</Root>

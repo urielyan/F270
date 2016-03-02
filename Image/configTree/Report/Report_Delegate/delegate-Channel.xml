@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="number"
+                    ID="22061"
+                    Slot1="slotReportChannelNumberChange()"
+                    Slot2="slotReportDelegateChange()"/>
+
+        <Delegate Name="Report channel" ID="22070">
+                <Delegate Name="Channel type"
+                            ID="22071"
+                            Slot1="slotReportChannelTypeChange()"/>
+
+                <Delegate Name="Channel No."
+                            ID="22072"
+                            Slot1="slotReportChannelNOChange()"/>
+
+                <Delegate Name="Sum scale"
+                            ID="22073"
+                            Slot1="slotReportChannelSumChange()"/>
+        </Delegate>
+
+</Root>

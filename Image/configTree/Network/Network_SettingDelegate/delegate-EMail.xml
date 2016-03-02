@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="Mail header" ID="20301">
+                <Delegate Name="Recipient 1"
+                            ID="20302"
+                            Slot1="slotEMAILHeaderR1Change()"/>
+                <Delegate Name="Recipient 2"
+                            ID="20303"
+                            Slot1="slotEMAILHeaderR2Change()"/>
+                <Delegate Name="Sender"
+                            ID="20304"
+                            Slot1="slotEMAILHeaderSenderChange()"/>
+                <Delegate Name="Subject"
+                            ID="20305"
+                            Slot1="slotEMAILHeaderSubjectChange()"/>
+        </Delegate>
+
+        <Delegate Name="E-mail contents" ID="20310">
+                <Delegate Name="Header"
+                            ID="20311"
+                            Slot1="slotEMAILContentsHeaderChange()"/>
+                <Delegate Name="Include source URL"
+                            ID="20312"
+                            Slot1="slotEMAILContentsURLChange()"/>
+        </Delegate>
+
+        <Delegate Name="Alarm settings" ID="20331">
+                <Delegate Name="Alarm notification"
+                            ID="20332"
+                            Slot1="slotEMAILAlarmNotificationChange()"/>
+                <Delegate Name="Attach instantaneous data"
+                            ID="20333"
+                            Slot1="slotEMAILAlarmDataChange()"/>
+                <Delegate Name="Include tag/ch in Subject"
+                            ID="20334"
+                            Slot1="slotEMAILAlarmSubjectChange()"/>
+                <Delegate Name="Channel set"
+                            ID="20335"
+                            Slot1="slotEMAILAlarmSetChange()"/>
+                <Delegate Name="Channel set Channel list" ID="20336"/>
+        </Delegate>
+
+        <Delegate Name="Report settings" ID="20315">
+                <Delegate Name="Report notification"
+                            ID="20316"
+                            Slot1="slotEMAILAlarmReportChange()"/>
+        </Delegate>
+
+        <Delegate Name="Scheduled settings" ID="20320">
+                <Delegate Name="Scheduled notification"
+                            ID="20321"
+                            Slot1="slotEMAILScheduledNotificationChange()"/>
+                <Delegate Name="Attach instantaneous data"
+                            ID="20322"
+                            Slot1="slotEMAILScheduledDataChange()"/>
+                <Delegate Name="Interal (Recipient 1)"
+                            ID="20323"
+                            Slot1="slotEMAILScheduledR1InteralChange()"/>
+                <Delegate Name="Ref. time hour (Recipient 1)"
+                            ID="20325"
+                            Slot1="slotEMAILScheduledR1TimeHChange()"/>
+                <Delegate Name="Ref. time minute(Recipient 1)"
+                            ID="20327"
+                            Slot1="slotEMAILScheduledR1TimeMChange()"/>
+                <Delegate Name="Interal (Recipient 2)"
+                            ID="20324"
+                            Slot1="slotEMAILScheduledR2InteralChange()"/>
+                <Delegate Name="Ref. time hour (Recipient 2)"
+                            ID="20326"
+                            Slot1="slotEMAILScheduledR2TimeHChange()"/>
+                <Delegate Name="Ref. time minute(Recipient 2)"
+                            ID="20328"
+                            Slot1="slotEMAILScheduledR2TimeMChange()"/>
+
+        </Delegate>
+
+        <Delegate Name="System settings" ID="20390">
+                <Delegate Name="Memory full notification"
+                            ID="20391"
+                            Slot1="slotEMAILSystemMemoryChange()"/>
+                <Delegate Name="Power failure notification"
+                            ID="20392"
+                            Slot1="slotEMAILSystemPowerChange()"/>
+                <Delegate Name="System error notification"
+                            ID="20393"
+                            Slot1="slotEMAILSystemErrorChange()"/>
+                <Delegate Name="User lock notification"
+                            ID="20394"
+                            Slot1="slotEMAILUserChange()"/>
+        </Delegate>
+
+</Root>

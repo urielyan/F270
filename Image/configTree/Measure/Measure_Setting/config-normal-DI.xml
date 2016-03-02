@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="DI Operation mode">
+                <Object Name="DI Operation mode" ID="30112"/>
+        </Config>
+
+</Root>
+

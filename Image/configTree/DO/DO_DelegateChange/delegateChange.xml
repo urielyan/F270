@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <DelegateChange Type="Unique"
+            Name="Config:DO Delegate"
+            Objects="Config:DO channel settings"/>
+
+    <DelegateChange Type="Unique"
+                Name="Config:DO Delegate:Range"
+                Objects="Config:DO channel settings:Range"/>
+    <DelegateChange Type="Unique"
+                Name="Config:DO Delegate:Display settings"
+                Objects="Config:DO channel settings:Display settings"/>
+
+    <DelegateChange Type="Unique"
+                Name="Config:DO Delegate:First-CH"
+                Objects="Config:DO channel settings:First-CH"/>
+    <DelegateChange Type="Unique"
+                Name="Config:DO Delegate:Last-CH"
+                Objects="Config:DO channel settings:Last-CH"/>
+
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Range:Range"
+                Objects="Config:DO channel settings:Range:%1:Range"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Range:Range:Type"
+                Objects="Config:DO channel settings:Range:%1:Range:Type"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Range:Range:Range Upper"
+                Objects="Config:DO channel settings:Range:%1:Range:Range Upper"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Range:Range:Range Lower"
+                Objects="Config:DO channel settings:Range:%1:Range:Range Lower"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Range:Range:Span Upper"
+                Objects="Config:DO channel settings:Range:%1:Range:Span Upper"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Range:Range:Span Lower"
+                Objects="Config:DO channel settings:Range:%1:Range:Span Lower"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Range:Range:Unit"
+                Objects="Config:DO channel settings:Range:%1:Range:Unit"/>
+
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Range:Action"
+                Objects="Config:DO channel settings:Range:%1:Action"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Range:Action:Energize/De-engergize"
+                Objects="Config:DO channel settings:Range:%1:Action:Energize/De-engergize"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Range:Action:Action"
+                Objects="Config:DO channel settings:Range:%1:Action:Action"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Range:Action:Relay Action on ACK"
+                Objects="Config:DO channel settings:Range:%1:Action:Relay Action on ACK"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Range:Action:Hold"
+                Objects="Config:DO channel settings:Range:%1:Action:Hold"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Range:Action:Relay deactivated interval"
+                Objects="Config:DO channel settings:Range:%1:Action:Relay deactivated interval"/>
+
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Display settings:Color"
+                Objects="Config:DO channel settings:Display settings:%1:Color"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Display settings:Color:Color"
+                Objects="Config:DO channel settings:Display settings:%1:Color:Color"/>
+
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Display settings:Tag"
+                Objects="Config:DO channel settings:Display settings:%1:Tag"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Display settings:Tag:Characters"
+                Objects="Config:DO channel settings:Display settings:%1:Tag:Characters"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Display settings:Tag:No."
+                Objects="Config:DO channel settings:Display settings:%1:Tag:No."/>
+
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Display settings:Zone"
+                Objects="Config:DO channel settings:Display settings:%1:Zone"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Display settings:Zone:Upper"
+                Objects="Config:DO channel settings:Display settings:%1:Zone:Upper"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Display settings:Zone:Lower"
+                Objects="Config:DO channel settings:Display settings:%1:Zone:Lower"/>
+
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Display settings:Scale"
+                Objects="Config:DO channel settings:Display settings:%1:Scale"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Display settings:Scale:Position"
+                Objects="Config:DO channel settings:Display settings:%1:Scale:Position"/>
+
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Display settings:Bar graph"
+                Objects="Config:DO channel settings:Display settings:%1:Bar graph"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Display settings:Bar graph:Base position"
+                Objects="Config:DO channel settings:Display settings:%1:Bar graph:Base position"/>
+
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Display settings:Display characters of each value"
+                Objects="Config:DO channel settings:Display settings:%1:Display characters of each value"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Display settings:Display characters of each value:0"
+                Objects="Config:DO channel settings:Display settings:%1:Display characters of each value:0"/>
+    <DelegateChange Type="DO-Channel"
+                Name="Config:DO Delegate:Display settings:Display characters of each value:1"
+                Objects="Config:DO channel settings:Display settings:%1:Display characters of each value:1"/>
+
+</Root>

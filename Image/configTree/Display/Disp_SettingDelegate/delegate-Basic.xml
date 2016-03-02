@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Bar graph" ID="21371">
+                <Delegate Name="Direction"
+                            ID="21372"
+                            Slot1="slotDispBasicBarDirectChanged()"/>
+        </Delegate>
+
+        <Delegate Name="LCD" ID="21373">
+                <Delegate Name="Brightness"
+                            ID="21374"
+                            Slot1="slotDispBasicLCDValueChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Backlight saver" ID="21382">
+                <Delegate Name="Mode"
+                            ID="21383"
+                            Slot1="slotDispBasicLightModeChanged()"/>
+                <Delegate Name="Saver time"
+                            ID="21384"
+                            Slot1="slotDispBasicLightTimeChanged()"/>
+                <Delegate Name="Restore"
+                            ID="21385"
+                            Slot1="slotDispBasicLightRestoreChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Monitor" ID="21389">
+                <Delegate Name="Display background"
+                            ID="21390"
+                            Slot1="slotDispBasicMonitorBackChanged()"/>
+                <Delegate Name="Scroll time"
+                            ID="21391"
+                            Slot1="slotDispBasicMonitorScrollChanged()"/>
+                <Delegate Name="Jump default display"
+                            ID="21392"
+                            Slot1="slotDispBasicMonitorJumpChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Calendar display" ID="21393">
+                <Delegate Name="1st weekday"
+                            ID="21394"
+                            Slot1="slotDispBasicCalendar1stChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Changing each value from monitoring" ID="21395">
+                <Delegate Name="On/Off"
+                            ID="21396"
+                            Slot1="slotDispBasicChangeOnoffChanged()"/>
+        </Delegate>
+
+</Root>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Channel type"
+                    Val="4" ID="20478">
+    </ValueChange>
+
+</Root>

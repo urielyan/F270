@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="FTP client function">
+                <Object Name="On/Off" ID="20102"/>
+        </Config>
+
+        <Config Name="Transfer file">
+                <Object Name="Display &amp; Event data" ID="20111"/>
+                <Object Name="Report" ID="20112"/>
+                <Object Name="Manual sampled data" ID="20113"/>
+                <Object Name="Alarm summary" ID="20114"/>
+                <Object Name="Snap shot" ID="20115"/>
+                <Object Name="Device settings" ID="20116"/>
+        </Config>
+
+        <Config Name="Transfer wait time">
+                <Object Name="Display &amp; Event data" ID="20121"/>
+                <Object Name="Report" ID="20122"/>
+        </Config>
+
+        <Config Name="Encryption">
+                <Object Name="Encryption" ID="20131"/>
+                <Object Name="Verfication of certificate" ID="20132"/>
+        </Config>
+
+        <Config Name="FTP connection Primary">
+                <Object Name="Port number" ID="20142"/>
+                <Object Name="PASV mode" ID="20141"/>
+                <Object Name="FTP server name" ID="20143"/>
+                <Object Name="User name" ID="20144"/>
+                <Object Name="Password" ID="20145"/>
+                <Object Name="Directory" ID="20146"/>
+        </Config>
+
+        <Config Name="FTP connection Secondary">
+                <Object Name="Port number" ID="20152"/>
+                <Object Name="PASV mode" ID="20151"/>
+                <Object Name="FTP server name" ID="20153"/>
+                <Object Name="User name" ID="20154"/>
+                <Object Name="Password" ID="20155"/>
+                <Object Name="Directory" ID="20156"/>
+        </Config>
+
+</Root>

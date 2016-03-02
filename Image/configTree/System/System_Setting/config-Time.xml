@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Config Name="Time Zone">
+                <Object Name="Hour" ID="22732"/>
+                <Object Name="Minute" ID="22733"/>
+        </Config>
+
+</Root>

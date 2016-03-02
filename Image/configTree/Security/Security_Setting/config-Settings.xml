@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="User settings">
+            <Object Name="User level" ID="24053"/>
+            <Object Name="Mode" ID="24054"/>
+            <Object Name="User name" ID="24055"/>
+            <Object Name="User password" ID="24056"/>
+            <Object Name="Initialize password" ID="24057"/>
+            <Object Name="User property" ID="24058"/>
+            <Object Name="Authority number" ID="24059"/>
+        </Config>
+
+</Root>

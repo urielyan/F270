@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Allowed Modbus clients"
+                File=":/configtree/Image/configTree/Network/Network_Setting/config-Server-ModbusClient.xml">
+        </Config>
+
+        <Config Name="Server list"
+                File=":/configtree/Image/configTree/Network/Network_Setting/config-Server-ServerList.xml">
+        </Config>
+
+</Root>

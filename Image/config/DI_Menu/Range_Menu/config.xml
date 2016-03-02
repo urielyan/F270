@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:DI Delegate:Range">
+	<MenuNormal
+                Path="Config:DI Delegate:First-CH"
+                Normal = ":/config/DI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change-blue.png"
+                Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                Clicked = "slotDIMenuClicked()"
+                Include ="none"/>
+	<MenuNormal
+                Path="Config:DI Delegate:Last-CH"
+                Normal = ":/config/DI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change-blue.png"
+                Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                Clicked = "slotDIMenuClicked()"
+                Include ="none"/>
+	
+	<MenuGroup
+                Path="Config:DI Delegate:Range:Range"
+		Normal = "none"
+		Changed = "none"
+		Hint = "none"
+		Extend = "none">
+		<MenuNormal
+                        Path="Config:DI Delegate:Range:Range:Type"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotDIRangeRangeTypeMenuClicked()"
+                        Include ="none"/>
+
+                <MenuNormal
+                        Path="Config:DI Delegate:Range:Range:Span Lower"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotDIRangeRangeRangeMenuClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:DI Delegate:Range:Range:Span Upper"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotDIRangeRangeRangeMenuClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:DI Delegate:Range:Range:Calculation"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotDIRangeRangeCalculationMenuClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:DI Delegate:Range:Range:Reference channel"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+	</MenuGroup>
+	
+	<MenuGroup
+                Path="Config:DI Delegate:Range:Scale"
+		Normal = "none"
+		Changed = "none"
+		Hint = "none"
+		Extend = "none">
+		<MenuNormal
+                        Path="Config:DI Delegate:Range:Scale:Decimal place"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIRangeScalePosMenuClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:DI Delegate:Range:Scale:Scale Lower"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:DI Delegate:Range:Scale:Scale Upper"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:DI Delegate:Range:Scale:Unit"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSoftKeypadClicked()"
+                        Include ="none"/>
+	</MenuGroup>
+</Config>

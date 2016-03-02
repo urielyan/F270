@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Range" ID="18007">
+                <Delegate Name="Type"
+                            ID="18010"
+                            Slot1="slotDORange_RangeTypeChanged()"/>
+                <Delegate Name="Range Lower" ID="18021"/>
+                <Delegate Name="Range Upper" ID="18022"/>
+                <Delegate Name="Span Lower"
+                            ID="18030"
+                            Slot1="slotDORange_RangeLowerChanged()"/>
+                <Delegate Name="Span Upper"
+                            ID="18031"
+                            Slot1="slotDORange_RangeUpperChanged()"/>
+                <Delegate Name="Unit"
+                            ID="18032"
+                            Slot1="slotDORange_RangeUnitChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Action" ID="18040">
+                <Delegate Name="Energize/De-engergize"
+                            ID="18041"
+                            Slot1="slotDORange_ActionTypeChanged()"/>
+                <Delegate Name="Action"
+                            ID="18042"
+                            Slot1="slotDORange_ActionActionChanged()"/>
+                <Delegate Name="Relay Action on ACK"
+                            ID="18043"
+                            Slot1="slotDORange_ActionRelayAckChanged()"/>
+                <Delegate Name="Hold"
+                            ID="18044"
+                            Slot1="slotDORange_ActionHoldChanged()"/>
+                <Delegate Name="Relay deactivated interval"
+                            ID="18045"
+                            Slot1="slotDORange_ActionRelayInChanged()"/>
+        </Delegate>
+
+</Root>

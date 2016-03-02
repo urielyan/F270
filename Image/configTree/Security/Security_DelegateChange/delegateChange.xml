@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate"
+                Objects="Config:Security settings"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Basic settings"
+                Objects="Config:Security settings:Basic settings"/>
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Operation Lock"
+                Objects="Config:Security settings:Operation Lock"/>
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:User settings"
+                Objects="Config:Security settings:User settings"/>
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:User property"
+                Objects="Config:Security settings:User property"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:User number"
+                Objects="Config:Security settings:User number"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Authority number"
+                Objects="Config:Security settings:Authority number"/>
+
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Basic settings:Security function"
+                Objects="Config:Security settings:Basic settings:Security function"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Basic settings:Security function:Touch operation"
+                Objects="Config:Security settings:Basic settings:Security function:Touch operation"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Basic settings:Security function:Communication"
+                Objects="Config:Security settings:Basic settings:Security function:Communication"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Basic settings:Logout"
+                Objects="Config:Security settings:Basic settings:Logout"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Basic settings:Logout:Auto logout"
+                Objects="Config:Security settings:Basic settings:Logout:Auto logout"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Basic settings:Logout:Operation without Login"
+                Objects="Config:Security settings:Basic settings:Logout:Operation without Login"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Operation Lock:Operation Lock function"
+                Objects="Config:Security settings:Operation Lock:Operation Lock function"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Operation Lock:Operation Lock function:Password"
+                Objects="Config:Security settings:Operation Lock:Operation Lock function:Password"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Operation Lock:Limitations"
+                Objects="Config:Security settings:Operation Lock:Limitations"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Operation Lock:Limitations:Record"
+                Objects="Config:Security settings:Operation Lock:Limitations:Record"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Operation Lock:Limitations:Math"
+                Objects="Config:Security settings:Operation Lock:Limitations:Math"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Operation Lock:Limitations:Data save"
+                Objects="Config:Security settings:Operation Lock:Limitations:Data save"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Operation Lock:Limitations:Message"
+                Objects="Config:Security settings:Operation Lock:Limitations:Message"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Operation Lock:Limitations:Batch"
+                Objects="Config:Security settings:Operation Lock:Limitations:Batch"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Operation Lock:Limitations:AlarmACK"
+                Objects="Config:Security settings:Operation Lock:Limitations:AlarmACK"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Operation Lock:Limitations:Communication"
+                Objects="Config:Security settings:Operation Lock:Limitations:Communication"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Operation Lock:Limitations:Touch operation"
+                Objects="Config:Security settings:Operation Lock:Limitations:Touch operation"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Operation Lock:Limitations:Time set"
+                Objects="Config:Security settings:Operation Lock:Limitations:Time set"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Operation Lock:Limitations:Setting operation"
+                Objects="Config:Security settings:Operation Lock:Limitations:Setting operation"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Operation Lock:Limitations:External media"
+                Objects="Config:Security settings:Operation Lock:Limitations:External media"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Operation Lock:Limitations:System operation"
+                Objects="Config:Security settings:Operation Lock:Limitations:System operation"/>
+
+        <DelegateChange Type="Unique"
+                Name="Config:Security Delegate:Operation Lock:Limitations:Output operation"
+                Objects="Config:Security settings:Operation Lock:Limitations:Output operation"/>
+
+
+        <DelegateChange Type="User-settings"
+                Name="Config:Security Delegate:User settings:User settings"
+                Objects="Config:Security settings:User settings:%1:User settings"/>
+
+        <DelegateChange Type="User-settings"
+                Name="Config:Security Delegate:User settings:User settings:User level"
+                Objects="Config:Security settings:User settings:%1:User settings:User level"/>
+
+        <DelegateChange Type="User-settings"
+                Name="Config:Security Delegate:User settings:User settings:Mode"
+                Objects="Config:Security settings:User settings:%1:User settings:Mode"/>
+
+        <DelegateChange Type="User-settings"
+                Name="Config:Security Delegate:User settings:User settings:User name"
+                Objects="Config:Security settings:User settings:%1:User settings:User name"/>
+
+        <DelegateChange Type="User-settings"
+                Name="Config:Security Delegate:User settings:User settings:User password"
+                Objects="Config:Security settings:User settings:%1:User settings:User password"/>
+
+        <DelegateChange Type="User-settings"
+                Name="Config:Security Delegate:User settings:User settings:Initialize password"
+                Objects="Config:Security settings:User settings:%1:User settings:Initialize password"/>
+
+        <DelegateChange Type="User-settings"
+                Name="Config:Security Delegate:User settings:User settings:User property"
+                Objects="Config:Security settings:User settings:%1:User settings:User property"/>
+
+        <DelegateChange Type="User-settings"
+                Name="Config:Security Delegate:User settings:User settings:Authority number"
+                Objects="Config:Security settings:User settings:%1:User settings:Authority number"/>
+
+        <DelegateChange Type="User-property"
+                Name="Config:Security Delegate:User property:User property"
+                Objects="Config:Security settings:User property:%1:User property"/>
+
+        <DelegateChange Type="User-property"
+                Name="Config:Security Delegate:User property:User property:Record"
+                Objects="Config:Security settings:User property:%1:User property:Record"/>
+
+        <DelegateChange Type="User-property"
+                Name="Config:Security Delegate:User property:User property:Math"
+                Objects="Config:Security settings:User property:%1:User property:Math"/>
+
+        <DelegateChange Type="User-property"
+                Name="Config:Security Delegate:User property:User property:Data save"
+                Objects="Config:Security settings:User property:%1:User property:Data save"/>
+
+        <DelegateChange Type="User-property"
+                Name="Config:Security Delegate:User property:User property:Message"
+                Objects="Config:Security settings:User property:%1:User property:Message"/>
+
+        <DelegateChange Type="User-property"
+                Name="Config:Security Delegate:User property:User property:Batch"
+                Objects="Config:Security settings:User property:%1:User property:Batch"/>
+
+        <DelegateChange Type="User-property"
+                Name="Config:Security Delegate:User property:User property:AlarmACK"
+                Objects="Config:Security settings:User property:%1:User property:AlarmACK"/>
+
+        <DelegateChange Type="User-property"
+                Name="Config:Security Delegate:User property:User property:Communication"
+                Objects="Config:Security settings:User property:%1:User property:Communication"/>
+
+        <DelegateChange Type="User-property"
+                Name="Config:Security Delegate:User property:User property:Touch operation"
+                Objects="Config:Security settings:User property:%1:User property:Touch operation"/>
+
+        <DelegateChange Type="User-property"
+                Name="Config:Security Delegate:User property:User property:Time set"
+                Objects="Config:Security settings:User property:%1:User property:Time set"/>
+
+        <DelegateChange Type="User-property"
+                Name="Config:Security Delegate:User property:User property:Setting operation"
+                Objects="Config:Security settings:User property:%1:User property:Setting operation"/>
+
+        <DelegateChange Type="User-property"
+                Name="Config:Security Delegate:User property:User property:External media"
+                Objects="Config:Security settings:User property:%1:User property:External media"/>
+
+        <DelegateChange Type="User-property"
+                Name="Config:Security Delegate:User property:User property:System operation"
+                Objects="Config:Security settings:User property:%1:User property:System operation"/>
+
+        <DelegateChange Type="User-property"
+                Name="Config:Security Delegate:User property:User property:Output operation"
+                Objects="Config:Security settings:User property:%1:User property:Output operation"/>
+
+</Root>
+

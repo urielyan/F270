@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Range">
+                <Object Name="Type" ID="15010"/>
+                <Object Name="Range Upper" ID="15022"/>
+                <Object Name="Range Lower" ID="15021"/>
+                <Object Name="Span Upper" ID="15031"/>
+                <Object Name="Span Lower" ID="15030"/>
+                <Object Name="Calculation" ID="15032"/>
+                <Object Name="Reference channel" ID="15033"/>
+        </Config>
+
+        <Config Name="Scale">
+                <Object Name="Decimal place" ID="15041"/>
+                <Object Name="Scale Lower" ID="15042"/>
+                <Object Name="Scale Upper" ID="15043"/>
+                <Object Name="Unit" ID="15044"/>
+        </Config>
+
+</Root>

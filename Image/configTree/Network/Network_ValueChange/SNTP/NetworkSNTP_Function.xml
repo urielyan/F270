@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+<ValueChange    Name="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP client function:On/Off"
+                Val="0" ID="20402">
+
+    <Delegate Name="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP server"
+              Hide="true"
+              Value=""/>
+
+    <Delegate Name="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP server:SNTP server name"
+              Hide="true"
+              Value=""/>
+
+    <Delegate Name="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP server:Port number"
+              Hide="true"
+              Value=""/>
+
+    <Delegate Name="Config:Communication (Ethernet) Delegate:SNTP client settings:Query action"
+              Hide="true"
+              Value=""/>
+
+    <Delegate Name="Config:Communication (Ethernet) Delegate:SNTP client settings:Query action:Interval"
+              Hide="true"
+              Value=""/>
+
+    <Delegate Name="Config:Communication (Ethernet) Delegate:SNTP client settings:Query action:Timeout"
+              Hide="true"
+              Value=""/>
+
+    <Delegate Name="Config:Communication (Ethernet) Delegate:SNTP client settings:Query action:Time adjust on Start action"
+              Hide="true"
+              Value=""/>
+
+</ValueChange>
+<ValueChange    Name="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP client function:On/Off"
+                Val="1" ID="20402">
+
+    <Delegate Name="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP server"
+              Hide="false"
+              Value="0"/>
+
+    <Delegate Name="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP server:SNTP server name"
+              Hide="slot"/>
+
+    <Delegate Name="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP server:Port number"
+              Hide="slot"/>
+
+    <Delegate Name="Config:Communication (Ethernet) Delegate:SNTP client settings:Query action"
+              Hide="false"
+              Value="0"/>
+
+    <Delegate Name="Config:Communication (Ethernet) Delegate:SNTP client settings:Query action:Interval"
+              Hide="false"
+              Value="0"/>
+
+    <Delegate Name="Config:Communication (Ethernet) Delegate:SNTP client settings:Query action:Timeout"
+              Hide="false"
+              Value="1"/>
+
+    <Delegate Name="Config:Communication (Ethernet) Delegate:SNTP client settings:Query action:Time adjust on Start action"
+              Hide="false"
+              Value="0"/>
+
+</ValueChange>
+
+</Root>

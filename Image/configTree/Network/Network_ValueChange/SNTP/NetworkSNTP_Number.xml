@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP server:Port number"
+                    ID="20421">
+
+    </ValueChange>
+
+</Root>

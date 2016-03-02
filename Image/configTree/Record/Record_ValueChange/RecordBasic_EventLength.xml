@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Data length"
+                    Val="10" ID="21613">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Data length"
+                    Val="20" ID="21613">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Data length"
+                    Val="30" ID="21613">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Data length"
+                    Val="60" ID="21613">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Data length"
+                    Val="120" ID="21613">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Data length"
+                    Val="180" ID="21613">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Data length"
+                    Val="360" ID="21613">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Data length"
+                    Val="480" ID="21613">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Data length"
+                    Val="720" ID="21613">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Data length"
+                    Val="1440" ID="21613">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Data length"
+                    Val="2880" ID="21613">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Data length"
+                    Val="4320" ID="21613">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Data length"
+                    Val="7200" ID="21613">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Data length"
+                    Val="10080" ID="21613">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Data length"
+                    Val="20160" ID="21613">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Data length"
+                    Val="44640" ID="21613">
+    </ValueChange>
+
+</Root>

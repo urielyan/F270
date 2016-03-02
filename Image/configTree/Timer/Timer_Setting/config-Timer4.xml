@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Config Name="Type">
+                <Object Name="Type" ID="22172"/>
+        </Config>
+
+        <Config Name="Interval">
+                <Object Name="Day" ID="22181"/>
+                <Object Name="Hour" ID="22182"/>
+                <Object Name="Minute" ID="22183"/>
+                <Object Name="Interval" ID="22184"/>
+        </Config>
+
+
+</Root>

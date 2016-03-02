@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Color" ID="17001">
+                <Delegate Name="Color"
+                            ID="17002"
+                            Slot1="slotDIDisp_ColorColorChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Tag" ID="17010">
+                <Delegate Name="Characters"
+                            ID="17011"
+                            Slot1="slotDIDisp_TagCharChanged()"/>
+                <Delegate Name="No."
+                            ID="17012"
+                            Slot1="slotDIDisp_TagNoChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Zone" ID="17020">
+                <Delegate Name="Upper"
+                            ID="17021"
+                            Slot1="slotDIDisp_ZoneUpperChanged()"/>
+                <Delegate Name="Lower"
+                            ID="17022"
+                            Slot1="slotDIDisp_ZoneLowerChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Scale" ID="17030">
+                <Delegate Name="Position"
+                            ID="17031"
+                            Slot1="slotDIDisp_ScalePosChanged()"/>
+                <Delegate Name="Division"
+                            ID="17032"
+                            Slot1="slotDIDisp_ScaleDivChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Bar graph" ID="17040">
+                <Delegate Name="Base position"
+                            ID="17041"
+                            Slot1="slotDIDisp_BarBasePosChanged()"/>
+                <Delegate Name="Division"
+                            ID="17042"
+                            Slot1="slotDIDisp_BarDivChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Alarm point mark" ID="17070">
+                <Delegate Name="Indicate on Scale"
+                            ID="17071"
+                            Slot1="slotDIDisp_AlarmIndicateChanged()"/>
+                <Delegate Name="Mark type"
+                            ID="17072"
+                            Slot1="slotDIDisp_AlarmMarkTypeChanged()"/>
+                <Delegate Name="Alarm 1 color"
+                            ID="17073"
+                            Slot1="slotDIDisp_AlarmAlarm1Changed()"/>
+                <Delegate Name="Alarm 2 color"
+                            ID="17074"
+                            Slot1="slotDIDisp_AlarmAlarm2Changed()"/>
+                <Delegate Name="Alarm 3 color"
+                            ID="17075"
+                            Slot1="slotDIDisp_AlarmAlarm3Changed()"/>
+                <Delegate Name="Alarm 4 color"
+                            ID="17076"
+                            Slot1="slotDIDisp_AlarmAlarm4Changed()"/>
+        </Delegate>
+
+        <Delegate Name="Display characters of each value" ID="17080">
+                <Delegate Name="0"
+                            ID="17081"
+                            Slot1="slotDIDisp_DisVal_0_Changed()"/>
+                <Delegate Name="1"
+                            ID="17082"
+                            Slot1="slotDIDisp_DisVal_1_Changed()"/>
+        </Delegate>
+
+</Root>

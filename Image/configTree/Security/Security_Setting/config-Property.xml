@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="User property">
+            <Object Name="Record" ID="24074"/>
+            <Object Name="Math" ID="24075"/>
+            <Object Name="Data save" ID="24076"/>
+            <Object Name="Message" ID="24077"/>
+            <Object Name="Batch" ID="24078"/>
+            <Object Name="AlarmACK" ID="24079"/>
+            <Object Name="Communication" ID="24080"/>
+            <Object Name="Touch operation" ID="24081"/>
+            <Object Name="Time set" ID="24082"/>
+            <Object Name="Setting operation" ID="24083"/>
+            <Object Name="External media" ID="24084"/>
+            <Object Name="System operation" ID="24085"/>
+            <Object Name="Output operation" ID="24086"/>
+        </Config>
+</Root>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Message">
+                <Object Name="Message 1" ID="21400"/>
+                <Object Name="Message 2" ID="21401"/>
+                <Object Name="Message 3" ID="21402"/>
+                <Object Name="Message 4" ID="21403"/>
+                <Object Name="Message 5" ID="21404"/>
+                <Object Name="Message 6" ID="21405"/>
+                <Object Name="Message 7" ID="21406"/>
+                <Object Name="Message 8" ID="21407"/>
+                <Object Name="Message 9" ID="21408"/>
+                <Object Name="Message 10" ID="21409"/>
+
+                <Object Name="Message 11" ID="21410"/>
+                <Object Name="Message 12" ID="21411"/>
+                <Object Name="Message 13" ID="21412"/>
+                <Object Name="Message 14" ID="21413"/>
+                <Object Name="Message 15" ID="21414"/>
+                <Object Name="Message 16" ID="21415"/>
+                <Object Name="Message 17" ID="21416"/>
+                <Object Name="Message 18" ID="21417"/>
+                <Object Name="Message 19" ID="21418"/>
+                <Object Name="Message 20" ID="21419"/>
+
+                <Object Name="Message 21" ID="21420"/>
+                <Object Name="Message 22" ID="21421"/>
+                <Object Name="Message 23" ID="21422"/>
+                <Object Name="Message 24" ID="21423"/>
+                <Object Name="Message 25" ID="21424"/>
+                <Object Name="Message 26" ID="21425"/>
+                <Object Name="Message 27" ID="21426"/>
+                <Object Name="Message 28" ID="21427"/>
+                <Object Name="Message 29" ID="21428"/>
+                <Object Name="Message 30" ID="21429"/>
+
+                <Object Name="Message 31" ID="21430"/>
+                <Object Name="Message 32" ID="21431"/>
+                <Object Name="Message 33" ID="21432"/>
+                <Object Name="Message 34" ID="21433"/>
+                <Object Name="Message 35" ID="21434"/>
+                <Object Name="Message 36" ID="21435"/>
+                <Object Name="Message 37" ID="21436"/>
+                <Object Name="Message 38" ID="21437"/>
+                <Object Name="Message 39" ID="21438"/>
+                <Object Name="Message 40" ID="21439"/>
+
+                <Object Name="Message 41" ID="21440"/>
+                <Object Name="Message 42" ID="21441"/>
+                <Object Name="Message 43" ID="21442"/>
+                <Object Name="Message 44" ID="21443"/>
+                <Object Name="Message 45" ID="21444"/>
+                <Object Name="Message 46" ID="21445"/>
+                <Object Name="Message 47" ID="21446"/>
+                <Object Name="Message 48" ID="21447"/>
+                <Object Name="Message 49" ID="21448"/>
+                <Object Name="Message 50" ID="21449"/>
+
+                <Object Name="Message 51" ID="21450"/>
+                <Object Name="Message 52" ID="21451"/>
+                <Object Name="Message 53" ID="21452"/>
+                <Object Name="Message 54" ID="21453"/>
+                <Object Name="Message 55" ID="21454"/>
+                <Object Name="Message 56" ID="21455"/>
+                <Object Name="Message 57" ID="21456"/>
+                <Object Name="Message 58" ID="21457"/>
+                <Object Name="Message 59" ID="21458"/>
+                <Object Name="Message 60" ID="21459"/>
+
+                <Object Name="Message 61" ID="21460"/>
+                <Object Name="Message 62" ID="21461"/>
+                <Object Name="Message 63" ID="21462"/>
+                <Object Name="Message 64" ID="21463"/>
+                <Object Name="Message 65" ID="21464"/>
+                <Object Name="Message 66" ID="21465"/>
+                <Object Name="Message 67" ID="21466"/>
+                <Object Name="Message 68" ID="21467"/>
+                <Object Name="Message 69" ID="21468"/>
+                <Object Name="Message 70" ID="21469"/>
+
+                <Object Name="Message 71" ID="21470"/>
+                <Object Name="Message 72" ID="21471"/>
+                <Object Name="Message 73" ID="21472"/>
+                <Object Name="Message 74" ID="21473"/>
+                <Object Name="Message 75" ID="21474"/>
+                <Object Name="Message 76" ID="21475"/>
+                <Object Name="Message 77" ID="21476"/>
+                <Object Name="Message 78" ID="21477"/>
+                <Object Name="Message 79" ID="21478"/>
+                <Object Name="Message 80" ID="21479"/>
+
+                <Object Name="Message 81" ID="21480"/>
+                <Object Name="Message 82" ID="21481"/>
+                <Object Name="Message 83" ID="21482"/>
+                <Object Name="Message 84" ID="21483"/>
+                <Object Name="Message 85" ID="21484"/>
+                <Object Name="Message 86" ID="21485"/>
+                <Object Name="Message 87" ID="21486"/>
+                <Object Name="Message 88" ID="21487"/>
+                <Object Name="Message 89" ID="21488"/>
+                <Object Name="Message 90" ID="21489"/>
+
+                <Object Name="Message 91" ID="21490"/>
+                <Object Name="Message 92" ID="21491"/>
+                <Object Name="Message 93" ID="21492"/>
+                <Object Name="Message 94" ID="21493"/>
+                <Object Name="Message 95" ID="21494"/>
+                <Object Name="Message 96" ID="21495"/>
+                <Object Name="Message 97" ID="21496"/>
+                <Object Name="Message 98" ID="21497"/>
+                <Object Name="Message 99" ID="21498"/>
+                <Object Name="Message 100" ID="21499"/>
+        </Config>
+
+</Root>

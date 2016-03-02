@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Report Delegate:Report channel settings:Report channel:Channel type"
+                    Val="0" ID="22071">
+                    <Delegate Name="Config:Report Delegate:Report channel settings:Report channel:Channel No."
+                              Hide="true"
+                              Value=""/>
+
+                    <Delegate Name="Config:Report Delegate:Report channel settings:Report channel:Sum scale"
+                              Hide="true"
+                              Value=""/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Report Delegate:Report channel settings:Report channel:Channel type"
+                    Val="1" ID="22071">
+                    <Delegate Name="Config:Report Delegate:Report channel settings:Report channel:Channel No."
+                              Hide="slot"/>
+
+                    <Delegate Name="Config:Report Delegate:Report channel settings:Report channel:Sum scale"
+                              Hide="slot"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Report Delegate:Report channel settings:Report channel:Channel type"
+                    Val="4" ID="22071">
+                    <Delegate Name="Config:Report Delegate:Report channel settings:Report channel:Channel No."
+                              Hide="slot"/>
+
+                    <Delegate Name="Config:Report Delegate:Report channel settings:Report channel:Sum scale"
+                              Hide="slot"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Report Delegate:Report channel settings:Report channel:Channel type"
+                    Val="5" ID="22071">
+                    <Delegate Name="Config:Report Delegate:Report channel settings:Report channel:Channel No."
+                              Hide="slot"/>
+
+                    <Delegate Name="Config:Report Delegate:Report channel settings:Report channel:Sum scale"
+                              Hide="slot"/>
+    </ValueChange>
+
+</Root>

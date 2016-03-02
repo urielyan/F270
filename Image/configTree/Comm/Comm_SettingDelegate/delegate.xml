@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delegate Name="Communication channel Delegate" ID="22500">
+
+        <Delegate Name="On/Off, Span"
+                    ID="22503"
+                    File=":/configtree/Image/configTree/Comm/Comm_SettingDelegate/delegate-range.xml"/>
+
+        <Delegate Name="Alarm"
+                    ID="22550"
+                    File=":/configtree/Image/configTree/Comm/Comm_SettingDelegate/delegate-alarm.xml"/>
+
+        <Delegate Name="Display settings"
+                    ID="22660"
+                    File=":/configtree/Image/configTree/Comm/Comm_SettingDelegate/delegate-Display settings.xml"/>
+
+        <Delegate Name="First-CH"
+                    ID="22501"
+                    Slot1="slotCommFirstCHChange()"/>
+
+        <Delegate Name="Last-CH"
+                    ID="22502"
+                    Slot1="slotCommLastCHChange()"
+                    Slot2="slotCommDelegateChange()"/>
+
+</Delegate>

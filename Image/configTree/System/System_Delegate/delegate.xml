@@ -1,0 +1,46 @@
+<Delegate Name="System Delegate" ID="22700">
+
+        <Delegate Name="Environment(Lanuage) settings"
+                    ID="22701"
+                    File=":/configtree/Image/configTree/System/System_Delegate/delegate-Environment.xml"/>
+
+        <Delegate Name="Alarm basic settings"
+                    ID="22720"
+                    File=":/configtree/Image/configTree/System/System_Delegate/delegate-Alarm.xml"/>
+
+
+        <Delegate Name="Time basic settings"
+                    ID="22730"
+                    File=":/configtree/Image/configTree/System/System_Delegate/delegate-Time.xml"/>
+
+
+        <Delegate Name="Internal switch settings"
+                    ID="22770"
+                    File=":/configtree/Image/configTree/System/System_Delegate/delegate-Internal.xml"/>
+
+
+        <Delegate Name="Status relay"
+                    ID="22760"
+                    File=":/configtree/Image/configTree/System/System_Delegate/delegate-Relay.xml"/>
+
+
+        <Delegate Name="Printer settings"
+                    ID="22780"
+                    File=":/configtree/Image/configTree/System/System_Delegate/delegate-Printer.xml"/>
+
+
+        <Delegate Name="Sound, LED"
+                    ID="22750"
+                    File=":/configtree/Image/configTree/System/System_Delegate/delegate-Sound.xml"/>
+
+
+        <Delegate Name="Instrument tag"
+                    ID="22790"
+                    File=":/configtree/Image/configTree/System/System_Delegate/delegate-Instrument.xml"/>
+
+
+        <Delegate Name="Settings file"
+                    ID="22800"
+                    File=":/configtree/Image/configTree/System/System_Delegate/delegate-File.xml"/>
+
+</Delegate>

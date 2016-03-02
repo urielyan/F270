@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Basic settings:Automatic DNS settings:Obtain DNS address automatically"
+                    Val="0" ID="20021">
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:DNS settings"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:DNS settings:Primary DNS server"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:DNS settings:Secondary DNS server"
+                  Hide="slot"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Basic settings:Automatic DNS settings:Obtain DNS address automatically"
+                    Val="1" ID="20021">
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:DNS settings"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:DNS settings:Primary DNS server"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:DNS settings:Secondary DNS server"
+                  Hide="true"
+                  Value=""/>
+    </ValueChange>
+
+</Root>

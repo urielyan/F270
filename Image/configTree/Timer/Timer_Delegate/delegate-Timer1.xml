@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="Type" ID="22111">
+                <Delegate Name="Type"
+                            ID="22112"
+                            Slot1="slotTImerSettingTime1TypeChange()"/>
+        </Delegate>
+
+        <Delegate Name="Interval" ID="22120">
+                <Delegate Name="Day"
+                            ID="22121"
+                            Slot1="slotTImerSettingTime1DayChange()"/>
+
+                <Delegate Name="Hour"
+                            ID="22122"
+                            Slot1="slotTImerSettingTime1HourChange()"/>
+
+                <Delegate Name="Minute"
+                            ID="22123"
+                            Slot1="slotTImerSettingTime1MinuteChange()"/>
+
+                <Delegate Name="Interval"
+                            ID="22124"
+                            Slot1="slotTImerSettingTime1IntervalChange()"/>
+
+        </Delegate>
+
+
+
+
+</Root>

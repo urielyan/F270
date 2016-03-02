@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delegate Name="AI Delegate" ID="10000">
+
+        <Delegate Name="Range"
+                  ID="10003"
+                  File=":/configtree/Image/configTree/AI_SettingDelegate/delegate-Range.xml"/>
+
+        <Delegate Name="Alarm"
+                  ID="11000"
+                  File=":/configtree/Image/configTree/AI_SettingDelegate/delegate-Alarm.xml"/>
+
+        <Delegate Name="Display settings"
+                  ID="12000"
+                  File=":/configtree/Image/configTree/AI_SettingDelegate/delegate-Display settings.xml"/>
+
+        <Delegate Name="Calibration correction"
+                  ID="13000"
+                  File=":/configtree/Image/configTree/AI_SettingDelegate/delegate-Calibration correction.xml"/>
+
+    <Delegate Name="First-CH"
+                ID="10002"
+                Slot1="slotAIFirst_chanSelectchanged()"/>
+    <Delegate Name="Last-CH"
+                ID="10001"
+                Slot1="slotAILast_chanSelectchanged()"
+                Slot2="slotAIDelegateChange()"/>
+</Delegate>

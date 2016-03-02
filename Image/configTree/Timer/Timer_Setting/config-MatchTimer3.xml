@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Config Name="Type">
+                <Object Name="Type" ID="22242"/>
+        </Config>
+
+        <Config Name="Timer match condition">
+                <Object Name="Month" ID="22251"/>
+                <Object Name="Day" ID="22252"/>
+                <Object Name="Day of week" ID="22253"/>
+                <Object Name="Hour" ID="22254"/>
+                <Object Name="Minute" ID="22255"/>
+        </Config>
+
+        <Config Name="Timer action">
+                <Object Name="Timer action" ID="22256"/>
+        </Config>
+
+
+
+</Root>

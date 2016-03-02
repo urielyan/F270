@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Recording Delegate:Recording channel settings">
+        <MenuNormal
+                Path="Config:Recording Delegate:Recording channel settings:Display data, Trend waveform"
+                Normal = ":/config/AI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change-blue.png"
+                Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                Clicked = "slotChannelSelectClicked()"
+                Include ="none"/>
+        <MenuNormal
+                Path="Config:Recording Delegate:Recording channel settings:Event data"
+                Normal = ":/config/AI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change-blue.png"
+                Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                Clicked = "slotChannelSelectClicked()"
+                Include ="none"/>
+        <MenuNormal
+                Path="Config:Recording Delegate:Recording channel settings:Manual sample"
+                Normal = ":/config/AI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change-blue.png"
+                Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                Clicked = "slotChannelSelectClicked()"
+                Include ="none"/>
+
+</Config>

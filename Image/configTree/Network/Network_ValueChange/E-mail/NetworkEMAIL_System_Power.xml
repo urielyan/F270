@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:E-mail settings:System settings:Power failure notification"
+                    Val="0" ID="20392">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:E-mail settings:System settings:Power failure notification"
+                    Val="1" ID="20392">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:E-mail settings:System settings:Power failure notification"
+                    Val="2" ID="20392">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:E-mail settings:System settings:Power failure notification"
+                    Val="3" ID="20392">
+    </ValueChange>
+</Root>

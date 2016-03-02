@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Display Delegate">
+        <MenuTitle
+                Path="Config:Display Delegate:Trend settings"
+                Type = "title"
+                Normal = ":/config/AI_Menu/Calibration_Menu/calibration.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/AI_Menu/Calibration_Menu/calibration_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Display_Menu/Trend_Menu/config.xml"/>
+        <MenuTitle
+                Path="Config:Display Delegate:Group settings"
+                Type = "title"
+                Normal = ":/config/AI_Menu/Display_Menu/display.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/AI_Menu/Display_Menu/display_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Display_Menu/Group_Menu/config.xml"/>
+        <MenuTitle
+                Path="Config:Display Delegate:Message settings"
+                Type = "title"
+                Normal = ":/config/AI_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/AI_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Display_Menu/Message_Menu/config.xml"/>
+	<MenuTitle
+                Path="Config:Display Delegate:Screen display settings"
+		Type = "title"
+		Normal = ":/config/AI_Menu/Range_Menu/range.png"
+                Changed = ":/setting/Image/setting/change.png"
+		Hint = ":/config/AI_Menu/Range_Menu/range_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Display_Menu/Screen_Menu/config.xml"/>
+</Config>

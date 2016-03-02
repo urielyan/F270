@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Color" ID="12001">
+                <Delegate Name="Color"
+                            ID="12002"
+                            Slot1="slotAIDisp_ColorColorChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Tag" ID="12010">
+                <Delegate Name="Characters"
+                            ID="12011"
+                            Slot1="slotAIDisp_TagCharChanged()"/>
+                <Delegate Name="No."
+                            ID="12012"
+                            Slot1="slotAIDisp_TagNoChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Zone" ID="12020">
+                <Delegate Name="Upper"
+                            ID="12021"
+                            Slot1="slotAIDisp_ZoneUpperChanged()"/>
+                <Delegate Name="Lower"
+                            ID="12022"
+                            Slot1="slotAIDisp_ZoneLowerChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Scale" ID="12030">
+                <Delegate Name="Position"
+                            ID="12031"
+                            Slot1="slotAIDisp_ScalePosChanged()"/>
+                <Delegate Name="Division"
+                            ID="12032"
+                            Slot1="slotAIDisp_ScaleDivChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Bar graph" ID="12040">
+                <Delegate Name="Base position"
+                            ID="12041"
+                            Slot1="slotAIDisp_BarBasePosChanged()"/>
+                <Delegate Name="Division"
+                            ID="12042"
+                            Slot1="slotAIDisp_BarDivChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Partial" ID="12050">
+                <Delegate Name="On/Off"
+                            ID="12051"
+                            Slot1="slotAIDisp_PartOnoffChanged()"/>
+                <Delegate Name="Expand"
+                            ID="12053"
+                            Slot1="slotAIDisp_PartExpandChanged()"/>
+                <Delegate Name="Boundary"
+                            ID="12052"
+                            Slot1="slotAIDisp_PartBoundChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Color scale band" ID="12060">
+                <Delegate Name="Band area"
+                            ID="12064"
+                            Slot1="slotAIDisp_CsbandBandareaChanged()"/>
+                <Delegate Name="Display position Upper"
+                            ID="12063"
+                            Slot1="slotAIDisp_CsbandDispUpChanged()"/>
+                <Delegate Name="Display position Lower"
+                            ID="12062"
+                            Slot1="slotAIDisp_CsbandDispLowChanged()"/>
+                <Delegate Name="Color"
+                            ID="12061"
+                            Slot1="slotAIDisp_CsbandColorChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Alarm point mark" ID="12070">
+                <Delegate Name="Indicate on Scale"
+                            ID="12071"
+                            Slot1="slotAIDisp_AlarmIndicateChanged()"/>
+                <Delegate Name="Mark type"
+                            ID="12072"
+                            Slot1="slotAIDisp_AlarmMarkTypeChanged()"/>
+                <Delegate Name="Alarm 1 color"
+                            ID="12073"
+                            Slot1="slotAIDisp_AlarmAlarm1Changed()"/>
+                <Delegate Name="Alarm 2 color"
+                            ID="12074"
+                            Slot1="slotAIDisp_AlarmAlarm2Changed()"/>
+                <Delegate Name="Alarm 3 color"
+                            ID="12075"
+                            Slot1="slotAIDisp_AlarmAlarm3Changed()"/>
+                <Delegate Name="Alarm 4 color"
+                            ID="12076"
+                            Slot1="slotAIDisp_AlarmAlarm4Changed()"/>
+        </Delegate>
+
+        <Delegate Name="Display characters of each value" ID="12080">
+                <Delegate Name="0"
+                            ID="12081"
+                            Slot1="slotAIDisp_DisVal_0_Changed()"/>
+                <Delegate Name="1"
+                            ID="12082"
+                            Slot1="slotAIDisp_DisVal_1_Changed()"/>
+        </Delegate>
+
+</Root>

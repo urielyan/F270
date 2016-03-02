@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="0"
+                Normal2="Config:DI Delegate:Alarm:Level 1:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 1:Value"
+                  Hide="refresh"
+                  Value="0"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 1:Hysteresis"
+                  Hide="refresh"
+                  Value="0"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="0"
+                Normal2="Config:DI Delegate:Alarm:Level 2:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 2:Value"
+                  Hide="refresh"
+                  Value="0"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 2:Hysteresis"
+                  Hide="refresh"
+                  Value="0"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="0"
+                Normal2="Config:DI Delegate:Alarm:Level 3:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 3:Value"
+                  Hide="refresh"
+                  Value="0"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 3:Hysteresis"
+                  Hide="refresh"
+                  Value="0"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="0"
+                Normal2="Config:DI Delegate:Alarm:Level 4:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 4:Value"
+                  Hide="refresh"
+                  Value="0"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 4:Hysteresis"
+                  Hide="refresh"
+                  Value="0"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="1"
+                Normal2="Config:DI Delegate:Alarm:Level 1:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 1:Value"
+                  Hide="refresh"
+                  Value="0.0"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 1:Hysteresis"
+                  Hide="refresh"
+                  Value="0.0"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="1"
+                Normal2="Config:DI Delegate:Alarm:Level 2:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 2:Value"
+                  Hide="refresh"
+                  Value="0.0"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 2:Hysteresis"
+                  Hide="refresh"
+                  Value="0.0"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="1"
+                Normal2="Config:DI Delegate:Alarm:Level 3:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 3:Value"
+                  Hide="refresh"
+                  Value="0.0"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 3:Hysteresis"
+                  Hide="refresh"
+                  Value="0.0"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="1"
+                Normal2="Config:DI Delegate:Alarm:Level 4:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 4:Value"
+                  Hide="refresh"
+                  Value="0.0"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 4:Hysteresis"
+                  Hide="refresh"
+                  Value="0.0"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="2"
+                Normal2="Config:DI Delegate:Alarm:Level 1:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 1:Value"
+                  Hide="refresh"
+                  Value="0.00"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 1:Hysteresis"
+                  Hide="refresh"
+                  Value="0.00"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="2"
+                Normal2="Config:DI Delegate:Alarm:Level 2:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 2:Value"
+                  Hide="refresh"
+                  Value="0.00"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 2:Hysteresis"
+                  Hide="refresh"
+                  Value="0.00"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="2"
+                Normal2="Config:DI Delegate:Alarm:Level 3:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 3:Value"
+                  Hide="refresh"
+                  Value="0.00"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 3:Hysteresis"
+                  Hide="refresh"
+                  Value="0.00"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="2"
+                Normal2="Config:DI Delegate:Alarm:Level 4:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 4:Value"
+                  Hide="refresh"
+                  Value="0.00"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 4:Hysteresis"
+                  Hide="refresh"
+                  Value="0.00"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="3"
+                Normal2="Config:DI Delegate:Alarm:Level 1:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 1:Value"
+                  Hide="refresh"
+                  Value="0.000"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 1:Hysteresis"
+                  Hide="refresh"
+                  Value="0.000"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="3"
+                Normal2="Config:DI Delegate:Alarm:Level 2:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 2:Value"
+                  Hide="refresh"
+                  Value="0.000"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 2:Hysteresis"
+                  Hide="refresh"
+                  Value="0.000"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="3"
+                Normal2="Config:DI Delegate:Alarm:Level 3:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 3:Value"
+                  Hide="refresh"
+                  Value="0.000"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 3:Hysteresis"
+                  Hide="refresh"
+                  Value="0.000"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="3"
+                Normal2="Config:DI Delegate:Alarm:Level 4:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 4:Value"
+                  Hide="refresh"
+                  Value="0.000"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 4:Hysteresis"
+                  Hide="refresh"
+                  Value="0.000"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="4"
+                Normal2="Config:DI Delegate:Alarm:Level 1:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 1:Value"
+                  Hide="refresh"
+                  Value="0.0000"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 1:Hysteresis"
+                  Hide="refresh"
+                  Value="0.0000"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="4"
+                Normal2="Config:DI Delegate:Alarm:Level 2:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 2:Value"
+                  Hide="refresh"
+                  Value="0.0000"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 2:Hysteresis"
+                  Hide="refresh"
+                  Value="0.0000"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="4"
+                Normal2="Config:DI Delegate:Alarm:Level 3:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 3:Value"
+                  Hide="refresh"
+                  Value="0.0000"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 3:Hysteresis"
+                  Hide="refresh"
+                  Value="0.0000"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="4"
+                Normal2="Config:DI Delegate:Alarm:Level 4:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 4:Value"
+                  Hide="refresh"
+                  Value="0.0000"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 4:Hysteresis"
+                  Hide="refresh"
+                  Value="0.0000"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="5"
+                Normal2="Config:DI Delegate:Alarm:Level 1:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 1:Value"
+                  Hide="refresh"
+                  Value="0.00000"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 1:Hysteresis"
+                  Hide="refresh"
+                  Value="0.00000"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="5"
+                Normal2="Config:DI Delegate:Alarm:Level 2:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 2:Value"
+                  Hide="refresh"
+                  Value="0.00000"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 2:Hysteresis"
+                  Hide="refresh"
+                  Value="0.00000"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="5"
+                Normal2="Config:DI Delegate:Alarm:Level 3:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 3:Value"
+                  Hide="refresh"
+                  Value="0.00000"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 3:Hysteresis"
+                  Hide="refresh"
+                  Value="0.00000"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:DI Delegate:Range:Scale:Decimal place"
+                Value1="5"
+                Normal2="Config:DI Delegate:Alarm:Level 4:On/Off"
+                Value2="1">
+        <Factor Name="Config:DI Delegate:Alarm:Level 4:Value"
+                  Hide="refresh"
+                  Value="0.00000"/>
+        <Factor Name="Config:DI Delegate:Alarm:Level 4:Hysteresis"
+                  Hide="refresh"
+                  Value="0.00000"/>
+    </HideChange>
+</Root>

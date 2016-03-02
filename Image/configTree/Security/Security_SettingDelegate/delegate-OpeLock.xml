@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Operation Lock function" ID="24021">
+            <Delegate Name="Password" ID="24022" Slot1="slotSecurityOpelockPwdChange()"/>
+        </Delegate>
+
+        <Delegate Name="Limitations" ID="24030">
+            <Delegate Name="Record" ID="24031" Slot1="slotSecurityOpelockRecordChange()"/>
+            <Delegate Name="Math" ID="24032" Slot1="slotSecurityOpelockMathChange()"/>
+            <Delegate Name="Data save" ID="24033" Slot1="slotSecurityOpelockDatasaveChange()"/>
+            <Delegate Name="Message" ID="24034" Slot1="slotSecurityOpelockMsgChange()"/>
+            <Delegate Name="Batch" ID="24035" Slot1="slotSecurityOpelockBatchChange()"/>
+            <Delegate Name="AlarmACK" ID="24036" Slot1="slotSecurityOpelockACKChange()"/>
+            <Delegate Name="Communication" ID="24037" Slot1="slotSecurityOpelockCommChange()"/>
+            <Delegate Name="Touch operation" ID="24038" Slot1="slotSecurityOpelockTouchChange()"/>
+            <Delegate Name="Time set" ID="24039" Slot1="slotSecurityOpelockTimeChange()"/>
+            <Delegate Name="Setting operation" ID="24040" Slot1="slotSecurityOpelockSettingChange()"/>
+            <Delegate Name="External media" ID="24041" Slot1="slotSecurityOpelockEXTmediaChange()"/>
+            <Delegate Name="System operation" ID="24042" Slot1="slotSecurityOpelockSystemChange()"/>
+            <Delegate Name="Output operation" ID="24043" Slot1="slotSecurityOpelockOutputChange()"/>
+        </Delegate>
+
+</Root>

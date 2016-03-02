@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate"
+                    Objects="Config:Recording settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Basic settings"
+                    Objects="Config:Recording settings:Basic settings"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Recording channel settings"
+                    Objects="Config:Recording settings:Recording channel settings"/>
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Basic settings:Recording mode"
+                    Objects="Config:Recording settings:Basic settings:Recording mode"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Basic settings:Recording mode:Mode"
+                    Objects="Config:Recording settings:Basic settings:Recording mode:Mode"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform"
+                    Objects="Config:Recording settings:Basic settings:Display data, Trend waveform"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform:Saving interval"
+                    Objects="Config:Recording settings:Basic settings:Display data, Trend waveform:Saving interval"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Basic settings:Event data"
+                    Objects="Config:Recording settings:Basic settings:Event data"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Basic settings:Event data:Recording interval"
+                    Objects="Config:Recording settings:Basic settings:Event data:Recording interval"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Basic settings:Event data:Recording mode"
+                    Objects="Config:Recording settings:Basic settings:Event data:Recording mode"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Basic settings:Event data:Data length"
+                    Objects="Config:Recording settings:Basic settings:Event data:Data length"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Basic settings:Event data:Pre-trigger"
+                    Objects="Config:Recording settings:Basic settings:Event data:Pre-trigger"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Basic settings:Event data:Trigger source operation"
+                    Objects="Config:Recording settings:Basic settings:Event data:Trigger source operation"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Basic settings:Record confirmation action"
+                    Objects="Config:Recording settings:Basic settings:Record confirmation action"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Basic settings:Record confirmation action:Confirmation screen"
+                    Objects="Config:Recording settings:Basic settings:Record confirmation action:Confirmation screen"/>
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Recording channel settings:Display data, Trend waveform"
+                    Objects="Config:Recording settings:Recording channel settings:Display data, Trend waveform"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Recording channel settings:Display data, Trend waveform Channel item"
+                    Objects="Config:Recording settings:Recording channel settings:Display data, Trend waveform Channel item"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Recording channel settings:Event data"
+                    Objects="Config:Recording settings:Recording channel settings:Event data"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Recording channel settings:Event data Channel item"
+                    Objects="Config:Recording settings:Recording channel settings:Event data Channel item"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Recording channel settings:Manual sample"
+                    Objects="Config:Recording settings:Recording channel settings:Manual sample"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Recording Delegate:Recording channel settings:Manual sample Channel item"
+                    Objects="Config:Recording settings:Recording channel settings:Manual sample Channel item"/>
+
+</Root>

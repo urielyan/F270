@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="On/Off, Span">
+                <Object Name="On/Off" ID="22511"/>
+                <Object Name="Decimal place" ID="22512"/>
+                <Object Name="Span Lower" ID="22513"/>
+                <Object Name="Span Upper" ID="22514"/>
+                <Object Name="Unit" ID="22515"/>
+        </Config>
+
+        <Config Name="At power on">
+                <Object Name="Value at power on" ID="22521"/>
+        </Config>
+
+        <Config Name="Preset value">
+                <Object Name="Preset value" ID="22531"/>
+        </Config>
+
+
+
+        <Config Name="Watchdog timer">
+                <Object Name="On/Off" ID="22541"/>
+                <Object Name="Timer" ID="22542"/>
+                <Object Name="Value at timer-expired" ID="22543"/>
+        </Config>
+
+</Root>

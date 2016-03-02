@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config Name="Timer settings">
+
+
+        <Config Name="Timer">
+                <Config Name="Timer1"
+                        File=":/configtree/Image/configTree/Timer/Timer_Setting/config-Timer1.xml">
+                </Config>
+
+                <Config Name="Timer2"
+                        File=":/configtree/Image/configTree/Timer/Timer_Setting/config-Timer2.xml">
+                </Config>
+
+                <Config Name="Timer3"
+                        File=":/configtree/Image/configTree/Timer/Timer_Setting/config-Timer3.xml">
+                </Config>
+
+                <Config Name="Timer4"
+                        File=":/configtree/Image/configTree/Timer/Timer_Setting/config-Timer4.xml">
+                </Config>
+        </Config>
+
+        <Config Name="Match time timer">
+                <Config Name="Match time timer1"
+                        File=":/configtree/Image/configTree/Timer/Timer_Setting/config-MatchTimer1.xml">
+                </Config>
+
+                <Config Name="Match time timer2"
+                        File=":/configtree/Image/configTree/Timer/Timer_Setting/config-MatchTimer2.xml">
+                </Config>
+
+                <Config Name="Match time timer3"
+                        File=":/configtree/Image/configTree/Timer/Timer_Setting/config-MatchTimer3.xml">
+                </Config>
+
+                <Config Name="Match time timer4"
+                        File=":/configtree/Image/configTree/Timer/Timer_Setting/config-MatchTimer4.xml">
+                </Config>
+        </Config>
+
+</Config>

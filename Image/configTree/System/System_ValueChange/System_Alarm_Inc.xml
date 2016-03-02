@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP client function:On/Off"
+                    Val="0" ID="20102">
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Display &amp; Event data"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Report"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Manual sampled data"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Alarm summary"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Snap shot"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Device settings"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer wait time"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer wait time:Display &amp; Event data"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer wait time:Report"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Encryption"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Encryption:Encryption"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Encryption:Verfication of certificate"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary:Port number"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary:PASV mode"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary:FTP server name"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary:User name"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary:Password"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary:Directory"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary:Port number"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary:PASV mode"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary:FTP server name"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary:User name"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary:Password"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary:Directory"
+                  Hide="true"
+                  Value=""/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP client function:On/Off"
+                    Val="1" ID="20102">
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Display &amp; Event data"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Report"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Manual sampled data"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Alarm summary"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Snap shot"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Device settings"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer wait time"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer wait time:Display &amp; Event data"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer wait time:Report"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Encryption"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Encryption:Encryption"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:Encryption:Verfication of certificate"
+                  Hide="false"
+                  Value="1"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary:Port number"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary:PASV mode"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary:FTP server name"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary:User name"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary:Password"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary:Directory"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary:Port number"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary:PASV mode"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary:FTP server name"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary:User name"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary:Password"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary:Directory"
+                  Hide="slot"/>
+    </ValueChange>
+
+</Root>

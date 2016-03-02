@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="FTP" ID="20561">
+                <Delegate Name="On/Off"
+                            ID="20562"
+                            Slot1="slotServerSettingFTPFunctionChange()"/>
+                <Delegate Name="Encryption"
+                            ID="20563"
+                            Slot1="slotServerSettingFTPEncyptionChange()"/>
+                <Delegate Name="Port number"
+                            ID="20565"
+                            Slot1="slotServerSettingFTPPortChange()"/>   
+                <Delegate Name="Keep alive"
+                            ID="20564"
+                            Slot1="slotServerSettingFTPKeepChange()"/>
+        </Delegate>
+
+        <Delegate Name="HTTP" ID="20570">
+                <Delegate Name="On/Off"
+                            ID="20571"
+                            Slot1="slotServerSettingHTTPFunctionChange()"/>
+                <Delegate Name="Encryption"
+                            ID="20572"
+                            Slot1="slotServerSettingHTTPEncyptionChange()"/>
+                <Delegate Name="Port number"
+                            ID="20573"
+                            Slot1="slotServerSettingHTTPPortChange()"/>
+        </Delegate>
+
+        <Delegate Name="SNTP" ID="20575">
+                <Delegate Name="On/Off"
+                            ID="20576"
+                            Slot1="slotServerSettingSNTPFunctionChange()"/>
+                <Delegate Name="Port number"
+                            ID="20577"
+                            Slot1="slotServerSettingSNTPPortChange()"/>
+        </Delegate>
+
+        <Delegate Name="MODBUS" ID="20580">
+                <Delegate Name="On/Off"
+                            ID="20581"
+                            Slot1="slotServerSettingModbusFunctionChange()"/>
+                <Delegate Name="Port number"
+                            ID="20582"
+                            Slot1="slotServerSettingModbusPortChange()"/>
+                <Delegate Name="Modbus delay response"
+                            ID="20504"
+                            Slot1="slotServerSettingModbusDelayChange()"/>
+        </Delegate>
+</Root>

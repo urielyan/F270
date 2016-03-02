@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Encryption:Verification of certificate"
+                    Val="0" ID="20222">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Encryption:Verification of certificate"
+                    Val="1" ID="20222">
+    </ValueChange>
+</Root>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="Automatic IP settings" ID="20010">
+                <Delegate Name="Obtain IP address automatically"
+                            ID="20011"
+                            Slot1="slotBasicAutoIPChange()"/>
+        </Delegate>
+
+        <Delegate Name="Automatic DNS settings" ID="20020">
+                <Delegate Name="Obtain DNS address automatically"
+                            ID="20021"
+                            Slot1="slotBasicAutoDNSChange()"/>
+        </Delegate>
+
+        <Delegate Name="IP Address" ID="20050">
+                <Delegate Name="IP Address"
+                            ID="20051"
+                            Slot1="slotBasicIPAddrChange()"/>
+                <Delegate Name="Subnet mask"
+                            ID="20052"
+                            Slot1="slotBasicIPMaskChange()"/>
+                <Delegate Name="Default gateway"
+                            ID="20053"
+                            Slot1="slotBasicIPGatewayChange()"/>
+        </Delegate>
+
+        <Delegate Name="DNS settings" ID="20060">
+                <Delegate Name="Primary DNS server"
+                            ID="20061"
+                            Slot1="slotBasicDNSPriChange()"/>
+                <Delegate Name="Secondary DNS server"
+                            ID="20062"
+                            Slot1="slotBasicDNSSecChange()"/>
+        </Delegate>
+
+</Root>

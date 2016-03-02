@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Security Delegate:Basic settings:Security function:Communication"
+                    Val="0" ID="24004">
+        <Delegate Name="Config:Security Delegate:User settings"
+                  Hide=":/configtree/Image/configTree/Security/Security_ValueChange/Hide_SecurityUser.xml"/>
+        <Delegate Name="Config:Security Delegate:User property"
+                  Hide=":/configtree/Image/configTree/Security/Security_ValueChange/Hide_SecurityUser.xml"/>
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Security Delegate:Basic settings:Security function:Communication"
+                    Val="1" ID="24004">
+        <Delegate Name="Config:Security Delegate:User settings"
+                  Hide=":/configtree/Image/configTree/Security/Security_ValueChange/Hide_SecurityUser.xml"/>
+        <Delegate Name="Config:Security Delegate:User property"
+                  Hide=":/configtree/Image/configTree/Security/Security_ValueChange/Hide_SecurityUser.xml"/>
+
+    </ValueChange>
+
+</Root>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Batch Delegate:Batch function:On/Off"
+                    Val="0" ID="21902">
+
+        <Delegate Name="Config:Batch Delegate:Batch function:Lot-No. digit"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Batch Delegate:Batch function:Auto increment"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Batch Delegate:Batch text"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Batch Delegate:Batch text:Batch text"
+                  Hide="true"
+                  Value=""/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Batch Delegate:Batch function:On/Off"
+                    Val="1" ID="21902">
+
+        <Delegate Name="Config:Batch Delegate:Batch function:Lot-No. digit"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Batch Delegate:Batch function:Auto increment"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Batch Delegate:Batch text"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Batch Delegate:Batch text:Batch text"
+                  Hide="slot"/>
+    </ValueChange>
+</Root>

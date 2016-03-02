@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <ValueChange    Name="Config:Report Delegate:Basic settings:Creation time:Save interval"
+                        Val="2" ID="22015">
+        </ValueChange>
+
+        <ValueChange    Name="Config:Report Delegate:Basic settings:Creation time:Save interval"
+                        Val="3" ID="22015">
+        </ValueChange>
+
+
+        <ValueChange    Name="Config:Report Delegate:Basic settings:Creation time:Save interval"
+                        Val="4" ID="22015">
+        </ValueChange>
+
+
+        <ValueChange    Name="Config:Report Delegate:Basic settings:Creation time:Save interval"
+                        Val="5" ID="22015">
+        </ValueChange>
+
+
+
+        <ValueChange    Name="Config:Report Delegate:Basic settings:Creation time:Save interval"
+                        Val="10" ID="22015">
+        </ValueChange>
+
+
+        <ValueChange    Name="Config:Report Delegate:Basic settings:Creation time:Save interval"
+                        Val="15" ID="22015">
+        </ValueChange>
+
+
+        <ValueChange    Name="Config:Report Delegate:Basic settings:Creation time:Save interval"
+                        Val="30" ID="22015">
+        </ValueChange>
+
+        <ValueChange    Name="Config:Report Delegate:Basic settings:Creation time:Save interval"
+                        Val="60" ID="22015">
+        </ValueChange>
+
+
+</Root>

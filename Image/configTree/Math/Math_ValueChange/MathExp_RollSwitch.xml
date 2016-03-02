@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Math Delegate:Calculation expression:Rolling average:On/Off"
+                    Val="0" ID="21021">
+        <Delegate Name="Config:Math Delegate:Calculation expression:Rolling average:Interval"
+                  Hide="true"/>
+        <Delegate Name="Config:Math Delegate:Calculation expression:Rolling average:Number of samples"
+                  Hide="true"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Calculation expression:Rolling average:On/Off"
+                    Val="1" ID="21021">
+        <Delegate Name="Config:Math Delegate:Calculation expression:Rolling average:Interval"
+                  Hide="slot"/>
+        <Delegate Name="Config:Math Delegate:Calculation expression:Rolling average:Number of samples"
+                  Hide="slot"/>
+    </ValueChange>
+
+</Root>

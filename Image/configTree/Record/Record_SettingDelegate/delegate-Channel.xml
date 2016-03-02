@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Display data, Trend waveform"
+                    ID="21651"
+                    Slot1="slotRecordChannelDispChanged()"/>
+        <Delegate Name="Display data, Trend waveform Channel item" ID="21652"/>
+
+        <Delegate Name="Event data"
+                ID="21641"
+                Slot1="slotRecordChannelEventChanged()"/>
+        <Delegate Name="Event data Channel item" ID="21642"/>
+
+        <Delegate Name="Manual sample"
+                ID="21661"
+                Slot1="slotRecordChannelSampleChanged()"/>
+        <Delegate Name="Manual sample Channel item" ID="21662"/>
+
+</Root>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Communication channel Delegate:Alarm:Level4:Logging"
+                    Val="0" ID="22586">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication channel Delegate:Alarm:Level4:Logging"
+                    Val="1" ID="22586">
+    </ValueChange>
+</Root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="Master command number"
+                    ID="22451"
+                    Slot1="slotSerialModbusCommandNumberChange()"
+                    Slot2="slotSericalDelegateChange()"/>
+
+        <Delegate Name="Command settings"
+                    ID="22460"
+                    File=":/configtree/Image/configTree/Serial/Serial_SettingDelegate/delegate-Modbus-Command_Setting.xml"/>
+
+</Root>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delegate Name="Batch Delegate" ID="21900">
+
+        <Delegate Name="Batch function" ID="21901">
+                <Delegate Name="On/Off"
+                            ID="21902"
+                            Slot1="slotConfigBatchFunctionChange()"/>
+
+                <Delegate Name="Lot-No. digit"
+                            ID="21903"
+                            Slot1="slotConfigBatchLotChange()"/>
+
+                <Delegate Name="Auto increment"
+                            ID="21904"
+                            Slot1="slotConfigBatchAutoChange()"/>
+        </Delegate>
+
+        <Delegate Name="Batch text" ID="21920">
+                    <Delegate Name="Batch text"
+                                ID="21921"
+                                File=":/configtree/Image/configTree/Batch/Batch_Delegate/delegate-Text.xml"/>
+        </Delegate>
+</Delegate>

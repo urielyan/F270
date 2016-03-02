@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <Config Name="Basic settings"
+            File=":/configtree/Image/configTree/Network/Network_Setting/config-Modbus-Basic.xml">
+    </Config>
+
+    <Config Name="Modbus server settings"
+            File=":/configtree/Image/configTree/Network/Network_Setting/config-Modbus-ServerSetting.xml">
+    </Config>
+
+    <Config Name="Command settings"
+            File=":/configtree/Image/configTree/Network/Network_Setting/config-Modbus-CommandSetting.xml">
+    </Config>
+
+</Root>

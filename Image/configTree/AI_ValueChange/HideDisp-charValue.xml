@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <HideChange Normal1="Config:AI Delegate:Range:Range:Type"
+                Value1="5"
+                Normal2="Config:AI Delegate:Range:Range:Calculation"
+                Value2="0">
+        <Factor Name="Config:AI Delegate:Display settings:Display characters of each value"
+                Hide="false"
+                Value=""/>
+    </HideChange>
+</Root>

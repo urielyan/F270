@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Constant" ID="21192">
+                <Delegate Name="K001" ID="21200" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K002" ID="21201" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K003" ID="21202" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K004" ID="21203" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K005" ID="21204" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K006" ID="21205" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K007" ID="21206" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K008" ID="21207" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K009" ID="21208" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K010" ID="21209" Slot1="slotMathConstantKItemChanged()"/>
+
+                <Delegate Name="K011" ID="21210" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K012" ID="21211" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K013" ID="21212" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K014" ID="21213" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K015" ID="21214" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K016" ID="21215" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K017" ID="21216" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K018" ID="21217" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K019" ID="21218" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K020" ID="21219" Slot1="slotMathConstantKItemChanged()"/>
+
+                <Delegate Name="K021" ID="21220" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K022" ID="21221" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K023" ID="21222" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K024" ID="21223" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K025" ID="21224" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K026" ID="21225" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K027" ID="21226" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K028" ID="21227" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K029" ID="21228" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K030" ID="21229" Slot1="slotMathConstantKItemChanged()"/>
+
+                <Delegate Name="K031" ID="21230" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K032" ID="21231" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K033" ID="21232" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K034" ID="21233" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K035" ID="21234" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K036" ID="21235" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K037" ID="21236" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K038" ID="21237" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K039" ID="21238" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K040" ID="21239" Slot1="slotMathConstantKItemChanged()"/>
+
+                <Delegate Name="K041" ID="21240" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K042" ID="21241" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K043" ID="21242" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K044" ID="21243" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K045" ID="21244" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K046" ID="21245" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K047" ID="21246" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K048" ID="21247" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K049" ID="21248" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K050" ID="21249" Slot1="slotMathConstantKItemChanged()"/>
+
+                <Delegate Name="K051" ID="21250" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K052" ID="21251" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K053" ID="21252" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K054" ID="21253" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K055" ID="21254" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K056" ID="21255" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K057" ID="21256" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K058" ID="21257" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K059" ID="21258" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K060" ID="21259" Slot1="slotMathConstantKItemChanged()"/>
+
+                <Delegate Name="K061" ID="21260" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K062" ID="21261" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K063" ID="21262" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K064" ID="21263" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K065" ID="21264" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K066" ID="21265" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K067" ID="21266" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K068" ID="21267" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K069" ID="21268" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K070" ID="21269" Slot1="slotMathConstantKItemChanged()"/>
+
+                <Delegate Name="K071" ID="21270" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K072" ID="21271" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K073" ID="21272" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K074" ID="21273" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K075" ID="21274" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K076" ID="21275" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K077" ID="21276" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K078" ID="21277" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K079" ID="21278" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K080" ID="21279" Slot1="slotMathConstantKItemChanged()"/>
+
+                <Delegate Name="K081" ID="21280" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K082" ID="21281" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K083" ID="21282" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K084" ID="21283" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K085" ID="21284" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K086" ID="21285" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K087" ID="21286" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K088" ID="21287" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K089" ID="21288" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K090" ID="21289" Slot1="slotMathConstantKItemChanged()"/>
+
+                <Delegate Name="K091" ID="21290" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K092" ID="21291" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K093" ID="21292" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K094" ID="21293" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K095" ID="21294" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K096" ID="21295" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K097" ID="21296" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K098" ID="21297" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K099" ID="21298" Slot1="slotMathConstantKItemChanged()"/>
+                <Delegate Name="K100" ID="21299" Slot1="slotMathConstantKItemChanged()"/>
+        </Delegate>
+
+</Root>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:FTP client settings:Encryption:Encryption"
+                    Val="0" ID="20131">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:FTP client settings:Encryption:Encryption"
+                    Val="1" ID="20131">
+    </ValueChange>
+</Root>

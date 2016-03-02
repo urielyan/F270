@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:System Delegate:Printer settings">
+                <MenuNormal
+                    Path="Config:System Delegate:Printer settings:IP Address"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotNetworkIPNumericKeypadClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:System Delegate:Printer settings:Paper size"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSystemCommonClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:System Delegate:Printer settings:Page orientation"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSystemCommonClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:System Delegate:Printer settings:Resolution (dpi)"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSystemCommonClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:System Delegate:Printer settings:Number of copies"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotNumericKeypadClicked()"
+                    Include ="none"/>
+
+
+</Config>

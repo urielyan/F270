@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+            <Config Name="Report channel">
+                    <Object Name="Channel type" ID="22071"/>
+                    <Object Name="Channel No." ID="22072"/>
+                    <Object Name="Sum scale" ID="22073"/>
+            </Config>
+</Root>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Display Delegate:Trend settings:Trend interval:Trend rate switching"
+                    Val="0" ID="21304">
+        <Delegate Name="Config:Display Delegate:Trend settings:Trend interval:Second interval [/div]"
+                  Hide="true"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Display Delegate:Trend settings:Trend interval:Trend rate switching"
+                    Val="1" ID="21304">
+        <Delegate Name="Config:Display Delegate:Trend settings:Trend interval:Second interval [/div]"
+                  Hide="slot"/>
+    </ValueChange>
+</Root>

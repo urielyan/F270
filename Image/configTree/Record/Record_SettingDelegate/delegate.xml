@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delegate Name="Recording Delegate" ID="21600">
+
+    <Delegate Name="Basic settings"
+                ID="21601"
+                File=":/configtree/Image/configTree/Record/Record_SettingDelegate/delegate-Basic.xml"/>
+
+    <Delegate Name="Recording channel settings"
+                ID="21640"
+                File=":/configtree/Image/configTree/Record/Record_SettingDelegate/delegate-Channel.xml"/>
+
+</Delegate>

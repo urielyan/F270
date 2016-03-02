@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Math Delegate:Alarm:Level 2:Type"
+                    Val="0" ID="21053">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Alarm:Level 2:Type"
+                    Val="1" ID="21053">
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:Hysteresis"
+                  Hide="slot"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Alarm:Level 2:Type"
+                    Val="2" ID="21053">
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:Hysteresis"
+                  Hide="slot"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Alarm:Level 2:Type"
+                    Val="5" ID="21053">
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:Hysteresis"
+                  Hide="slot"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Alarm:Level 2:Type"
+                    Val="6" ID="21053">
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:Hysteresis"
+                  Hide="slot"/>
+    </ValueChange>
+
+</Root>

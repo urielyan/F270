@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+                <Delegate Name="Language"
+                            ID="22702"
+                            Slot1="slotsystemEnvironmentLanguageChange()"/>
+
+                <Delegate Name="Temperature"
+                            ID="22703"
+                            Slot1="slotsystemEnvironmentTemperatureChange()"/>
+
+                <Delegate Name="Decimal Point Type"
+                            ID="22704"
+                            Slot1="slotsystemEnvironmentDecimalChange()"/>
+
+        <Delegate Name="Date format" ID="22710">
+                <Delegate Name="Date format"
+                            ID="22711"
+                            Slot1="slotsystemEnvironmentDateDataChange()"/>
+
+                <Delegate Name="Delimiter"
+                            ID="22712"
+                            Slot1="slotsystemEnvironmentDateDelimiterChange()"/>
+
+                <Delegate Name="Month indicator"
+                            ID="22713"
+                            Slot1="slotsystemEnvironmentDateMonthChange()"/>
+        </Delegate>
+
+
+
+</Root>

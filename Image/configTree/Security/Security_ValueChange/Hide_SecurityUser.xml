@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <HideChange Normal1="Config:Security Delegate:Basic settings:Security function:Touch operation"
+                Value1="0"
+                Normal2="Config:Security Delegate:Basic settings:Security function:Communication"
+                Value2="0">
+        <Factor Name="Config:Security Delegate:User settings"
+                Hide="true"
+                Value=""/>
+        <Factor Name="Config:Security Delegate:User property"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:Security Delegate:Basic settings:Security function:Touch operation"
+                Value1="0"
+                Normal2="Config:Security Delegate:Basic settings:Security function:Communication"
+                Value2="1">
+        <Factor Name="Config:Security Delegate:User settings"
+                Hide="false"
+                Value=""/>
+        <Factor Name="Config:Security Delegate:User settings:User settings:User level"
+                Hide="slot"/>
+
+        <Factor Name="Config:Security Delegate:User property"
+                Hide="false"
+                Value=""/>
+        <Factor Name="Config:Security Delegate:User property:User property:Record"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Math"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Data save"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Message"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Batch"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:AlarmACK"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Communication"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Touch operation"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Time set"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Setting operation"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:External media"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:System operation"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Output operation"
+                  Hide="slot"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:Security Delegate:Basic settings:Security function:Touch operation"
+                Value1="1"
+                Normal2="Config:Security Delegate:Basic settings:Security function:Communication"
+                Value2="0">
+        <Factor Name="Config:Security Delegate:User settings"
+                Hide="false"
+                Value=""/>
+        <Factor Name="Config:Security Delegate:User settings:User settings:User level"
+                Hide="slot"/>
+
+        <Factor Name="Config:Security Delegate:User property"
+                Hide="false"
+                Value=""/>
+        <Factor Name="Config:Security Delegate:User property:User property:Record"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Math"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Data save"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Message"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Batch"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:AlarmACK"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Communication"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Touch operation"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Time set"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Setting operation"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:External media"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:System operation"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Output operation"
+                  Hide="slot"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:Security Delegate:Basic settings:Security function:Touch operation"
+                Value1="1"
+                Normal2="Config:Security Delegate:Basic settings:Security function:Communication"
+                Value2="1">
+        <Factor Name="Config:Security Delegate:User settings"
+                Hide="false"
+                Value=""/>
+        <Factor Name="Config:Security Delegate:User settings:User settings:User level"
+                Hide="slot"/>
+
+        <Factor Name="Config:Security Delegate:User property"
+                Hide="false"
+                Value=""/>
+        <Factor Name="Config:Security Delegate:User property:User property:Record"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Math"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Data save"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Message"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Batch"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:AlarmACK"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Communication"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Touch operation"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Time set"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Setting operation"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:External media"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:System operation"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Output operation"
+                  Hide="slot"/>
+    </HideChange>
+
+    <HideChange Normal1="Config:Security Delegate:Basic settings:Security function:Touch operation"
+                Value1="2"
+                Normal2="Config:Security Delegate:Basic settings:Security function:Communication"
+                Value2="0">
+        <Factor Name="Config:Security Delegate:User settings"
+                Hide="true"
+                Value=""/>
+        <Factor Name="Config:Security Delegate:User property"
+                Hide="true"
+                Value=""/>
+    </HideChange>
+
+    <HideChange Normal1="Config:Security Delegate:Basic settings:Security function:Touch operation"
+                Value1="2"
+                Normal2="Config:Security Delegate:Basic settings:Security function:Communication"
+                Value2="1">
+        <Factor Name="Config:Security Delegate:User settings"
+                Hide="false"
+                Value=""/>
+        <Factor Name="Config:Security Delegate:User settings:User settings:User level"
+                Hide="slot"/>
+
+        <Factor Name="Config:Security Delegate:User property"
+                Hide="false"
+                Value=""/>
+        <Factor Name="Config:Security Delegate:User property:User property:Record"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Math"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Data save"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Message"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Batch"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:AlarmACK"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Communication"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Touch operation"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Time set"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Setting operation"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:External media"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:System operation"
+                  Hide="slot"/>
+        <Factor Name="Config:Security Delegate:User property:User property:Output operation"
+                  Hide="slot"/>
+    </HideChange>
+</Root>

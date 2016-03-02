@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Basic settings:Automatic IP settings:Obtain IP address automatically"
+                    Val="0" ID="20011">
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:Automatic DNS settings"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:Automatic DNS settings:Obtain DNS address automatically"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:IP Address"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:IP Address:IP Address"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:IP Address:Subnet mask"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:IP Address:Default gateway"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:DNS settings"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:DNS settings:Primary DNS server"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:DNS settings:Secondary DNS server"
+                  Hide="slot"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Basic settings:Automatic IP settings:Obtain IP address automatically"
+                    Val="1" ID="20011">
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:Automatic DNS settings"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:Automatic DNS settings:Obtain DNS address automatically"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:IP Address"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:IP Address:IP Address"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:IP Address:Subnet mask"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Basic settings:IP Address:Default gateway"
+                  Hide="true"
+                  Value=""/>
+
+    </ValueChange>
+</Root>

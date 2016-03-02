@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config Name="Display settings">
+
+    <Config Name="Trend settings"
+            File=":/configtree/Image/configTree/Display/Disp_Setting/config-Trend.xml"/>
+
+    <Config Name="Group settings">
+            <Group Type="Disp-Group"
+                   File=":/configtree/Image/configTree/Display/Disp_Setting/config-Group.xml"/>
+    </Config>
+
+    <Config Name="Message settings"
+            File=":/configtree/Image/configTree/Display/Disp_Setting/config-Message.xml"/>
+
+    <Config Name="Screen display settings"
+            File=":/configtree/Image/configTree/Display/Disp_Setting/config-Basic.xml"/>
+
+    <Object Name="Group number" ID="21331"/>
+    <Object Name="Message number" ID="21398"/>
+</Config>

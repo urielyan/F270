@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Object Name="Value on Error" ID="21181"/>
+        <Object Name="START/STOP key action" ID="21182"/>
+
+        <Config Name="Value on Overflow">
+                <Object Name="SUM, AVE" ID="21184"/>
+                <Object Name="MAX, MIN, P-P" ID="21185"/>
+        </Config>
+
+</Root>

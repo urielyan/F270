@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:Modbus client connect limits function:On/Off"
+                    Val="0" ID="20503">
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:1"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:1:On/Off"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:1:IP Address"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:2"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:2:On/Off"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:2:IP Address"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:3"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:3:On/Off"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:3:IP Address"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:4"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:4:On/Off"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:4:IP Address"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:5"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:5:On/Off"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:5:IP Address"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:6"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:6:On/Off"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:6:IP Address"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:7"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:7:On/Off"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:7:IP Address"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:8"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:8:On/Off"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:8:IP Address"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:9"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:9:On/Off"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:9:IP Address"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:10"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:10:On/Off"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:10:IP Address"
+                  Hide="true"
+                  Value=""/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:Modbus client connect limits function:On/Off"
+                    Val="1" ID="20503">
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:1"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:1:IP Address"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:1:On/Off"
+                  Hide="false"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:2"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:2:IP Address"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:2:On/Off"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:3"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:3:IP Address"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:3:On/Off"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:4"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:4:IP Address"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:4:On/Off"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:5"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:5:IP Address"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:5:On/Off"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:6"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:6:IP Address"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:6:On/Off"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:7"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:7:IP Address"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:7:On/Off"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:8"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:8:IP Address"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:8:On/Off"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:9"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:9:IP Address"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:9:On/Off"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:10"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:10:IP Address"
+                  Hide="slot"/>
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:10:On/Off"
+                  Hide="false"
+                  Value="0"/>
+    </ValueChange>
+
+
+</Root>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Master function">
+                <Object Name="On/Off" ID="22423"/>
+        </Config>
+
+        <Config Name="Communication">
+                <Object Name="Interval" ID="22431"/>
+                <Object Name="Communication timeout" ID="22432"/>
+                <Object Name="Gap between message" ID="22433"/>
+        </Config>
+
+        <Config Name="Recovery action">
+                <Object Name="Retry" ID="22441"/>
+                <Object Name="Wait time" ID="22442"/>
+        </Config>
+
+</Root>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config Name="Communication (Ethernet) settings">
+
+    <Config Name="Basic settings"
+            File=":/configtree/Image/configTree/Network/Network_Setting/config-Basic.xml">
+    </Config>
+
+    <Config Name="FTP client settings"
+            File=":/configtree/Image/configTree/Network/Network_Setting/config-FTP.xml">
+    </Config>
+
+    <Config Name="SMTP client settings"
+            File=":/configtree/Image/configTree/Network/Network_Setting/config-SMTP.xml">
+    </Config>
+
+    <Config Name="E-mail settings"
+            File=":/configtree/Image/configTree/Network/Network_Setting/config-EMail.xml">
+    </Config>
+
+    <Config Name="SNTP client settings"
+            File=":/configtree/Image/configTree/Network/Network_Setting/config-SNTP.xml">
+    </Config>
+
+    <Config Name="Modbus client settings"
+            File=":/configtree/Image/configTree/Network/Network_Setting/config-Modbus.xml">
+    </Config>
+
+    <Config Name="Server settings"
+            File=":/configtree/Image/configTree/Network/Network_Setting/config-Server.xml">
+    </Config>
+</Config>

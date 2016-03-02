@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:DO Delegate:Range:Action:Hold"
+                    Val="0" ID="18044">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:DO Delegate:Range:Action:Hold"
+                    Val="1" ID="18044">
+
+    </ValueChange>
+
+</Root>

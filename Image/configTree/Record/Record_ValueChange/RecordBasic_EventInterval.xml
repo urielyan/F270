@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording interval"
+                    Val="100" ID="21611">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording interval"
+                    Val="200" ID="21611">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording interval"
+                    Val="500" ID="21611">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording interval"
+                    Val="1000" ID="21611">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording interval"
+                    Val="2000" ID="21611">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording interval"
+                    Val="5000" ID="21611">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording interval"
+                    Val="10000" ID="21611">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording interval"
+                    Val="15000" ID="21611">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording interval"
+                    Val="20000" ID="21611">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording interval"
+                    Val="30000" ID="21611">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording interval"
+                    Val="60000" ID="21611">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording interval"
+                    Val="120000" ID="21611">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording interval"
+                    Val="300000" ID="21611">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording interval"
+                    Val="600000" ID="21611">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording interval"
+                    Val="900000" ID="21611">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording interval"
+                    Val="1200000" ID="21611">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording interval"
+                    Val="1800000" ID="21611">
+    </ValueChange>
+
+</Root>

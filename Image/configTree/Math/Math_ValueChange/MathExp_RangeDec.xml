@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Math Delegate:Calculation expression:Math range:Decimal place"
+                    Val="0" ID="21007">
+        <Delegate Name="Config:Math Delegate:Calculation expression:Math range:Span Lower"
+                  Hide="slot"/>
+        <Delegate Name="Config:Math Delegate:Calculation expression:Math range:Span Upper"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Math Delegate:Alarm:Level 1:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 3:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 4:On/Off"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Math Delegate:Display settings:Color scale band:Band area"
+                  Hide="false"
+                  Value="0"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Calculation expression:Math range:Decimal place"
+                    Val="1" ID="21007">
+        <Delegate Name="Config:Math Delegate:Calculation expression:Math range:Span Lower"
+                  Hide="slot"/>
+        <Delegate Name="Config:Math Delegate:Calculation expression:Math range:Span Upper"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Math Delegate:Alarm:Level 1:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 3:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 4:On/Off"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Math Delegate:Display settings:Color scale band:Band area"
+                  Hide="false"
+                  Value="0"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Calculation expression:Math range:Decimal place"
+                    Val="2" ID="21007">
+        <Delegate Name="Config:Math Delegate:Calculation expression:Math range:Span Lower"
+                  Hide="slot"/>
+        <Delegate Name="Config:Math Delegate:Calculation expression:Math range:Span Upper"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Math Delegate:Alarm:Level 1:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 3:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 4:On/Off"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Math Delegate:Display settings:Color scale band:Band area"
+                  Hide="false"
+                  Value="0"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Calculation expression:Math range:Decimal place"
+                    Val="3" ID="21007">
+        <Delegate Name="Config:Math Delegate:Calculation expression:Math range:Span Lower"
+                  Hide="slot"/>
+        <Delegate Name="Config:Math Delegate:Calculation expression:Math range:Span Upper"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Math Delegate:Alarm:Level 1:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 3:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 4:On/Off"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Math Delegate:Display settings:Color scale band:Band area"
+                  Hide="false"
+                  Value="0"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Calculation expression:Math range:Decimal place"
+                    Val="4" ID="21007">
+        <Delegate Name="Config:Math Delegate:Calculation expression:Math range:Span Lower"
+                  Hide="slot"/>
+        <Delegate Name="Config:Math Delegate:Calculation expression:Math range:Span Upper"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Math Delegate:Alarm:Level 1:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 3:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 4:On/Off"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Math Delegate:Display settings:Color scale band:Band area"
+                  Hide="false"
+                  Value="0"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Calculation expression:Math range:Decimal place"
+                    Val="5" ID="21007">
+        <Delegate Name="Config:Math Delegate:Calculation expression:Math range:Span Lower"
+                  Hide="slot"/>
+        <Delegate Name="Config:Math Delegate:Calculation expression:Math range:Span Upper"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Math Delegate:Alarm:Level 1:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 3:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 4:On/Off"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Math Delegate:Display settings:Color scale band:Band area"
+                  Hide="false"
+                  Value="0"/>
+    </ValueChange>
+
+</Root>

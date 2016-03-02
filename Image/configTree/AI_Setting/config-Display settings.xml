@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Color">
+                <Object Name="Color" ID="12002"/>
+        </Config>
+
+        <Config Name="Tag">
+                <Object Name="Characters" ID="12011"/>
+                <Object Name="No." ID="12012"/>
+        </Config>
+
+        <Config Name="Zone">
+                <Object Name="Upper" ID="12021"/>
+                <Object Name="Lower" ID="12022"/>
+        </Config>
+
+        <Config Name="Scale">
+                <Object Name="Position" ID="12031"/>
+                <Object Name="Division" ID="12032"/>
+        </Config>
+
+        <Config Name="Bar graph">
+                <Object Name="Base position" ID="12041"/>
+                <Object Name="Division" ID="12042"/>
+        </Config>
+
+        <Config Name="Partial">
+                <Object Name="On/Off" ID="12051"/>
+                <Object Name="Expand" ID="12053"/>
+                <Object Name="Boundary" ID="12052"/>
+        </Config>
+
+        <Config Name="Color scale band">
+                <Object Name="Band area" ID="12064"/>
+                <Object Name="Display position Upper" ID="12063"/>
+                <Object Name="Display position Lower" ID="12062"/>
+                <Object Name="Color" ID="12061"/>
+        </Config>
+
+        <Config Name="Alarm point mark">
+                <Object Name="Indicate on Scale" ID="12071"/>
+                <Object Name="Mark type" ID="12072"/>
+                <Object Name="Alarm 1 color" ID="12073"/>
+                <Object Name="Alarm 2 color" ID="12074"/>
+                <Object Name="Alarm 3 color" ID="12075"/>
+                <Object Name="Alarm 4 color" ID="12076"/>
+        </Config>
+
+        <Config Name="Display characters of each value">
+                <Object Name="0" ID="12081"/>
+                <Object Name="1" ID="12082"/>
+        </Config>
+
+</Root>

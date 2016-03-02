@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:System Delegate:Environment(Lanuage) settings">
+	<MenuTitle
+                Path="Config:System Delegate:Environment(Lanuage) settings"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/System_Menu/Environment/config.xml"/>
+	<MenuTitle
+                Path="Config:System Delegate:Alarm basic settings"
+                Normal = ":/config/Measure_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/System_Menu/Alarm/config.xml"/>
+        <MenuTitle
+                Path="Config:System Delegate:Time basic settings"
+                Normal = ":/config/Measure_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/System_Menu/Time/config.xml"/>
+        <MenuTitle
+                Path="Config:System Delegate:Internal switch settings"
+                Normal = ":/config/Measure_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/System_Menu/Internal/config.xml"/>
+        <MenuTitle
+                Path="Config:System Delegate:Status relay"
+                Normal = ":/config/Measure_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/System_Menu/Relay/config.xml"/>
+        <MenuTitle
+                Path="Config:System Delegate:Printer settings"
+                Normal = ":/config/Measure_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/System_Menu/Printer/config.xml"/>
+        <MenuTitle
+                Path="Config:System Delegate:Sound, LED:Sound"
+                Normal = ":/config/Measure_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/System_Menu/Sound/config.xml"/>
+        <MenuTitle
+                Path="Config:System Delegate:Instrument tag"
+                Normal = ":/config/Measure_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/System_Menu/Instrument/config.xml"/>
+        <MenuTitle
+                Path="Config:System Delegate:Settings file"
+                Normal = ":/config/Measure_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/System_Menu/File/config.xml"/>
+</Config>

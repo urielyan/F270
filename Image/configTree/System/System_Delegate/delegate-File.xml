@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Setting file comment"
+                    ID="22801"
+                    Slot1="slotsystemFileFileChange()"/>
+
+</Root>

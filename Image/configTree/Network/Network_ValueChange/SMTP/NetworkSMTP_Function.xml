@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP client function:On/Off"
+                    Val="0" ID="20202">
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Authentication"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Authentication:Authentication"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Encryption"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Encryption:Encryption"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Encryption:Verification of certificate"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server:SMTP Server name"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server:Port number"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server:User name"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server:Password"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server:POP3 Server name"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server:Port number"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server:User name"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server:Password"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:E-mail settings"
+                  Hide="true"
+                  Value=""/>
+    </ValueChange>
+
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP client function:On/Off"
+                    Val="1" ID="20202">
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Authentication"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Authentication:Authentication"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Encryption"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Encryption:Encryption"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Encryption:Verification of certificate"
+                  Hide="false"
+                  Value="1"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server:SMTP Server name"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server:Port number"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server:User name"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server:Password"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server:POP3 Server name"
+                  Hide="slot"/>
+
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server:Port number"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server:User name"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server:Password"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:E-mail settings"
+                  Hide="false"
+                  Value="0"/>
+    </ValueChange>
+
+
+</Root>

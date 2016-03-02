@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Security Delegate:User settings:User settings:User property"
+                    Val="0" ID="24058">
+        <Delegate Name="Config:Security Delegate:User settings:User settings:Authority number"
+                  Hide="true"/>
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Security Delegate:User settings:User settings:User property"
+                    Val="1" ID="24058">
+        <Delegate Name="Config:Security Delegate:User settings:User settings:Authority number"
+                  Hide="slot"/>
+
+    </ValueChange>
+
+</Root>

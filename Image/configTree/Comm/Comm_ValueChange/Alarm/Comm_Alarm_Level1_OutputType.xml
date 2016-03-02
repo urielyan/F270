@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Communication channel Delegate:Alarm:Level1:Output type"
+                    Val="0" ID="22557">
+
+        <Delegate Name="Config:Communication channel Delegate:Alarm:Level1:Output No."
+                  Hide="true"
+                  Value=""/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication channel Delegate:Alarm:Level1:Output type"
+                    Val="1" ID="22557">
+
+        <Delegate Name="Config:Communication channel Delegate:Alarm:Level1:Output No."
+                  Hide="slot"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication channel Delegate:Alarm:Level1:Output type"
+                    Val="2" ID="22557">
+
+        <Delegate Name="Config:Communication channel Delegate:Alarm:Level1:Output No."
+                  Hide="slot"/>
+    </ValueChange>
+</Root>

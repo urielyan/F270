@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Communication (Ethernet) Delegate:Basic settings">
+	<MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:Basic settings:Automatic IP settings"
+		Type = "group"
+		Normal = "none"
+		Changed = "none"
+		Hint = "none"
+		Extend = "none">
+		<MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Basic settings:Automatic IP settings:Obtain IP address automatically"
+			Type = "normal"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+	</MenuGroup>
+	
+        <MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:Basic settings:Automatic DNS settings"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Basic settings:Automatic DNS settings:Obtain DNS address automatically"
+                        Type = "normal"
+                        Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:Basic settings:IP Address"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Communication (Ethernet) Delegate:Basic settings:IP Address:IP Address"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotNetworkIPNumericKeypadClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Communication (Ethernet) Delegate:Basic settings:IP Address:Subnet mask"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotNetworkIPNumericKeypadClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Communication (Ethernet) Delegate:Basic settings:IP Address:Default gateway"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotNetworkIPNumericKeypadClicked()"
+                    Include ="none"/>
+       </MenuGroup>
+
+       <MenuGroup
+                   Path="Config:Communication (Ethernet) Delegate:Basic settings:DNS settings"
+                   Type = "group"
+                   Normal = "none"
+                   Changed = "none"
+                   Hint = "none"
+                   Extend = "none">
+                   <MenuNormal
+                           Path="Config:Communication (Ethernet) Delegate:Basic settings:DNS settings:Primary DNS server"
+                           Type = "normal"
+                           Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                           Changed = ":/setting/Image/setting/change-blue.png"
+                           Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                           Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                           Clicked = "slotNetworkIPNumericKeypadClicked()"
+                           Include ="none"/>
+                   <MenuNormal
+                           Path="Config:Communication (Ethernet) Delegate:Basic settings:DNS settings:Secondary DNS server"
+                           Type = "normal"
+                           Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                           Changed = ":/setting/Image/setting/change-blue.png"
+                           Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                           Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                           Clicked = "slotNetworkIPNumericKeypadClicked()"
+                           Include ="none"/>
+       </MenuGroup>
+
+</Config>

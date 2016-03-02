@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Timer Delegate:Timer:Timer2">
+
+        <MenuGroup
+                Path="Config:Timer Delegate:Timer:Timer2:Type"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Timer Delegate:Timer:Timer2:Type:Type"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotTimerTimerCommClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Timer Delegate:Timer:Timer2:Interval"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Timer Delegate:Timer:Timer2:Interval:Day"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotTimerTimerCommClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Timer Delegate:Timer:Timer2:Interval:Hour"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotTimerTimerCommClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Timer Delegate:Timer:Timer2:Interval:Minute"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotTimerTimerCommClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Timer Delegate:Timer:Timer2:Interval:Interval"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotTimerTimerCommClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+
+
+</Config>

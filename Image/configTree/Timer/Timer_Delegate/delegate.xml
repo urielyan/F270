@@ -1,0 +1,40 @@
+<Delegate Name="Timer Delegate" ID="22100">
+
+
+        <Delegate Name="Timer" ID="22721">
+                <Delegate Name="Timer1"
+                            ID="22110"
+                            File=":/configtree/Image/configTree/Timer/Timer_Delegate/delegate-Timer1.xml"/>
+
+                <Delegate Name="Timer2"
+                            ID="22130"
+                            File=":/configtree/Image/configTree/Timer/Timer_Delegate/delegate-Timer2.xml"/>
+
+                <Delegate Name="Timer3"
+                            ID="22150"
+                            File=":/configtree/Image/configTree/Timer/Timer_Delegate/delegate-Timer3.xml"/>
+
+                <Delegate Name="Timer4"
+                            ID="22170"
+                            File=":/configtree/Image/configTree/Timer/Timer_Delegate/delegate-Timer4.xml"/>
+        </Delegate>
+
+        <Delegate Name="Match time timer" ID="22190">
+                <Delegate Name="Match time timer1"
+                            ID="22200"
+                            File=":/configtree/Image/configTree/Timer/Timer_Delegate/delegate-MatchTimer1.xml"/>
+
+                <Delegate Name="Match time timer2"
+                            ID="22220"
+                            File=":/configtree/Image/configTree/Timer/Timer_Delegate/delegate-MatchTimer2.xml"/>
+
+                <Delegate Name="Match time timer3"
+                            ID="22240"
+                            File=":/configtree/Image/configTree/Timer/Timer_Delegate/delegate-MatchTimer3.xml"/>
+
+                <Delegate Name="Match time timer4"
+                            ID="22260"
+                            File=":/configtree/Image/configTree/Timer/Timer_Delegate/delegate-MatchTimer4.xml"/>
+        </Delegate>
+
+</Delegate>

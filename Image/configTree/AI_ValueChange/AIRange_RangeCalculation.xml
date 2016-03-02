@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:AI Delegate:Range:Range:Calculation"
+                    Val="0" ID="10032">
+        <Delegate Name="Config:AI Delegate:Range:Range:Reference channel"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:AI Delegate:Range:Scale"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:AI Delegate:Display settings:Display characters of each value"
+                  Hide=":/configtree/Image/configTree/AI_ValueChange/HideDisp-charValue.xml"/>
+
+        <Delegate Name="Config:AI Delegate:Range:Low-cut"
+                  Hide=":/configtree/Image/configTree/AI_ValueChange/HideLow-cut.xml"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 1:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 2:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 3:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 4:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Calibration correction:Mode:Mode"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Range:Bias:Value"
+                  Hide="refresh"
+                  Value="0"/>
+
+        <Delegate Name="Config:AI Delegate:Display settings:Color scale band:Band area"
+                  Hide="false"
+                  Value="0"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Range:Range:Calculation"
+                    Val="1" ID="10032">
+        <Delegate Name="Config:AI Delegate:Range:Range:Reference channel"
+                  Hide="slot"/>
+        <Delegate Name="Config:AI Delegate:Range:Scale"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:AI Delegate:Display settings:Display characters of each value"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:AI Delegate:Range:Low-cut"
+                  Hide=":/configtree/Image/configTree/AI_ValueChange/HideLow-cut.xml"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 1:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 2:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 3:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 4:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Calibration correction:Mode:Mode"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Range:Bias:Value"
+                  Hide="refresh"
+                  Value="0"/>
+
+        <Delegate Name="Config:AI Delegate:Display settings:Color scale band:Band area"
+                  Hide="false"
+                  Value="0"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Range:Range:Calculation"
+                    Val="2" ID="10032">
+        <Delegate Name="Config:AI Delegate:Range:Range:Reference channel"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:AI Delegate:Range:Scale"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:AI Delegate:Range:Scale:Decimal place"
+                  Hide="refresh"
+                  Value="2"/>
+        <Delegate Name="Config:AI Delegate:Range:Scale:Scale Lower"
+                  Hide="slot"/>
+        <Delegate Name="Config:AI Delegate:Range:Scale:Scale Upper"
+                  Hide="slot"/>
+        <Delegate Name="Config:AI Delegate:Range:Scale:Unit"
+                  Hide="refresh"
+                  Value=""/>
+        <Delegate Name="Config:AI Delegate:Display settings:Display characters of each value"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:AI Delegate:Range:Low-cut"
+                  Hide=":/configtree/Image/configTree/AI_ValueChange/HideLow-cut.xml"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 1:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 2:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 3:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 4:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Calibration correction:Mode:Mode"
+                  Hide="refresh"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Range:Bias:Value"
+                  Hide="refresh"
+                  Value="0"/>
+
+        <Delegate Name="Config:AI Delegate:Display settings:Color scale band:Band area"
+                  Hide="false"
+                  Value="0"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Range:Range:Calculation"
+                    Val="3" ID="10032">
+        <Delegate Name="Config:AI Delegate:Range:Range:Reference channel"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:AI Delegate:Range:Scale"
+                  Hide="false"
+                  Value=""/>
+        <Delegate Name="Config:AI Delegate:Range:Scale:Decimal place"
+                  Hide="refresh"
+                  Value="2"/>
+        <Delegate Name="Config:AI Delegate:Range:Scale:Scale Lower"
+                  Hide="slot"/>
+        <Delegate Name="Config:AI Delegate:Range:Scale:Scale Upper"
+                  Hide="slot"/>
+        <Delegate Name="Config:AI Delegate:Range:Scale:Unit"
+                  Hide="refresh"
+                  Value=""/>
+        <Delegate Name="Config:AI Delegate:Display settings:Display characters of each value"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:AI Delegate:Range:Low-cut"
+                  Hide=":/configtree/Image/configTree/AI_ValueChange/HideLow-cut.xml"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 1:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 2:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 3:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 4:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Calibration correction:Mode:Mode"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Range:Bias:Value"
+                  Hide="refresh"
+                  Value="0"/>
+
+        <Delegate Name="Config:AI Delegate:Display settings:Color scale band:Band area"
+                  Hide="false"
+                  Value="0"/>
+    </ValueChange>
+
+</Root>
+

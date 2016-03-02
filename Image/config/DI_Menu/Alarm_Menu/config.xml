@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:DI Delegate:Alarm">
+	<MenuNormal
+                Path="Config:DI Delegate:First-CH"
+                Normal = ":/config/DI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change-blue.png"
+                Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                Clicked = "slotDIMenuClicked()"
+                Include ="none"/>
+	<MenuNormal
+                Path="Config:DI Delegate:Last-CH"
+                Normal = ":/config/DI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change-blue.png"
+                Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                Clicked = "slotDIMenuClicked()"
+                Include ="none"/>
+	
+	<MenuGroup
+                Path="Config:DI Delegate:Alarm:Level 1"
+		Normal = "none"
+		Changed = "none"
+		Hint = "none"
+		Extend = "none">
+		<MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 1:On/Off"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 1:Type"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotDIAlarmLvl1TypeMenuClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 1:Value"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 1:Hysteresis"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 1:Logging"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 1:Output type"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIAlarmLvl1OutTypeMenuClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 1:Output No."
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+
+	</MenuGroup>
+	
+        <MenuGroup
+                Path="Config:DI Delegate:Alarm:Level 2"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 2:On/Off"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 2:Type"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotDIAlarmLvl1TypeMenuClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 2:Value"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 2:Hysteresis"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 2:Logging"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 2:Output type"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIAlarmLvl1OutTypeMenuClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 2:Output No."
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:DI Delegate:Alarm:Level 3"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 3:On/Off"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 3:Type"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotDIAlarmLvl1TypeMenuClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 3:Value"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 3:Hysteresis"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 3:Logging"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 3:Output type"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIAlarmLvl1OutTypeMenuClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 3:Output No."
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:DI Delegate:Alarm:Level 4"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 4:On/Off"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 4:Type"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotDIAlarmLvl1TypeMenuClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 4:Value"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 4:Hysteresis"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 4:Logging"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 4:Output type"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIAlarmLvl1OutTypeMenuClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Level 4:Output No."
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+
+        </MenuGroup>
+
+        <MenuGroup
+        Path="Config:DI Delegate:Alarm:Alarm delay"
+        Normal = "none"
+        Changed = "none"
+        Hint = "none"
+        Extend = "none">
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Alarm delay:Hour"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIAlarmDelayHourMenuClicked()"
+                        Include ="none"/>
+
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Alarm delay:Minute"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIAlarmDelayMinMenuClicked()"
+                        Include ="none"/>
+
+                <MenuNormal
+                        Path="Config:DI Delegate:Alarm:Alarm delay:Second"
+                        Normal = ":/config/DI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/DI_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/DI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotAIAlarmDelaySecMenuClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+</Config>

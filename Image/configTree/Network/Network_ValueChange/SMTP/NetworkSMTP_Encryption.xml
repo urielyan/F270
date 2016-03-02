@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Encryption:Encryption"
+                    Val="0" ID="20221">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Encryption:Encryption"
+                    Val="1" ID="20221">
+    </ValueChange>
+</Root>

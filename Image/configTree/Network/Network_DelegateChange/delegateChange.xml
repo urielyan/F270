@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate"
+                    Objects="Config:Communication (Ethernet) settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Basic settings"
+                    Objects="Config:Communication (Ethernet) settings:Basic settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SMTP client settings"
+                    Objects="Config:Communication (Ethernet) settings:SMTP client settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SNTP client settings"
+                    Objects="Config:Communication (Ethernet) settings:SNTP client settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Basic settings:Automatic IP settings"
+                    Objects="Config:Communication (Ethernet) settings:Basic settings:Automatic IP settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Basic settings:Automatic IP settings:Obtain IP address automatically"
+                    Objects="Config:Communication (Ethernet) settings:Basic settings:Automatic IP settings:Obtain IP address automatically"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Basic settings:Automatic DNS settings"
+                    Objects="Config:Communication (Ethernet) settings:Basic settings:Automatic DNS settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Basic settings:Automatic DNS settings:Obtain DNS address automatically"
+                    Objects="Config:Communication (Ethernet) settings:Basic settings:Automatic DNS settings:Obtain DNS address automatically"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Basic settings:IP Address"
+                    Objects="Config:Communication (Ethernet) settings:Basic settings:IP Address"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Basic settings:IP Address:IP Address"
+                    Objects="Config:Communication (Ethernet) settings:Basic settings:IP Address:IP Address"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Basic settings:IP Address:Subnet mask"
+                    Objects="Config:Communication (Ethernet) settings:Basic settings:IP Address:Subnet mask"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Basic settings:IP Address:Default gateway"
+                    Objects="Config:Communication (Ethernet) settings:Basic settings:IP Address:Default gateway"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Basic settings:DNS settings"
+                    Objects="Config:Communication (Ethernet) settings:Basic settings:DNS settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Basic settings:DNS settings:Primary DNS server"
+                    Objects="Config:Communication (Ethernet) settings:Basic settings:DNS settings:Primary DNS server"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Basic settings:DNS settings:Secondary DNS server"
+                    Objects="Config:Communication (Ethernet) settings:Basic settings:DNS settings:Secondary DNS server"/>
+
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP client function"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:FTP client function"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP client function:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:FTP client function:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:Transfer file"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Display &amp; Event data"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:Transfer file:Display &amp; Event data"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Report"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:Transfer file:Report"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Manual sampled data"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:Transfer file:Manual sampled data"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Alarm summary"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:Transfer file:Alarm summary"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Snap shot"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:Transfer file:Snap shot"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer file:Device settings"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:Transfer file:Device settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer wait time"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:Transfer wait time"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer wait time:Display &amp; Event data"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:Transfer wait time:Display &amp; Event data"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:Transfer wait time:Report"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:Transfer wait time:Report"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:Encryption"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:Encryption"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:Encryption:Encryption"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:Encryption:Encryption"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:Encryption:Verfication of certificate"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:Encryption:Verfication of certificate"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:FTP connection Primary"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary:Port number"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:FTP connection Primary:Port number"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary:PASV mode"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:FTP connection Primary:PASV mode"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary:FTP server name"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:FTP connection Primary:FTP server name"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary:User name"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:FTP connection Primary:User name"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary:Password"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:FTP connection Primary:Password"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Primary:Directory"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:FTP connection Primary:Directory"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:FTP connection Secondary"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary:Port number"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:FTP connection Secondary:Port number"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary:PASV mode"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:FTP connection Secondary:PASV mode"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary:FTP server name"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:FTP connection Secondary:FTP server name"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary:User name"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:FTP connection Secondary:User name"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary:Password"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:FTP connection Secondary:Password"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:FTP client settings:FTP connection Secondary:Directory"
+                    Objects="Config:Communication (Ethernet) settings:FTP client settings:FTP connection Secondary:Directory"/>
+
+
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP client function"
+                    Objects="Config:Communication (Ethernet) settings:SMTP client settings:SMTP client function"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP client function:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:SMTP client settings:SMTP client function:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Authentication"
+                    Objects="Config:Communication (Ethernet) settings:SMTP client settings:Authentication"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Authentication:Authentication"
+                    Objects="Config:Communication (Ethernet) settings:SMTP client settings:Authentication:Authentication"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Encryption"
+                    Objects="Config:Communication (Ethernet) settings:SMTP client settings:Encryption"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Encryption:Encryption"
+                    Objects="Config:Communication (Ethernet) settings:SMTP client settings:Encryption:Encryption"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:Encryption:Verification of certificate"
+                    Objects="Config:Communication (Ethernet) settings:SMTP client settings:Encryption:Verification of certificate"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server"
+                    Objects="Config:Communication (Ethernet) settings:SMTP client settings:SMTP server"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server:SMTP Server name"
+                    Objects="Config:Communication (Ethernet) settings:SMTP client settings:SMTP server:SMTP Server name"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server:Port number"
+                    Objects="Config:Communication (Ethernet) settings:SMTP client settings:SMTP server:Port number"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server:User name"
+                    Objects="Config:Communication (Ethernet) settings:SMTP client settings:SMTP server:User name"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:SMTP server:Password"
+                    Objects="Config:Communication (Ethernet) settings:SMTP client settings:SMTP server:Password"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server"
+                    Objects="Config:Communication (Ethernet) settings:SMTP client settings:POP3 server"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server:POP3 Server name"
+                    Objects="Config:Communication (Ethernet) settings:SMTP client settings:POP3 server:POP3 Server name"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server:Port number"
+                    Objects="Config:Communication (Ethernet) settings:SMTP client settings:POP3 server:Port number"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server:User name"
+                    Objects="Config:Communication (Ethernet) settings:SMTP client settings:POP3 server:User name"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SMTP client settings:POP3 server:Password"
+                    Objects="Config:Communication (Ethernet) settings:SMTP client settings:POP3 server:Password"/>
+
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Mail header"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Mail header"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Mail header:Recipient 1"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Mail header:Recipient 1"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Mail header:Recipient 2"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Mail header:Recipient 2"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Mail header:Sender"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Mail header:Sender"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Mail header:Subject"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Mail header:Subject"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:E-mail contents"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:E-mail contents"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:E-mail contents:Header"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:E-mail contents:Header"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:E-mail contents:Include source URL"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:E-mail contents:Include source URL"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Alarm settings"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Alarm settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Alarm settings:Alarm notification"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Alarm settings:Alarm notification"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Alarm settings:Attach instantaneous data"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Alarm settings:Attach instantaneous data"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Alarm settings:Include tag/ch in Subject"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Alarm settings:Include tag/ch in Subject"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Alarm settings:Channel set"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Alarm settings:Channel set"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Alarm settings:Channel set Channel list"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Alarm settings:Channel set Channel list"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Report settings"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Report settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Report settings:Report notification"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Report settings:Report notification"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Scheduled settings"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Scheduled settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Scheduled settings:Scheduled notification"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Scheduled settings:Scheduled notification"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Scheduled settings:Attach instantaneous data"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Scheduled settings:Attach instantaneous data"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Scheduled settings:Interal (Recipient 1)"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Scheduled settings:Interal (Recipient 1)"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Scheduled settings:Ref. time hour (Recipient 1)"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Scheduled settings:Ref. time hour (Recipient 1)"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Scheduled settings:Ref. time minute(Recipient 1)"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Scheduled settings:Ref. time minute(Recipient 1)"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Scheduled settings:Interal (Recipient 2)"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Scheduled settings:Interal (Recipient 2)"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Scheduled settings:Ref. time hour (Recipient 2)"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Scheduled settings:Ref. time hour (Recipient 2)"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Scheduled settings:Ref. time minute(Recipient 2)"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:Scheduled settings:Ref. time minute(Recipient 2)"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:System settings"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:System settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:System settings:Memory full notification"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:System settings:Memory full notification"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:System settings:Power failure notification"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:System settings:Power failure notification"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:System settings:System error notification"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:System settings:System error notification"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:E-mail settings:System settings:User lock notification"
+                    Objects="Config:Communication (Ethernet) settings:E-mail settings:System settings:User lock notification"/>
+
+
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP client function"
+                    Objects="Config:Communication (Ethernet) settings:SNTP client settings:SNTP client function"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP client function:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:SNTP client settings:SNTP client function:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP server"
+                    Objects="Config:Communication (Ethernet) settings:SNTP client settings:SNTP server"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP server:SNTP server name"
+                    Objects="Config:Communication (Ethernet) settings:SNTP client settings:SNTP server:SNTP server name"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SNTP client settings:SNTP server:Port number"
+                    Objects="Config:Communication (Ethernet) settings:SNTP client settings:SNTP server:Port number"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SNTP client settings:Query action"
+                    Objects="Config:Communication (Ethernet) settings:SNTP client settings:Query action"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SNTP client settings:Query action:Interval"
+                    Objects="Config:Communication (Ethernet) settings:SNTP client settings:Query action:Interval"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SNTP client settings:Query action:Timeout"
+                    Objects="Config:Communication (Ethernet) settings:SNTP client settings:Query action:Timeout"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:SNTP client settings:Query action:Time adjust on Start action"
+                    Objects="Config:Communication (Ethernet) settings:SNTP client settings:Query action:Time adjust on Start action"/>
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Basic settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Modbus client function"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Basic settings:Modbus client function"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Modbus client function:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Basic settings:Modbus client function:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Communication"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Basic settings:Communication"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Communication:Interval"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Basic settings:Communication:Interval"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Recovery action"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Basic settings:Recovery action"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Recovery action:Wait time"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Basic settings:Recovery action:Wait time"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Basic settings:Connection"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection:Keep connection"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Basic settings:Connection:Keep connection"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection:Connection timeout"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Basic settings:Connection:Connection timeout"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Modbus server settings"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Modbus server settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Modbus server settings:Server number"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Modbus server settings:Server number"/>
+
+        <DelegateChange Type="Server"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Modbus server settings:Modbus server settings"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Modbus server settings:%1:Modbus server settings"/>
+
+        <DelegateChange Type="Server"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Modbus server settings:Modbus server settings:Server name"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Modbus server settings:%1:Modbus server settings:Server name"/>
+
+        <DelegateChange Type="Server"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Modbus server settings:Modbus server settings:Port number"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Modbus server settings:%1:Modbus server settings:Port number"/>
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Command settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Client command number"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Command settings:Client command number"/>
+
+        <DelegateChange Type="Network-Command"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Command settings:%1:Command settings"/>
+
+        <DelegateChange Type="Network-Command"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Type"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Command settings:%1:Command settings:Type"/>
+
+        <DelegateChange Type="Network-Command"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Server"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Command settings:%1:Command settings:Server"/>
+
+        <DelegateChange Type="Network-Command"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Unit No."
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Command settings:%1:Command settings:Unit No."/>
+
+        <DelegateChange Type="Network-Command"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Data type"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Command settings:%1:Command settings:Data type"/>
+
+        <DelegateChange Type="Network-Command"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Register"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Command settings:%1:Command settings:Register"/>
+
+        <DelegateChange Type="Network-Command"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Channel type"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Command settings:%1:Command settings:Channel type"/>
+
+        <DelegateChange Type="Network-Command"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:First-CH"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Command settings:%1:Command settings:First-CH"/>
+
+        <DelegateChange Type="Network-Command"
+                    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Last-CH"
+                    Objects="Config:Communication (Ethernet) settings:Modbus client settings:Command settings:%1:Command settings:Last-CH"/>
+
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings"
+                    Objects="Config:Communication (Ethernet) settings:Server settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Server list"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:Modbus client connect limits function"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:Modbus client connect limits function"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:Modbus client connect limits function:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:Modbus client connect limits function:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:1"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:1"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:1:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:1:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:1:IP Address"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:1:IP Address"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:2"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:2"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:2:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:2:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:2:IP Address"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:2:IP Address"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:3"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:3"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:3:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:3:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:3:IP Address"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:3:IP Address"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:4"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:4"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:4:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:4:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:4:IP Address"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:4:IP Address"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:5"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:5"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:5:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:5:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:5:IP Address"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:5:IP Address"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:6"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:6"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:6:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:6:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:6:IP Address"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:6:IP Address"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:7"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:7"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:7:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:7:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:7:IP Address"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:7:IP Address"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:8"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:8"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:8:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:8:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:8:IP Address"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:8:IP Address"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:9"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:9"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:9:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:9:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:9:IP Address"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:9:IP Address"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:10"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:10"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:10:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:10:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:10:IP Address"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Allowed Modbus clients:10:IP Address"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list:FTP"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Server list:FTP"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list:FTP:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Server list:FTP:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list:FTP:Encryption"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Server list:FTP:Encryption"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list:FTP:Port number"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Server list:FTP:Port number"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list:FTP:Keep alive"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Server list:FTP:Keep alive"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list:HTTP"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Server list:HTTP"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list:HTTP:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Server list:HTTP:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list:HTTP:Encryption"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Server list:HTTP:Encryption"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list:HTTP:Port number"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Server list:HTTP:Port number"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list:SNTP"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Server list:SNTP"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list:SNTP:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Server list:SNTP:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list:SNTP:Port number"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Server list:SNTP:Port number"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list:MODBUS"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Server list:MODBUS"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list:MODBUS:On/Off"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Server list:MODBUS:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list:MODBUS:Port number"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Server list:MODBUS:Port number"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Ethernet) Delegate:Server settings:Server list:MODBUS:Modbus delay response"
+                    Objects="Config:Communication (Ethernet) settings:Server settings:Server list:MODBUS:Modbus delay response"/>
+</Root>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Scheduled settings:Interal (Recipient 2)"
+                    Val="0" ID="20324">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Scheduled settings:Interal (Recipient 2)"
+                    Val="1" ID="20324">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Scheduled settings:Interal (Recipient 2)"
+                    Val="2" ID="20324">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Scheduled settings:Interal (Recipient 2)"
+                    Val="3" ID="20324">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Scheduled settings:Interal (Recipient 2)"
+                    Val="4" ID="20324">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Scheduled settings:Interal (Recipient 2)"
+                    Val="5" ID="20324">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Scheduled settings:Interal (Recipient 2)"
+                    Val="6" ID="20324">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Scheduled settings:Interal (Recipient 2)"
+                    Val="7" ID="20324">
+    </ValueChange>
+
+</Root>

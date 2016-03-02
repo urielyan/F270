@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Object Name="Master command number" ID="22451"/>
+
+        <Group Type="Serial-Command"
+                    File=":/configtree/Image/configTree/Serial/Serial_Setting/config-Modbus-Command-Setting.xml"/>
+
+</Root>
+

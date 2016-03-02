@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config Name="Recording settings">
+
+    <Config Name="Basic settings"
+            File=":/configtree/Image/configTree/Record/Record_Setting/config-Basic.xml">
+    </Config>
+
+    <Config Name="Recording channel settings"
+            File=":/configtree/Image/configTree/Record/Record_Setting/config-Channel.xml">
+    </Config>
+
+</Config>

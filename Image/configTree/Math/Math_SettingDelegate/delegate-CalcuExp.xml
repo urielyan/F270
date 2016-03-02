@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Math range" ID="21004">
+                <Delegate Name="On/Off"
+                            ID="21005"
+                            Slot1="slotMathExp_RangeSwitchChanged()"/>
+                <Delegate Name="Calculation expression"
+                            ID="21006"
+                            Slot1="slotMathExp_RangeExpChanged()"/>
+                <Delegate Name="Decimal place"
+                            ID="21007"
+                            Slot1="slotMathExp_RangeDecChanged()"/>
+                <Delegate Name="Span Lower"
+                            ID="21008"
+                            Slot1="slotMathExp_RangeLowerChanged()"/>
+                <Delegate Name="Span Upper"
+                            ID="21009"
+                            Slot1="slotMathExp_RangeUpperChanged()"/>
+                <Delegate Name="Unit"
+                            ID="21010"
+                            Slot1="slotMathExp_RangeUnitChanged()"/>
+        </Delegate>
+
+        <Delegate Name="TLOG" ID="21011">
+                <Delegate Name="Timer Type"
+                            ID="21012"
+                            Slot1="slotMathExp_TLOGTypeChanged()"/>
+                <Delegate Name="Timer No."
+                            ID="21013"
+                            Slot1="slotMathExp_TLOGNoChanged()"/>
+                <Delegate Name="Sum scale"
+                            ID="21014"
+                            Slot1="slotMathExp_TLOGSumChanged()"/>
+                <Delegate Name="Reset"
+                            ID="21015"
+                            Slot1="slotMathExp_TLOGResetChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Rolling average" ID="21020">
+                <Delegate Name="On/Off"
+                            ID="21021"
+                            Slot1="slotMathExp_RollSwitchChanged()"/>
+                <Delegate Name="Interval"
+                            ID="21022"
+                            Slot1="slotMathExp_RollIntervalChanged()"/>
+                <Delegate Name="Number of samples"
+                            ID="21023"
+                            Slot1="slotMathExp_RollSampleChanged()"/>
+        </Delegate>
+
+</Root>

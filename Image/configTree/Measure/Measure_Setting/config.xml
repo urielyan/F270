@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config Name="Measurement settings">
+
+        <Config Name="Scan interval">
+                <Object Name="Scan interval" ID="21511"/>
+        </Config>
+
+        <Config Name="Over-range">
+                <Object Name="Value on over-range" ID="21521"/>
+        </Config>
+
+        <Config Name="Select unit">
+                <Config Name="Main Unit">
+                    <Config Name="Unit 0 Module 0"/>
+                    <Config Name="Unit 0 Module 1"/>
+                    <Config Name="Unit 0 Module 2"/>
+                    <Config Name="Unit 0 Module 3"/>
+                    <Config Name="Unit 0 Module 4"/>
+                    <Config Name="Unit 0 Module 5"/>
+                    <Config Name="Unit 0 Module 6"/>
+                    <Config Name="Unit 0 Module 7"/>
+                    <Config Name="Unit 0 Module 8"/>
+                    <Config Name="Unit 0 Module 9"/>
+                </Config>
+
+                <Config Name="Ext Unit 1">
+                    <Config Name="Unit 1 Module 0"/>
+                    <Config Name="Unit 1 Module 1"/>
+                    <Config Name="Unit 1 Module 2"/>
+                    <Config Name="Unit 1 Module 3"/>
+                    <Config Name="Unit 1 Module 4"/>
+                    <Config Name="Unit 1 Module 5"/>
+                </Config>
+
+                <Config Name="Ext Unit 2">
+                    <Config Name="Unit 2 Module 0"/>
+                    <Config Name="Unit 2 Module 1"/>
+                    <Config Name="Unit 2 Module 2"/>
+                    <Config Name="Unit 2 Module 3"/>
+                    <Config Name="Unit 2 Module 4"/>
+                    <Config Name="Unit 2 Module 5"/>
+                </Config>
+
+                <Config Name="Ext Unit 3">
+                    <Config Name="Unit 3 Module 0"/>
+                    <Config Name="Unit 3 Module 1"/>
+                    <Config Name="Unit 3 Module 2"/>
+                    <Config Name="Unit 3 Module 3"/>
+                    <Config Name="Unit 3 Module 4"/>
+                    <Config Name="Unit 3 Module 5"/>
+                </Config>
+
+                <Config Name="Ext Unit 4">
+                    <Config Name="Unit 4 Module 0"/>
+                    <Config Name="Unit 4 Module 1"/>
+                    <Config Name="Unit 4 Module 2"/>
+                    <Config Name="Unit 4 Module 3"/>
+                    <Config Name="Unit 4 Module 4"/>
+                    <Config Name="Unit 4 Module 5"/>
+                </Config>
+
+                <Config Name="Ext Unit 5">
+                    <Config Name="Unit 5 Module 0"/>
+                    <Config Name="Unit 5 Module 1"/>
+                    <Config Name="Unit 5 Module 2"/>
+                    <Config Name="Unit 5 Module 3"/>
+                    <Config Name="Unit 5 Module 4"/>
+                    <Config Name="Unit 5 Module 5"/>
+                </Config>
+
+                <Config Name="Ext Unit 6">
+                    <Config Name="Unit 6 Module 0"/>
+                    <Config Name="Unit 6 Module 1"/>
+                    <Config Name="Unit 6 Module 2"/>
+                    <Config Name="Unit 6 Module 3"/>
+                    <Config Name="Unit 6 Module 4"/>
+                    <Config Name="Unit 6 Module 5"/>
+                </Config>
+        </Config>
+
+</Config>

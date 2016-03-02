@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+            <Object Name="Fail relay" ID="22761"/>
+            <Object Name="Memory/Media status" ID="22762"/>
+            <Object Name="Measurement error" ID="22763"/>
+            <Object Name="Communication error" ID="22764"/>
+            <Object Name="Record stop" ID="22765"/>
+            <Object Name="Alarm" ID="22766"/>
+
+</Root>

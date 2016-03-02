@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Communication (Serial) Delegate:Modbus master:Basic settings">
+	<MenuGroup
+                Path="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Master function"
+		Type = "group"
+		Normal = "none"
+		Changed = "none"
+		Hint = "none"
+		Extend = "none">
+		<MenuNormal
+                        Path="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Master function:On/Off"
+			Type = "normal"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+	</MenuGroup>
+	
+        <MenuGroup
+                Path="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Communication"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Communication:Interval"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotModbusCLientIntervalClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Communication:Communication timeout"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSerialModbusTimeoutClicked()"
+                    Include ="none"/>
+                <MenuNormal
+                    Path="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Communication:Gap between message"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotSerialModbusGapClicked()"
+                    Include ="none"/>
+       </MenuGroup>
+
+       <MenuGroup
+                   Path="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Recovery action"
+                   Type = "group"
+                   Normal = "none"
+                   Changed = "none"
+                   Hint = "none"
+                   Extend = "none">
+                   <MenuNormal
+                           Path="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Recovery action:Retry"
+                           Type = "normal"
+                           Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                           Changed = ":/setting/Image/setting/change-blue.png"
+                           Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                           Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                           Clicked = "slotSerialModbusRetryClicked()"
+                           Include ="none"/>
+                   <MenuNormal
+                           Path="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Recovery action:Wait time"
+                           Type = "normal"
+                           Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                           Changed = ":/setting/Image/setting/change-blue.png"
+                           Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                           Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                           Clicked = "slotModbusClientWaitTimeClicked()"
+                           Include ="none"/>
+       </MenuGroup>
+
+</Config>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="Modbus client function" ID="20452">
+                <Delegate Name="On/Off"
+                            ID="20453"
+                            Slot1="slotNetworkModbusBasicFunctionChange()"
+                            Slot2="slotNetworkModbusBasicConnectChange()"/>
+        </Delegate>
+
+        <Delegate Name="Communication" ID="20454">
+                <Delegate Name="Interval"
+                            ID="20455"
+                            Slot1="slotNetworkModbusBasicInteralChange()"/>
+        </Delegate>
+
+        <Delegate Name="Recovery action" ID="20456">
+                <Delegate Name="Wait time"
+                            ID="20457"
+                            Slot1="slotNetworkModbusBasicWaitTimeChange()"/>
+        </Delegate>
+
+        <Delegate Name="Connection" ID="20458">
+                <Delegate Name="Keep connection"
+                            ID="20459"
+                            Slot1="slotNetworkModbusBasicConnectChange()"/>
+                <Delegate Name="Connection timeout"
+                            ID="20460"
+                            Slot1="slotNetworkModbusBasicTimeoutChange()"/>
+        </Delegate>
+
+</Root>

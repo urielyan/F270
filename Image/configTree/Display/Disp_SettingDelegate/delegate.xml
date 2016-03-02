@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Delegate Name="Display Delegate"  ID="21300">
+
+    <Delegate Name="Trend settings"
+                ID="21301"
+                File=":/configtree/Image/configTree/Display/Disp_SettingDelegate/delegate-Trend.xml"/>
+
+    <Delegate Name="Group settings"
+                ID="21330"
+                File=":/configtree/Image/configTree/Display/Disp_SettingDelegate/delegate-Group.xml"/>
+
+    <Delegate Name="Message settings"
+                ID="21397"
+                File=":/configtree/Image/configTree/Display/Disp_SettingDelegate/delegate-Message.xml"/>
+
+    <Delegate Name="Screen display settings"
+                ID="21370"
+                File=":/configtree/Image/configTree/Display/Disp_SettingDelegate/delegate-Basic.xml"/>
+
+    <Delegate Name="Group number"
+                ID="21331"
+                Slot1="slotDispGroupNumberChanged()"
+                Slot2="slotDispDelegateChange()"/>
+
+    <Delegate Name="Message number"
+                ID="21398"
+                Slot1="slotDispMessageNumberChanged()"/>
+</Delegate>

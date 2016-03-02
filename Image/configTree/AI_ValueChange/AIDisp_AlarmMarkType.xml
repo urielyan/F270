@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:AI Delegate:Display settings:Alarm point mark:Mark type"
+                    Val="0" ID="12072">
+        <Delegate Name="Config:AI Delegate:Display settings:Alarm point mark:Alarm 1 color"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:AI Delegate:Display settings:Alarm point mark:Alarm 2 color"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:AI Delegate:Display settings:Alarm point mark:Alarm 3 color"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:AI Delegate:Display settings:Alarm point mark:Alarm 4 color"
+                  Hide="true"
+                  Value=""/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Display settings:Alarm point mark:Mark type"
+                    Val="1" ID="12072">
+        <Delegate Name="Config:AI Delegate:Display settings:Alarm point mark:Alarm 1 color"
+                  Hide="slot"/>
+        <Delegate Name="Config:AI Delegate:Display settings:Alarm point mark:Alarm 2 color"
+                  Hide="slot"/>
+        <Delegate Name="Config:AI Delegate:Display settings:Alarm point mark:Alarm 3 color"
+                  Hide="slot"/>
+        <Delegate Name="Config:AI Delegate:Display settings:Alarm point mark:Alarm 4 color"
+                  Hide="slot"/>
+    </ValueChange>
+
+</Root>

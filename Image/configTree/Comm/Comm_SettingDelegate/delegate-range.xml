@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="On/Off, Span" ID="22510">
+                <Delegate Name="On/Off"
+                            ID="22511"
+                            Slot1="slotCommRangeSwitchChange()"
+                            Slot2="slotCommRangeWatchDogSwitchChange()"/>
+
+                <Delegate Name="Decimal place"
+                            ID="22512"
+                            Slot1="slotCommRangeDecimalChange()"
+                            Slot2="slotCommDecimalAndUnitRelationChange()"/>
+
+                <Delegate Name="Span Lower"
+                            ID="22513"
+                            Slot1="slotCommRangeLowerChange()"/>
+
+                <Delegate Name="Span Upper"
+                            ID="22514"
+                            Slot1="slotCommRangeUpperChange()"/>
+
+                <Delegate Name="Unit"
+                            ID="22515"
+                            Slot1="slotCommRangeUnitChange()"
+                            Slot2="slotCommDecimalAndUnitRelationChange()"/>
+        </Delegate>
+
+        <Delegate Name="At power on" ID="22520">
+                <Delegate Name="Value at power on"
+                            ID="22521"
+                            Slot1="slotCommRangePowerChange()"/>
+        </Delegate>
+
+        <Delegate Name="Preset value" ID="22530">
+                <Delegate Name="Preset value"
+                            ID="22531"
+                            Slot1="slotCommRangeValueChange()"/>
+        </Delegate>
+
+        <Delegate Name="Watchdog timer" ID="22540">
+                <Delegate Name="On/Off"
+                            ID="22541"
+                            Slot1="slotCommRangeWatchDogSwitchChange()"/>
+                <Delegate Name="Timer"
+                            ID="22542"
+                            Slot1="slotCommRangeWatchDogTimerChange()"/>
+                <Delegate Name="Value at timer-expired"
+                            ID="22543"
+                            Slot1="slotCommRangeWatchDogValueChange()"/>
+        </Delegate>
+
+
+</Root>

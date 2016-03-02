@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform:Saving interval"
+                    Val="10" ID="21621">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform:Saving interval"
+                    Val="20" ID="21621">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform:Saving interval"
+                    Val="30" ID="21621">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform:Saving interval"
+                    Val="60" ID="21621">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform:Saving interval"
+                    Val="120" ID="21621">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform:Saving interval"
+                    Val="180" ID="21621">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform:Saving interval"
+                    Val="240" ID="21621">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform:Saving interval"
+                    Val="360" ID="21621">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform:Saving interval"
+                    Val="480" ID="21621">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform:Saving interval"
+                    Val="720" ID="21621">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform:Saving interval"
+                    Val="1440" ID="21621">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform:Saving interval"
+                    Val="2880" ID="21621">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform:Saving interval"
+                    Val="4320" ID="21621">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform:Saving interval"
+                    Val="7200" ID="21621">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform:Saving interval"
+                    Val="10080" ID="21621">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform:Saving interval"
+                    Val="20160" ID="21621">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Display data, Trend waveform:Saving interval"
+                    Val="44640" ID="21621">
+    </ValueChange>
+
+</Root>

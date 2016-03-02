@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate"
+                    Objects="Config:Timer settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer"
+                    Objects="Config:Timer settings:Timer"/>
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer"
+                    Objects="Config:Timer settings:Match time timer"/>
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer1"
+                    Objects="Config:Timer settings:Timer:Timer1"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer2"
+                    Objects="Config:Timer settings:Timer:Timer2"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer3"
+                    Objects="Config:Timer settings:Timer:Timer3"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer4"
+                    Objects="Config:Timer settings:Timer:Timer4"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer1"
+                    Objects="Config:Timer settings:Match time timer:Match time timer1"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer2"
+                    Objects="Config:Timer settings:Match time timer:Match time timer2"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer3"
+                    Objects="Config:Timer settings:Match time timer:Match time timer3"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer4"
+                    Objects="Config:Timer settings:Match time timer:Match time timer4"/>
+
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer1:Type"
+                    Objects="Config:Timer settings:Timer:Timer1:Type"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer1:Type:Type"
+                    Objects="Config:Timer settings:Timer:Timer1:Type:Type"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer1:Interval"
+                    Objects="Config:Timer settings:Timer:Timer1:Interval"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer1:Interval:Day"
+                    Objects="Config:Timer settings:Timer:Timer1:Interval:Day"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer1:Interval:Hour"
+                    Objects="Config:Timer settings:Timer:Timer1:Interval:Hour"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer1:Interval:Minute"
+                    Objects="Config:Timer settings:Timer:Timer1:Interval:Minute"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer1:Interval:Interval"
+                    Objects="Config:Timer settings:Timer:Timer1:Interval:Interval"/>
+
+
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer2:Type"
+                    Objects="Config:Timer settings:Timer:Timer2:Type"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer2:Type:Type"
+                    Objects="Config:Timer settings:Timer:Timer2:Type:Type"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer2:Interval"
+                    Objects="Config:Timer settings:Timer:Timer2:Interval"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer2:Interval:Day"
+                    Objects="Config:Timer settings:Timer:Timer2:Interval:Day"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer2:Interval:Hour"
+                    Objects="Config:Timer settings:Timer:Timer2:Interval:Hour"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer2:Interval:Minute"
+                    Objects="Config:Timer settings:Timer:Timer2:Interval:Minute"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer2:Interval:Interval"
+                    Objects="Config:Timer settings:Timer:Timer2:Interval:Interval"/>
+
+
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer3:Type"
+                    Objects="Config:Timer settings:Timer:Timer3:Type"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer3:Type:Type"
+                    Objects="Config:Timer settings:Timer:Timer3:Type:Type"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer3:Interval"
+                    Objects="Config:Timer settings:Timer:Timer3:Interval"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer3:Interval:Day"
+                    Objects="Config:Timer settings:Timer:Timer3:Interval:Day"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer3:Interval:Hour"
+                    Objects="Config:Timer settings:Timer:Timer3:Interval:Hour"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer3:Interval:Minute"
+                    Objects="Config:Timer settings:Timer:Timer3:Interval:Minute"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Objects="Config:Timer settings:Timer:Timer3:Interval:Interval"/>
+
+
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer4:Type"
+                    Objects="Config:Timer settings:Timer:Timer4:Type"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer4:Type:Type"
+                    Objects="Config:Timer settings:Timer:Timer4:Type:Type"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer4:Interval"
+                    Objects="Config:Timer settings:Timer:Timer4:Interval"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer4:Interval:Day"
+                    Objects="Config:Timer settings:Timer:Timer4:Interval:Day"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer4:Interval:Hour"
+                    Objects="Config:Timer settings:Timer:Timer4:Interval:Hour"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer4:Interval:Minute"
+                    Objects="Config:Timer settings:Timer:Timer4:Interval:Minute"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Timer:Timer4:Interval:Interval"
+                    Objects="Config:Timer settings:Timer:Timer4:Interval:Interval"/>
+
+
+
+
+
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer1:Type"
+                    Objects="Config:Timer settings:Match time timer:Match time timer1:Type"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer1:Type:Type"
+                    Objects="Config:Timer settings:Match time timer:Match time timer1:Type:Type"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition"
+                    Objects="Config:Timer settings:Match time timer:Match time timer1:Timer match condition"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Month"
+                    Objects="Config:Timer settings:Match time timer:Match time timer1:Timer match condition:Month"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Day"
+                    Objects="Config:Timer settings:Match time timer:Match time timer1:Timer match condition:Day"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Day of week"
+                    Objects="Config:Timer settings:Match time timer:Match time timer1:Timer match condition:Day of week"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Hour"
+                    Objects="Config:Timer settings:Match time timer:Match time timer1:Timer match condition:Hour"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer match condition:Minute"
+                    Objects="Config:Timer settings:Match time timer:Match time timer1:Timer match condition:Minute"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer action"
+                    Objects="Config:Timer settings:Match time timer:Match time timer1:Timer action"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer1:Timer action:Timer action"
+                    Objects="Config:Timer settings:Match time timer:Match time timer1:Timer action:Timer action"/>
+
+
+
+
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer2:Type"
+                    Objects="Config:Timer settings:Match time timer:Match time timer2:Type"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer2:Type:Type"
+                    Objects="Config:Timer settings:Match time timer:Match time timer2:Type:Type"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer2:Timer match condition"
+                    Objects="Config:Timer settings:Match time timer:Match time timer2:Timer match condition"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer2:Timer match condition:Month"
+                    Objects="Config:Timer settings:Match time timer:Match time timer2:Timer match condition:Month"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer2:Timer match condition:Day"
+                    Objects="Config:Timer settings:Match time timer:Match time timer2:Timer match condition:Day"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer2:Timer match condition:Day of week"
+                    Objects="Config:Timer settings:Match time timer:Match time timer2:Timer match condition:Day of week"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer2:Timer match condition:Hour"
+                    Objects="Config:Timer settings:Match time timer:Match time timer2:Timer match condition:Hour"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer2:Timer match condition:Minute"
+                    Objects="Config:Timer settings:Match time timer:Match time timer2:Timer match condition:Minute"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer2:Timer action"
+                    Objects="Config:Timer settings:Match time timer:Match time timer2:Timer action"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer2:Timer action:Timer action"
+                    Objects="Config:Timer settings:Match time timer:Match time timer2:Timer action:Timer action"/>
+
+
+
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer3:Type"
+                    Objects="Config:Timer settings:Match time timer:Match time timer3:Type"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer3:Type:Type"
+                    Objects="Config:Timer settings:Match time timer:Match time timer3:Type:Type"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer3:Timer match condition"
+                    Objects="Config:Timer settings:Match time timer:Match time timer3:Timer match condition"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer3:Timer match condition:Month"
+                    Objects="Config:Timer settings:Match time timer:Match time timer3:Timer match condition:Month"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer3:Timer match condition:Day"
+                    Objects="Config:Timer settings:Match time timer:Match time timer3:Timer match condition:Day"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer3:Timer match condition:Day of week"
+                    Objects="Config:Timer settings:Match time timer:Match time timer3:Timer match condition:Day of week"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer3:Timer match condition:Hour"
+                    Objects="Config:Timer settings:Match time timer:Match time timer3:Timer match condition:Hour"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer3:Timer match condition:Minute"
+                    Objects="Config:Timer settings:Match time timer:Match time timer3:Timer match condition:Minute"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer3:Timer action"
+                    Objects="Config:Timer settings:Match time timer:Match time timer3:Timer action"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer3:Timer action:Timer action"
+                    Objects="Config:Timer settings:Match time timer:Match time timer3:Timer action:Timer action"/>
+
+
+
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer4:Type"
+                    Objects="Config:Timer settings:Match time timer:Match time timer4:Type"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer4:Type:Type"
+                    Objects="Config:Timer settings:Match time timer:Match time timer4:Type:Type"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer4:Timer match condition"
+                    Objects="Config:Timer settings:Match time timer:Match time timer4:Timer match condition"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer4:Timer match condition:Month"
+                    Objects="Config:Timer settings:Match time timer:Match time timer4:Timer match condition:Month"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer4:Timer match condition:Day"
+                    Objects="Config:Timer settings:Match time timer:Match time timer4:Timer match condition:Day"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer4:Timer match condition:Day of week"
+                    Objects="Config:Timer settings:Match time timer:Match time timer4:Timer match condition:Day of week"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer4:Timer match condition:Hour"
+                    Objects="Config:Timer settings:Match time timer:Match time timer4:Timer match condition:Hour"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer4:Timer match condition:Minute"
+                    Objects="Config:Timer settings:Match time timer:Match time timer4:Timer match condition:Minute"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer4:Timer action"
+                    Objects="Config:Timer settings:Match time timer:Match time timer4:Timer action"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Timer Delegate:Match time timer:Match time timer4:Timer action:Timer action"
+                    Objects="Config:Timer settings:Match time timer:Match time timer4:Timer action:Timer action"/>
+
+
+</Root>

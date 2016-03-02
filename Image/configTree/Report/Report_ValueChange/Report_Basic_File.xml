@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Report Delegate:Basic settings:Creation time:File creation interval"
+                    Val="4" ID="22016">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Report Delegate:Basic settings:Creation time:File creation interval"
+                    Val="6" ID="22016">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Report Delegate:Basic settings:Creation time:File creation interval"
+                    Val="8" ID="22016">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Report Delegate:Basic settings:Creation time:File creation interval"
+                    Val="12" ID="22016">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Report Delegate:Basic settings:Creation time:File creation interval"
+                    Val="24" ID="22016">
+    </ValueChange>
+
+</Root>

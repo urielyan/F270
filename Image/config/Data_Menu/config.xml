@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Data save Delegate">
+        <MenuGroup
+                Path="Config:Data save Delegate:Save directory"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/config/Measure_Menu/Range_Menu/range_c.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/config/Measure_Menu/Range_Menu/range_e.png"
+                Clicked = "none"
+                Include ="none">
+                <MenuNormal
+                        Path="Config:Data save Delegate:Save directory:Directory name"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotEnglishInputClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Data save Delegate:File header"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/config/Measure_Menu/Range_Menu/range_c.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/config/Measure_Menu/Range_Menu/range_e.png"
+                Clicked = "none"
+                Include ="none">
+                <MenuNormal
+                        Path="Config:Data save Delegate:File header:Characters"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSoftKeypadClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Data save Delegate:Data file name"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/config/Measure_Menu/Range_Menu/range_c.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/config/Measure_Menu/Range_Menu/range_e.png"
+                Clicked = "none"
+                Include ="none">
+                <MenuNormal
+                        Path="Config:Data save Delegate:Data file name:Structure"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotDatasaveDataStrMenuClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Data save Delegate:Data file name:Identified strings"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotEnglishInputClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Data save Delegate:Media save"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/config/Measure_Menu/Range_Menu/range_c.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/config/Measure_Menu/Range_Menu/range_e.png"
+                Clicked = "none"
+                Include ="none">
+                <MenuNormal
+                        Path="Config:Data save Delegate:Media save:Auto save"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Data save Delegate:Media save:Media FIFO"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Data save Delegate:File format"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/config/Measure_Menu/Range_Menu/range_c.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/config/Measure_Menu/Range_Menu/range_e.png"
+                Clicked = "none"
+                Include ="none">
+                <MenuNormal
+                        Path="Config:Data save Delegate:File format:Display / Event data"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotDatasaveFormatMenuClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+</Config>

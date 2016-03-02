@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Measurement Delegate:Scan interval:Scan interval"
+                    Val="100" ID="21511">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Measurement Delegate:Scan interval:Scan interval"
+                    Val="200" ID="21511">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Measurement Delegate:Scan interval:Scan interval"
+                    Val="500" ID="21511">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Measurement Delegate:Scan interval:Scan interval"
+                    Val="1000" ID="21511">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Measurement Delegate:Scan interval:Scan interval"
+                    Val="2000" ID="21511">
+
+    </ValueChange>
+
+    <ValueChange    Name="Config:Measurement Delegate:Scan interval:Scan interval"
+                    Val="5000" ID="21511">
+
+    </ValueChange>
+
+</Root>

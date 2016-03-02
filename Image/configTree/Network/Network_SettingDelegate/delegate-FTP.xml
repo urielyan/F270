@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="FTP client function" ID="20101">
+                <Delegate Name="On/Off"
+                            ID="20102"
+                            Slot1="slotFTPFunctionChange()"/>
+        </Delegate>
+
+        <Delegate Name="Transfer file" ID="20110">
+                <Delegate Name="Display &amp; Event data"
+                            ID="20111"
+                            Slot1="slotFTPTransferFileDisplayChange()"/>
+                <Delegate Name="Report"
+                            ID="20112"
+                            Slot1="slotFTPTransferFileReportChange()"/>
+                <Delegate Name="Manual sampled data"
+                            ID="20113"
+                            Slot1="slotFTPTransferFileDataChange()"/>
+                <Delegate Name="Alarm summary"
+                            ID="20114"
+                            Slot1="slotFTPTransferFileAlarmChange()"/>
+                <Delegate Name="Snap shot"
+                            ID="20115"
+                            Slot1="slotFTPTransferFileSnapChange()"/>
+                <Delegate Name="Device settings"
+                            ID="20116"
+                            Slot1="slotFTPTransferFileDeviceChange()"/>
+        </Delegate>
+
+        <Delegate Name="Transfer wait time" ID="20120">
+                <Delegate Name="Display &amp; Event data"
+                            ID="20121"
+                            Slot1="slotFTPTransferWaitDisplayChange()"/>
+                <Delegate Name="Report"
+                            ID="20122"
+                            Slot1="slotFTPTransferWaitReportChange()"/>
+        </Delegate>
+
+        <Delegate Name="Encryption" ID="20130">
+                <Delegate Name="Encryption"
+                            ID="20131"
+                            Slot1="slotFTPEncrptionChange()"/>
+                <Delegate Name="Verfication of certificate"
+                            ID="20132"
+                            Slot1="slotFTPEncrptionVerficationChange()"/>
+        </Delegate>
+
+        <Delegate Name="FTP connection Primary" ID="20140">
+
+                <Delegate Name="FTP server name"
+                            ID="20143"
+                            Slot1="slotFTPPriServerChange()"/>
+                <Delegate Name="Port number"
+                            ID="20142"
+                            Slot1="slotFTPPriPortChange()"/>
+                <Delegate Name="User name"
+                            ID="20144"
+                            Slot1="slotFTPPriNameChange()"/>
+                <Delegate Name="Password"
+                            ID="20145"
+                            Slot1="slotFTPPriPasswdChange()"/>
+                <Delegate Name="Directory"
+                            ID="20146"
+                            Slot1="slotFTPPriDirectionChange()"/>
+                <Delegate Name="PASV mode"
+                            ID="20141"
+                            Slot1="slotFTPPriModeChange()"/>
+        </Delegate>
+
+        <Delegate Name="FTP connection Secondary" ID="20150">
+                <Delegate Name="FTP server name"
+                            ID="20153"
+                            Slot1="slotFTPSecServerChange()"/>
+                <Delegate Name="Port number"
+                            ID="20152"
+                            Slot1="slotFTPSecPortChange()"/>
+                <Delegate Name="User name"
+                            ID="20154"
+                            Slot1="slotFTPSecNameChange()"/>
+                <Delegate Name="Password"
+                            ID="20155"
+                            Slot1="slotFTPSecPasswdChange()"/>
+                <Delegate Name="Directory"
+                            ID="20156"
+                            Slot1="slotFTPSecDirectionChange()"/>
+                <Delegate Name="PASV mode"
+                            ID="20151"
+                            Slot1="slotFTPSecModeChange()"/>
+        </Delegate>
+
+</Root>

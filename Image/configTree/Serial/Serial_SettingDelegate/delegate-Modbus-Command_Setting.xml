@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+
+       <Delegate Name="Type"
+                    ID="22461"
+                    Slot1="slotSerialModbusCommandTypeChange()"
+                    Slot2="slotSerialCommandTypeRelationChange()"/>
+       <Delegate Name="Slave"
+                    ID="22462"
+                    Slot1="slotSerialModbusCommandSlaveChange()"/>
+       <Delegate Name="Data type"
+                    ID="22463"
+                    Slot1="slotSerialModbusCommandDataTypeChange()"/>
+       <Delegate Name="Register"
+                    ID="22464"
+                    Slot1="slotSerialModbusCommandRegisterChange()"/>
+       <Delegate Name="Channel type"
+                    ID="22465"
+                    Slot1="slotSerialModbusCommandChanelTypeChange()"
+                    Slot2="slotSerialCommandChanelTypeRelationChange()"/>
+       <Delegate Name="First-CH"
+                    ID="22466"
+                    Slot1="slotSerialModbusCommandFirstCHChange()"
+                    Slot2="slotSerialModbusCommandLastCHChange()"/>
+       <Delegate Name="Last-CH"
+                    ID="22467"
+                    Slot1="slotSerialModbusCommandLastCHChange()"/>
+
+</Root>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Level 1">
+                <Object Name="On/Off" ID="21042"/>
+                <Object Name="Type" ID="21043"/>
+                <Object Name="Value" ID="21044"/>
+                <Object Name="Hysteresis" ID="21045"/>
+                <Object Name="Logging" ID="21046"/>
+                <Object Name="Output type" ID="21047"/>
+                <Object Name="Output No." ID="21048"/>
+        </Config>
+
+        <Config Name="Level 2">
+                <Object Name="On/Off" ID="21052"/>
+                <Object Name="Type" ID="21053"/>
+                <Object Name="Value" ID="21054"/>
+                <Object Name="Hysteresis" ID="21055"/>
+                <Object Name="Logging" ID="21056"/>
+                <Object Name="Output type" ID="21057"/>
+                <Object Name="Output No." ID="21058"/>
+        </Config>
+
+        <Config Name="Level 3">
+                <Object Name="On/Off" ID="21062"/>
+                <Object Name="Type" ID="21063"/>
+                <Object Name="Value" ID="21064"/>
+                <Object Name="Hysteresis" ID="21065"/>
+                <Object Name="Logging" ID="21066"/>
+                <Object Name="Output type" ID="21067"/>
+                <Object Name="Output No." ID="21068"/>
+        </Config>
+
+        <Config Name="Level 4">
+                <Object Name="On/Off" ID="21072"/>
+                <Object Name="Type" ID="21073"/>
+                <Object Name="Value" ID="21074"/>
+                <Object Name="Hysteresis" ID="21075"/>
+                <Object Name="Logging" ID="21076"/>
+                <Object Name="Output type" ID="21077"/>
+                <Object Name="Output No." ID="21078"/>
+        </Config>
+
+        <Config Name="Alarm delay">
+                <Object Name="Hour" ID="21084"/>
+                <Object Name="Minute" ID="21083"/>
+                <Object Name="Second" ID="21082"/>
+        </Config>
+
+</Root>

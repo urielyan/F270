@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Communication (Ethernet) Delegate:Modbus client settings:Modbus server settings">
+	<MenuNormal
+                Path="Config:Communication (Ethernet) Delegate:Modbus client settings:Modbus server settings:Server number"
+		Type = "normal"
+		Normal = ":/config/AI_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change-blue.png"
+		Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+		Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                Clicked = "slotModbusServerSettingNumberClicked()"
+                Include ="none"/>
+
+	<MenuGroup
+                Path="Config:Communication (Ethernet) Delegate:Modbus client settings:Modbus server settings:Modbus server settings"
+		Type = "group"
+		Normal = "none"
+		Changed = "none"
+		Hint = "none"
+		Extend = "none">
+		<MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Modbus client settings:Modbus server settings:Modbus server settings:Server name"
+			Type = "normal"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotEnglishInputClicked()"
+                        Include ="none"/>
+		<MenuNormal
+                        Path="Config:Communication (Ethernet) Delegate:Modbus client settings:Modbus server settings:Modbus server settings:Port number"
+			Type = "normal"
+			Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+			Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+			Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+	</MenuGroup>
+	
+</Config>

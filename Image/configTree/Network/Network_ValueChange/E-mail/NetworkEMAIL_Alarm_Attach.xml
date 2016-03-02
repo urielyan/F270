@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+<ValueChange    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Alarm settings:Attach instantaneous data"
+                Val="0" ID="20333">
+</ValueChange>
+
+<ValueChange    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Alarm settings:Attach instantaneous data"
+                Val="1" ID="20333">
+</ValueChange>
+
+</Root>

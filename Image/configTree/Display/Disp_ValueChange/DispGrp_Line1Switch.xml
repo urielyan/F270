@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Display Delegate:Group settings:Trip line 1:On/Off"
+                    Val="0" ID="21341">
+        <Delegate Name="Config:Display Delegate:Group settings:Trip line 1:Position"
+                  Hide="true"/>
+        <Delegate Name="Config:Display Delegate:Group settings:Trip line 1:Color"
+                  Hide="true"/>
+        <Delegate Name="Config:Display Delegate:Group settings:Trip line 1:Line width"
+                  Hide="true"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Display Delegate:Group settings:Trip line 1:On/Off"
+                    Val="1" ID="21341">
+        <Delegate Name="Config:Display Delegate:Group settings:Trip line 1:Position"
+                  Hide="slot"/>
+        <Delegate Name="Config:Display Delegate:Group settings:Trip line 1:Color"
+                  Hide="slot"/>
+        <Delegate Name="Config:Display Delegate:Group settings:Trip line 1:Line width"
+                  Hide="slot"/>
+    </ValueChange>
+</Root>

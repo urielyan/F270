@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Color" ID="21101">
+                <Delegate Name="Color" ID="21102" Slot1="slotMathDisp_ColorColorChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Tag" ID="21110">
+                <Delegate Name="Characters" ID="21111" Slot1="slotMathDisp_TagCharChanged()"/>
+                <Delegate Name="No." ID="21112" Slot1="slotMathDisp_TagNoChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Zone" ID="21120">
+                <Delegate Name="Upper" ID="21121" Slot1="slotMathDisp_ZoneUpperChanged()"/>
+                <Delegate Name="Lower" ID="21122" Slot1="slotMathDisp_ZoneLowerChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Scale" ID="21130">
+                <Delegate Name="Position" ID="21131" Slot1="slotMathDisp_ScalePosChanged()"/>
+                <Delegate Name="Division" ID="21132" Slot1="slotMathDisp_ScaleDivChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Bar graph" ID="21140">
+                <Delegate Name="Base position" ID="21141" Slot1="slotMathDisp_BarBasePosChanged()"/>
+                <Delegate Name="Division" ID="21142" Slot1="slotMathDisp_BarDivChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Partial" ID="21150">
+                <Delegate Name="On/Off" ID="21151" Slot1="slotMathDisp_PartOnoffChanged()"/>
+                <Delegate Name="Expand" ID="21153" Slot1="slotMathDisp_PartExpandChanged()"/>
+                <Delegate Name="Boundary" ID="21152" Slot1="slotMathDisp_PartBoundChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Color scale band" ID="21160">
+                <Delegate Name="Band area" ID="21164" Slot1="slotMathDisp_CsbandBandareaChanged()"/>
+                <Delegate Name="Display position Upper" ID="21163" Slot1="slotMathDisp_CsbandDispUpChanged()"/>
+                <Delegate Name="Display position Lower" ID="21162" Slot1="slotMathDisp_CsbandDispLowChanged()"/>
+                <Delegate Name="Color" ID="21161" Slot1="slotMathDisp_CsbandColorChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Alarm point mark" ID="21170">
+                <Delegate Name="Indicate on Scale" ID="21171" Slot1="slotMathDisp_AlarmIndicateChanged()"/>
+                <Delegate Name="Mark type" ID="21172" Slot1="slotMathDisp_AlarmMarkTypeChanged()"/>
+                <Delegate Name="Alarm 1 color" ID="21173" Slot1="slotMathDisp_AlarmAlarm1Changed()"/>
+                <Delegate Name="Alarm 2 color" ID="21174" Slot1="slotMathDisp_AlarmAlarm2Changed()"/>
+                <Delegate Name="Alarm 3 color" ID="21175" Slot1="slotMathDisp_AlarmAlarm3Changed()"/>
+                <Delegate Name="Alarm 4 color" ID="21176" Slot1="slotMathDisp_AlarmAlarm4Changed()"/>
+        </Delegate>
+
+</Root>

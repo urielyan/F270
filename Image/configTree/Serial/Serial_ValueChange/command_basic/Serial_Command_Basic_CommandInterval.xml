@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Communication:Gap between message"
+                    Val="0" ID="22433">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Communication:Gap between message"
+                    Val="1" ID="22433">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Communication:Gap between message"
+                    Val="2" ID="22433">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Communication:Gap between message"
+                    Val="3" ID="22433">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Communication:Gap between message"
+                    Val="4" ID="22433">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Communication:Gap between message"
+                    Val="5" ID="22433">
+    </ValueChange>
+</Root>

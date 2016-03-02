@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:DI Delegate:Range:Range:Span Upper"
+                    Val="0" ID="15031">
+        <Delegate Name="Config:DI Delegate:Range:Range:Range Upper"
+                  Hide="false"
+                  Value="1"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:DI Delegate:Range:Range:Span Upper"
+                    Val="1" ID="15031">
+        <Delegate Name="Config:DI Delegate:Range:Range:Range Upper"
+                  Hide="false"
+                  Value="1"/>
+    </ValueChange>
+</Root>

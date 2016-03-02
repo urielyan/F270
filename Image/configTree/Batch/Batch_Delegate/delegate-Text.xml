@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Text num"
+                    ID="21922"
+                    Slot1="slotConfigBatchTextNumChange()"
+                    Slot2="slotConfigBatchTextNumReationChange()"/>
+
+        <Delegate Name="Text field" ID="21923">
+                <Delegate Name="Title of field"
+                            ID="21924"
+                            Slot1="slotConfigBatchTextFieldChange()"/>
+
+                <Delegate Name="Characters"
+                            ID="21925"
+                            Slot1="slotConfigBatchTextCharactersChange()"/>
+        </Delegate>
+
+</Root>

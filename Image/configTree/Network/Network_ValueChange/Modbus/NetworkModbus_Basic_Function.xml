@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Modbus client function:On/Off"
+                    Val="0" ID="20453">
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Communication"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Communication:Interval"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Recovery action"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Recovery action:Wait time"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection:Keep connection"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection:Connection timeout"
+                  Hide="true"
+                  Value=""/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Modbus client function:On/Off"
+                    Val="1" ID="20453">
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Communication"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Communication:Interval"
+                  Hide="false"
+                  Value="3"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Recovery action"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Recovery action:Wait time"
+                  Hide="false"
+                  Value="5"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection:Keep connection"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Connection:Connection timeout"
+                  Hide="false"
+                  Value="1"/>
+    </ValueChange>
+
+</Root>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Report Delegate:Report channel settings">
+
+                <MenuNormal
+                    Path="Config:Report Delegate:Report channel settings:number"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotReportCommClicked()"
+                    Include ="none"/>
+
+        <MenuGroup
+                Path="Config:Report Delegate:Report channel settings:Report channel"
+                Type = "group"
+                Normal = "none"
+                Changed = "none"
+                Hint = "none"
+                Extend = "none">
+                <MenuNormal
+                    Path="Config:Report Delegate:Report channel settings:Report channel:Channel type"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotReportCommClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Report Delegate:Report channel settings:Report channel:Channel No."
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotNumericKeypadClicked()"
+                    Include ="none"/>
+
+                <MenuNormal
+                    Path="Config:Report Delegate:Report channel settings:Report channel:Sum scale"
+                    Type = "normal"
+                    Normal = ":/config/AI_Menu/Channel_Item/ch_item.png"
+                    Changed = ":/setting/Image/setting/change-blue.png"
+                    Hint = ":/config/AI_Menu/Channel_Normal/ch_normal_h.png"
+                    Extend = ":/config/AI_Menu/Channel_Normal/ch_normal_e.png"
+                    Clicked = "slotReportCommClicked()"
+                    Include ="none"/>
+        </MenuGroup>
+</Config>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording mode"
+                    Val="0" ID="21612"> <!--Free-->
+
+        <Delegate Name="Config:Recording Delegate:Basic settings:Event data:Pre-trigger"
+                  Hide="true"/>
+        <Delegate Name="Config:Recording Delegate:Basic settings:Event data:Trigger source operation"
+                  Hide="true"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording mode"
+                    Val="1" ID="21612"> <!--Single-->
+
+        <Delegate Name="Config:Recording Delegate:Basic settings:Event data:Pre-trigger"
+                  Hide="slot"/>
+        <Delegate Name="Config:Recording Delegate:Basic settings:Event data:Trigger source operation"
+                  Hide="slot"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Recording Delegate:Basic settings:Event data:Recording mode"
+                    Val="2" ID="21612"> <!--Loop-->
+
+        <Delegate Name="Config:Recording Delegate:Basic settings:Event data:Pre-trigger"
+                  Hide="slot"/>
+        <Delegate Name="Config:Recording Delegate:Basic settings:Event data:Trigger source operation"
+                  Hide="slot"/>
+    </ValueChange>
+
+</Root>

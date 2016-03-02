@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Range" ID="10007">
+                <Delegate Name="Type"
+                            ID="10010"
+                            Slot1="slotAIRange_RangeTypeChanged()"/>
+                <Delegate Name="Range"
+                            ID="10020"
+                            Slot1="slotAIRange_RangeRangeChanged()"/>
+                <Delegate Name="Range Upper" ID="10022"/>
+                <Delegate Name="Range Lower" ID="10021"/>
+                <Delegate Name="Span Upper"
+                            ID="10031"
+                            Slot1="slotAIRange_RangeUpperChanged()"/>
+                <Delegate Name="Span Lower"
+                            ID="10030"
+                            Slot1="slotAIRange_RangeLowerChanged()"/>
+                <Delegate Name="Calculation"
+                            ID="10032"
+                            Slot1="slotAIRange_RangeCalculationChanged()"/>
+                <Delegate Name="Reference channel"
+                            ID="10033"
+                            Slot1="slotAIRange_RangeRefChanChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Scale" ID="10040">
+                <Delegate Name="Decimal place"
+                            ID="10041"
+                            Slot1="slotAIRange_ScaleDecimalChanged()"/>
+                <Delegate Name="Scale Lower"
+                            ID="10042"
+                            Slot1="slotAIRange_ScaleLowerChanged()"/>
+                <Delegate Name="Scale Upper"
+                            ID="10043"
+                            Slot1="slotAIRange_ScaleUpperChanged()"/>
+                <Delegate Name="Unit"
+                            ID="10044"
+                            Slot1="slotAIRange_ScaleUnitChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Low-cut" ID="10050">
+                <Delegate Name="On/Off"
+                            ID="10051"
+                            Slot1="slotAIRange_LowcutOnoffChanged()"/>
+                <Delegate Name="Low-cut value"
+                            ID="10052"
+                            Slot1="slotAIRange_LowcutValueChanged()"/>
+                <Delegate Name="Low-cut output"
+                            ID="10053"
+                            Slot1="slotAIRange_LowcutOutputChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Moving average" ID="10060">
+                <Delegate Name="On/Off"
+                            ID="10061"
+                            Slot1="slotAIRange_MovingOnoffChanged()"/>
+                <Delegate Name="Count"
+                            ID="10062"
+                            Slot1="slotAIRange_MovingCountChanged()"/>
+        </Delegate>
+
+        <Delegate Name="RJC" ID="10070">
+                <Delegate Name="Mode"
+                            ID="10071"
+                            Slot1="slotAIRange_RJCModeChanged()"/>
+                <Delegate Name="Temperature"
+                            ID="10072"
+                            Slot1="slotAIRange_RJCTemperChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Burnout set" ID="10080">
+                <Delegate Name="Mode"
+                            ID="10081"
+                            Slot1="slotAIRange_BurnoutModeChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Bias" ID="10090">
+                <Delegate Name="Value"
+                            ID="10091"
+                            Slot1="slotAIRange_BiasValueChanged()"/>
+        </Delegate>
+
+</Root>

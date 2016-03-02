@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Event action">
+                <Object Name="On/Off" ID="22311"/>
+        </Config>
+
+        <Config Name="Event">
+                <Object Name="Type" ID="22321"/>
+                <Object Name="Number" ID="22322"/>
+                <Object Name="Event details" ID="22324"/>
+                <Object Name="Alarm level" ID="22323"/>
+                <Object Name="Operation mode" ID="22325"/>
+        </Config>
+
+        <Config Name="Action">
+                <Object Name="Type" ID="22331"/>
+                <Object Name="Number" ID="22332"/>
+                <Object Name="Detail" ID="22333"/>
+                <Object Name="Group number" ID="22334"/>
+        </Config>
+
+</Root>

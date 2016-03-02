@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Object Name="Display data, Trend waveform" ID="21651"/>
+        <Object Name="Display data, Trend waveform Channel item" ID="21652"/>
+
+        <Object Name="Event data" ID="21641"/>
+        <Object Name="Event data Channel item" ID="21642"/>
+
+        <Object Name="Manual sample" ID="21661"/>
+        <Object Name="Manual sample Channel item" ID="21662"/>
+
+</Root>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate"
+                    Objects="Config:Communication (Serial) settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Basic settings"
+                    Objects="Config:Communication (Serial) settings:Basic settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Modbus master"
+                    Objects="Config:Communication (Serial) settings:Modbus master"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Basic settings:Receiver"
+                    Objects="Config:Communication (Serial) settings:Basic settings:Receiver"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Basic settings:Receiver:Function"
+                    Objects="Config:Communication (Serial) settings:Basic settings:Receiver:Function"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Basic settings:Receiver:Address"
+                    Objects="Config:Communication (Serial) settings:Basic settings:Receiver:Address"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Basic settings:Data transfer"
+                    Objects="Config:Communication (Serial) settings:Basic settings:Data transfer"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Basic settings:Data transfer:Baud rate"
+                    Objects="Config:Communication (Serial) settings:Basic settings:Data transfer:Baud rate"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Basic settings:Data transfer:Parity bit"
+                    Objects="Config:Communication (Serial) settings:Basic settings:Data transfer:Parity bit"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Basic settings:Data transfer:Stop bit"
+                    Objects="Config:Communication (Serial) settings:Basic settings:Data transfer:Stop bit"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Basic settings:Data transfer:Data length"
+                    Objects="Config:Communication (Serial) settings:Basic settings:Data transfer:Data length"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Basic settings"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Basic settings"/>
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Master function"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Basic settings:Master function"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Master function:On/Off"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Basic settings:Master function:On/Off"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Communication"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Basic settings:Communication"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Communication:Interval"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Basic settings:Communication:Interval"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Communication:Communication timeout"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Basic settings:Communication:Communication timeout"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Communication:Gap between message"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Basic settings:Communication:Gap between message"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Recovery action"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Basic settings:Recovery action"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Recovery action:Retry"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Basic settings:Recovery action:Retry"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Basic settings:Recovery action:Wait time"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Basic settings:Recovery action:Wait time"/>
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Command settings"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Command settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Command settings:Master command number"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Command settings:Master command number"/>
+
+        <DelegateChange Type="Serial-Command"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Command settings:Command settings"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Command settings:%1:Command settings"/>
+
+        <DelegateChange Type="Serial-Command"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Command settings:Command settings:Type"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Command settings:%1:Command settings:Type"/>
+
+        <DelegateChange Type="Serial-Command"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Command settings:Command settings:Slave"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Command settings:%1:Command settings:Slave"/>
+
+        <DelegateChange Type="Serial-Command"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Command settings:Command settings:Data type"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Command settings:%1:Command settings:Data type"/>
+
+        <DelegateChange Type="Serial-Command"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Command settings:Command settings:Register"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Command settings:%1:Command settings:Register"/>
+
+        <DelegateChange Type="Serial-Command"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Command settings:Command settings:Channel type"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Command settings:%1:Command settings:Channel type"/>
+
+        <DelegateChange Type="Serial-Command"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Command settings:Command settings:First-CH"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Command settings:%1:Command settings:First-CH"/>
+
+        <DelegateChange Type="Serial-Command"
+                    Name="Config:Communication (Serial) Delegate:Modbus master:Command settings:Command settings:Last-CH"
+                    Objects="Config:Communication (Serial) settings:Modbus master:Command settings:%1:Command settings:Last-CH"/>
+
+</Root>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+<ValueChange    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Alarm settings:Include tag/ch in Subject"
+                Val="0" ID="20334">
+</ValueChange>
+
+<ValueChange    Name="Config:Communication (Ethernet) Delegate:E-mail settings:Alarm settings:Include tag/ch in Subject"
+                Val="1" ID="20334">
+</ValueChange>
+</Root>

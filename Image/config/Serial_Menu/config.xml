@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Communication (Serial) Delegate">
+	<MenuTitle
+                Path="Config:Communication (Serial) Delegate:Basic settings"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Serial_Menu/basic_menu/config.xml"/>
+	<MenuTitle
+                Path="Config:Communication (Serial) Delegate:Modbus master"
+                Normal = ":/config/Measure_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Measure_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Serial_Menu/modbus_menu/config.xml"/>
+</Config>

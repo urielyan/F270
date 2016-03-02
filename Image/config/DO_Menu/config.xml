@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:DO Delegate">
+        <MenuTitle
+                Path="Config:DO Delegate:Range"
+                Normal = ":/config/AI_Menu/Range_Menu/range.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/AI_Menu/Range_Menu/range_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/DO_Menu/Range_Menu/config.xml"/>
+        <MenuTitle
+                Path="Config:DO Delegate:Display settings"
+                Normal = ":/config/AI_Menu/Display_Menu/display.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/AI_Menu/Display_Menu/display_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/DO_Menu/Display_Menu/config.xml"/>
+</Config>

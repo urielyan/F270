@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+
+                <Delegate Name="Instruments tag"
+                            ID="22791"
+                            Slot1="slotsystemInstrumentTagChange()"/>
+
+                <Delegate Name="Instruments tag No."
+                            ID="22792"
+                            Slot1="slotsystemInstrumentNoChange()"/>
+
+</Root>

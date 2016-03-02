@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Math Delegate">
+        <MenuTitle
+                Path="Config:Math Delegate:Calculation expression"
+                Normal = ":/config/Math_Menu/Calibration_Menu/calibration.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Math_Menu/Calibration_Menu/calibration_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Math_Menu/Exp_Menu/config.xml"/>
+        <MenuTitle
+                Path="Config:Math Delegate:Alarm"
+                Normal = ":/config/Math_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Math_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Math_Menu/Alarm_Menu/config.xml"/>
+        <MenuTitle
+                Path="Config:Math Delegate:Display settings"
+                Normal = ":/config/Math_Menu/Display_Menu/display.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Math_Menu/Display_Menu/display_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Math_Menu/Display_Menu/config.xml"/>
+        <MenuTitle
+                Path="Config:Math Delegate:Constant"
+                Normal = ":/config/Math_Menu/Range_Menu/range.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Math_Menu/Range_Menu/range_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Math_Menu/ConstK_Menu/config.xml"/>
+        <MenuTitle
+                Path="Config:Math Delegate:Math action settings"
+                Normal = ":/config/Math_Menu/Range_Menu/range.png"
+                Changed = ":/setting/Image/setting/change.png"
+                Hint = ":/config/Math_Menu/Range_Menu/range_h.png"
+                Extend = ":/setting/Image/setting/title.png"
+                Clicked = "none"
+                Include =":/config/Image/config/Math_Menu/Action_Menu/config.xml"/>
+</Config>

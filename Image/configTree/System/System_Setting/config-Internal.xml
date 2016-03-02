@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Object Name="First number" ID="22771"/>
+        <Object Name="Last number" ID="22772"/>
+
+        <Group Type="Interval-Switch"
+                    File=":/configtree/Image/configTree/System/System_Setting/config-Internal-Switch.xml"/>
+
+</Root>

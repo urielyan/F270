@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Bar graph">
+                <Object Name="Direction" ID="21372"/>
+        </Config>
+
+        <Config Name="LCD">
+                <Object Name="Brightness" ID="21374"/>
+        </Config>
+
+        <Config Name="Backlight saver">
+                <Object Name="Mode" ID="21383"/>
+                <Object Name="Saver time" ID="21384"/>
+                <Object Name="Restore" ID="21385"/>
+        </Config>
+
+        <Config Name="Monitor">
+                <Object Name="Display background" ID="21390"/>
+                <Object Name="Scroll time" ID="21391"/>
+                <Object Name="Jump default display" ID="21392"/>
+        </Config>
+
+        <Config Name="Calendar display">
+                <Object Name="1st weekday" ID="21394"/>
+        </Config>
+
+        <Config Name="Changing each value from monitoring">
+                <Object Name="On/Off" ID="21396"/>
+        </Config>
+
+</Root>

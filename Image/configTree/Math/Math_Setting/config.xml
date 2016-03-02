@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config Name="Math channel settings">
+
+    <Config Name="Calculation expression">
+            <Group Type="Math-Channel"
+                   File=":/configtree/Image/configTree/Math/Math_Setting/config-CalcuExp.xml"/>
+    </Config>
+
+    <Config Name="Alarm">
+            <Group Type="Math-Channel"
+                   File=":/configtree/Image/configTree/Math/Math_Setting/config-Alarm.xml"/>
+    </Config>
+
+    <Config Name="Display settings">
+            <Group Type="Math-Channel"
+                   File=":/configtree/Image/configTree/Math/Math_Setting/config-Display.xml"/>
+    </Config>
+
+    <Config Name="Constant"
+            File=":/configtree/Image/configTree/Math/Math_Setting/config-Constant.xml"/>
+
+    <Config Name="Math action settings"
+            File=":/configtree/Image/configTree/Math/Math_Setting/config-MathAction.xml"/>
+
+    <Object Name="First-CH" ID="21001"/>
+    <Object Name="Last-CH" ID="21002"/>
+    <Object Name="Constant number" ID="21191"/>
+
+</Config>

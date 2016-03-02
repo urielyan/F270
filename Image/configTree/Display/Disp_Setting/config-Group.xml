@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Group settings">
+                <Object Name="On/Off" ID="21333"/>
+                <Object Name="Group name" ID="21335"/>
+                <Object Name="Channel set" ID="21334"/>
+                <Object Name="Channel set Channel item" ID="21336"/>
+        </Config>
+
+        <Config Name="Scale image">
+                <Object Name="On/Off" ID="21338"/>
+        </Config>
+
+        <Config Name="Trip line 1">
+                <Object Name="On/Off" ID="21341"/>
+                <Object Name="Position" ID="21342"/>
+                <Object Name="Color" ID="21344"/>
+                <Object Name="Line width" ID="21343"/>
+        </Config>
+
+        <Config Name="Trip line 2">
+                <Object Name="On/Off" ID="21346"/>
+                <Object Name="Position" ID="21347"/>
+                <Object Name="Color" ID="21349"/>
+                <Object Name="Line width" ID="21348"/>
+        </Config>
+
+        <Config Name="Trip line 3">
+                <Object Name="On/Off" ID="21352"/>
+                <Object Name="Position" ID="21353"/>
+                <Object Name="Color" ID="21355"/>
+                <Object Name="Line width" ID="21354"/>
+        </Config>
+
+        <Config Name="Trip line 4">
+                <Object Name="On/Off" ID="21361"/>
+                <Object Name="Position" ID="21362"/>
+                <Object Name="Color" ID="21364"/>
+                <Object Name="Line width" ID="21363"/>
+        </Config>
+
+</Root>

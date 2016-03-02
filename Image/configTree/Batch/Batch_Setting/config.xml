@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config Name="Batch settings">
+        <Config Name="Batch function">
+                <Object Name="On/Off" ID="21902"/>
+                <Object Name="Lot-No. digit" ID="21903"/>
+                <Object Name="Auto increment" ID="21904"/>
+        </Config>
+
+        <Config Name="Batch text">
+                <Config Name="Batch text">
+                        <Object Name="Text num" ID="21922"/>
+                        <Group Type="Batch-Text"
+                                File=":/configtree/Image/configTree/Batch/Batch_Setting/config-Text.xml"/>
+                 </Config>
+        </Config>
+
+</Config>

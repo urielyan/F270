@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Data type"
+                    Val="0" ID="20476">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Data type"
+                    Val="1" ID="20476">
+    </ValueChange>
+
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Data type"
+                    Val="2" ID="20476">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Data type"
+                    Val="3" ID="20476">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Data type"
+                    Val="4" ID="20476">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Data type"
+                    Val="5" ID="20476">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Data type"
+                    Val="6" ID="20476">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Data type"
+                    Val="7" ID="20476">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Command settings:Command settings:Data type"
+                    Val="8" ID="20476">
+    </ValueChange>
+
+</Root>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Server settings:Allowed Modbus clients:6:IP Address"
+                    ID="20532">
+
+    </ValueChange>
+
+</Root>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Recovery action:Wait time"
+                    Val="0" ID="20457">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Recovery action:Wait time"
+                    Val="1" ID="20457">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Recovery action:Wait time"
+                    Val="2" ID="20457">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Recovery action:Wait time"
+                    Val="3" ID="20457">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Recovery action:Wait time"
+                    Val="4" ID="20457">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Recovery action:Wait time"
+                    Val="5" ID="20457">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Communication (Ethernet) Delegate:Modbus client settings:Basic settings:Recovery action:Wait time"
+                    Val="6" ID="20457">
+    </ValueChange>
+
+</Root>

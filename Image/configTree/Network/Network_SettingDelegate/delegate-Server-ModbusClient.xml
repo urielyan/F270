@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+
+        <Delegate Name="Modbus client connect limits function" ID="20502">
+                <Delegate Name="On/Off"
+                            ID="20503"
+                            Slot1="slotServerModbusFunctionChange()"/>
+        </Delegate>
+
+        <Delegate Name="1" ID="20505">
+                <Delegate Name="On/Off"
+                            ID="20506"
+                            Slot1="slotServerModbus1SwitchChange()"/>
+                <Delegate Name="IP Address"
+                            ID="20507"
+                            Slot1="slotServerModbus1IPChange()"/>
+        </Delegate>
+
+        <Delegate Name="2" ID="20510">
+                <Delegate Name="On/Off"
+                            ID="20511"
+                            Slot1="slotServerModbus2SwitchChange()"/>
+                <Delegate Name="IP Address"
+                            ID="20512"
+                            Slot1="slotServerModbus2IPChange()"/>
+        </Delegate>
+
+        <Delegate Name="3" ID="20515">
+                <Delegate Name="On/Off"
+                            ID="20516"
+                            Slot1="slotServerModbus3SwitchChange()"/>
+                <Delegate Name="IP Address"
+                            ID="20517"
+                            Slot1="slotServerModbus3IPChange()"/>
+        </Delegate>
+
+        <Delegate Name="4" ID="20520">
+                <Delegate Name="On/Off"
+                            ID="20521"
+                            Slot1="slotServerModbus4SwitchChange()"/>
+                <Delegate Name="IP Address"
+                            ID="20522"
+                            Slot1="slotServerModbus4IPChange()"/>
+        </Delegate>
+
+        <Delegate Name="5" ID="20525">
+                <Delegate Name="On/Off"
+                            ID="20526"
+                            Slot1="slotServerModbus5SwitchChange()"/>
+                <Delegate Name="IP Address"
+                            ID="20527"
+                            Slot1="slotServerModbus5IPChange()"/>
+        </Delegate>
+
+        <Delegate Name="6" ID="20530">
+                <Delegate Name="On/Off"
+                            ID="20531"
+                            Slot1="slotServerModbus6SwitchChange()"/>
+                <Delegate Name="IP Address"
+                            ID="20532"
+                            Slot1="slotServerModbus6IPChange()"/>
+        </Delegate>
+
+        <Delegate Name="7" ID="20535">
+                <Delegate Name="On/Off"
+                            ID="20536"
+                            Slot1="slotServerModbus7SwitchChange()"/>
+                <Delegate Name="IP Address"
+                            ID="20537"
+                            Slot1="slotServerModbus7IPChange()"/>
+        </Delegate>
+
+        <Delegate Name="8" ID="20540">
+                <Delegate Name="On/Off"
+                            ID="20541"
+                            Slot1="slotServerModbus8SwitchChange()"/>
+                <Delegate Name="IP Address"
+                            ID="20542"
+                            Slot1="slotServerModbus8IPChange()"/>
+        </Delegate>
+
+        <Delegate Name="9" ID="20545">
+                <Delegate Name="On/Off"
+                            ID="20546"
+                            Slot1="slotServerModbus9SwitchChange()"/>
+                <Delegate Name="IP Address"
+                            ID="20547"
+                            Slot1="slotServerModbus9IPChange()"/>
+        </Delegate>
+
+        <Delegate Name="10" ID="20550">
+                <Delegate Name="On/Off"
+                            ID="20551"
+                            Slot1="slotServerModbus10SwitchChange()"/>
+                <Delegate Name="IP Address"
+                            ID="20552"
+                            Slot1="slotServerModbus10IPChange()"/>
+        </Delegate>
+
+</Root>

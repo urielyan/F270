@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Receiver">
+                <Object Name="Function" ID="22403"/>
+                <Object Name="Address" ID="22404"/>
+        </Config>
+
+        <Config Name="Data transfer">
+                <Object Name="Baud rate" ID="22411"/>
+                <Object Name="Parity bit" ID="22412"/>
+                <Object Name="Stop bit" ID="22413"/>
+                <Object Name="Data length" ID="22414"/>
+        </Config>
+
+</Root>

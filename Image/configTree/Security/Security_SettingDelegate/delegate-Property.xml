@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="User property" ID="24073">
+            <Delegate Name="Record" ID="24074" Slot1="slotSecurityPropertyRecordChange()"/>
+            <Delegate Name="Math" ID="24075" Slot1="slotSecurityPropertyMathChange()"/>
+            <Delegate Name="Data save" ID="24076" Slot1="slotSecurityPropertyDatasaveChange()"/>
+            <Delegate Name="Message" ID="24077" Slot1="slotSecurityPropertyMsgChange()"/>
+            <Delegate Name="Batch" ID="24078" Slot1="slotSecurityPropertyBatchChange()"/>
+            <Delegate Name="AlarmACK" ID="24079" Slot1="slotSecurityPropertyACKChange()"/>
+            <Delegate Name="Communication" ID="24080" Slot1="slotSecurityPropertyCommChange()"/>
+            <Delegate Name="Touch operation" ID="24081" Slot1="slotSecurityPropertyTouchChange()"/>
+            <Delegate Name="Time set" ID="24082" Slot1="slotSecurityPropertyTimeChange()"/>
+            <Delegate Name="Setting operation" ID="24083" Slot1="slotSecurityPropertySettingChange()"/>
+            <Delegate Name="External media" ID="24084" Slot1="slotSecurityPropertyEXTmediaChange()"/>
+            <Delegate Name="System operation" ID="24085" Slot1="slotSecurityPropertySystemChange()"/>
+            <Delegate Name="Output operation" ID="24086" Slot1="slotSecurityPropertyOutputChange()"/>
+        </Delegate>
+</Root>

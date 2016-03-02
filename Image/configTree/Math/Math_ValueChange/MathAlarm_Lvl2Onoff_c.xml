@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Math Delegate:Alarm:Level 2:On/Off"
+                    Val="0" ID="21052">
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:Type"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:Value"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:Hysteresis"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:Logging"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:Output type"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:Output No."
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:Math Delegate:Alarm:Alarm delay"
+                  Hide=":/configtree/Image/configTree/Math/Math_ValueChange/HideAlarm-delay.xml"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:Math Delegate:Alarm:Level 2:On/Off"
+                    Val="1" ID="21052">
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:Type"
+                  Hide="slot"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:Value"
+                  Hide="slot"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:Logging"
+                  Hide="slot"/>
+        <Delegate Name="Config:Math Delegate:Alarm:Level 2:Output type"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:Math Delegate:Alarm:Alarm delay"
+                  Hide=":/configtree/Image/configTree/Math/Math_ValueChange/HideAlarm-delay.xml"/>
+    </ValueChange>
+
+</Root>

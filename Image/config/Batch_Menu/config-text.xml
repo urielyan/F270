@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Batch Delegate:Batch text:Batch text">
+        <MenuNormal
+                Path="Config:Batch Delegate:Batch text:Batch text:Text num"
+                Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change-blue.png"
+                Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                Clicked = "slotBatchCommonClicked()"
+                Include ="none"/>
+
+        <MenuGroup
+                Path="Config:Batch Delegate:Batch text:Batch text:Text field"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/config/Measure_Menu/Range_Menu/range_c.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/config/Measure_Menu/Range_Menu/range_e.png"
+                Clicked = "none"
+                Include ="none">
+                <MenuNormal
+                        Path="Config:Batch Delegate:Batch text:Batch text:Text field:Title of field"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSoftKeypadClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Batch Delegate:Batch text:Batch text:Text field:Characters"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSoftKeypadClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+</Config>

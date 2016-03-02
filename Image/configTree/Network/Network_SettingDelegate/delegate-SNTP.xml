@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="SNTP client function" ID="20401">
+                <Delegate Name="On/Off"
+                            ID="20402"
+                            Slot1="slotSNTPFunctionChange()"/>
+        </Delegate>
+
+        <Delegate Name="SNTP server" ID="20420">
+                <Delegate Name="SNTP server name"
+                            ID="20422"
+                            Slot1="slotSNTPServerNameChange()"/>
+                <Delegate Name="Port number"
+                            ID="20421"
+                            Slot1="slotSNTPServerPortChange()"/>
+        </Delegate>
+
+        <Delegate Name="Query action" ID="20410">
+                <Delegate Name="Interval"
+                            ID="20411"
+                            Slot1="slotSNTPActionIntervalChange()"/>
+                <Delegate Name="Timeout"
+                            ID="20412"
+                            Slot1="slotSNTPActionTimeoutChange()"/>
+                <Delegate Name="Time adjust on Start action"
+                            ID="20413"
+                            Slot1="slotSNTPActionTimeChange()"/>
+        </Delegate>
+</Root>

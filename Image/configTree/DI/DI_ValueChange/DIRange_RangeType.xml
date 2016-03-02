@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:DI Delegate:Range:Range:Type"
+                    Val="0" ID="15010">
+        <Delegate Name="Config:DI Delegate:Range:Range:Span Upper"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:DI Delegate:Range:Range:Span Lower"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:DI Delegate:Range:Range:Calculation"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:DI Delegate:Range:Range:Reference channel"
+                  Hide="true"
+                  Value=""/>
+
+        <Delegate Name="Config:DI Delegate:Range:Scale"
+                  Hide="true"
+                  Value=""/>
+       <Delegate Name="Config:DI Delegate:Display settings:Scale:Division"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:DI Delegate:Display settings:Bar graph:Division"
+                  Hide="true"
+                  Value=""/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:DI Delegate:Range:Range:Type"
+                    Val="1" ID="15010">
+        <Delegate Name="Config:DI Delegate:Range:Range:Range Upper"
+                  Hide="false"
+                  Value="1"/>
+        <Delegate Name="Config:DI Delegate:Range:Range:Range Lower"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:DI Delegate:Range:Range:Span Upper"
+                  Hide="false"
+                  Value="1"/>
+        <Delegate Name="Config:DI Delegate:Range:Range:Span Lower"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:DI Delegate:Range:Range:Calculation"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:DI Delegate:Range:Scale"
+                  Hide="true"
+                  Value=""/>
+       <Delegate Name="Config:DI Delegate:Display settings:Scale:Division"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:DI Delegate:Display settings:Bar graph:Division"
+                  Hide="true"
+                  Value=""/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:DI Delegate:Range:Range:Type"
+                    Val="2" ID="15010">
+        <Delegate Name="Config:DI Delegate:Range:Range:Range Upper"
+                  Hide="false"
+                  Value="999999"/>
+        <Delegate Name="Config:DI Delegate:Range:Range:Range Lower"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:DI Delegate:Range:Range:Span Upper"
+                  Hide="false"
+                  Value="1250"/>
+        <Delegate Name="Config:DI Delegate:Range:Range:Span Lower"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:DI Delegate:Range:Range:Calculation"
+                  Hide="false"
+                  Value="0"/>
+
+        <Delegate Name="Config:DI Delegate:Range:Scale"
+                  Hide="true"
+                  Value=""/>
+       <Delegate Name="Config:DI Delegate:Display settings:Scale:Division"
+                  Hide="slot"/>
+        <Delegate Name="Config:DI Delegate:Display settings:Bar graph:Division"
+                  Hide="slot"/>
+    </ValueChange>
+</Root>

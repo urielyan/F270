@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Level 1" ID="21041">
+                <Delegate Name="On/Off"
+                            ID="21042"
+                            Slot1="slotMathAlarm_Level1OnoffChanged()"/>
+                <Delegate Name="Type"
+                            ID="21043"
+                            Slot1="slotMathAlarm_Level1TypeChanged()"/>
+                <Delegate Name="Value"
+                            ID="21044"
+                            Slot1="slotMathAlarm_Level1ValueChanged()"/>
+                <Delegate Name="Hysteresis"
+                            ID="21045"
+                            Slot1="slotMathAlarm_Level1HysterChanged()"/>
+                <Delegate Name="Logging"
+                            ID="21046"
+                            Slot1="slotMathAlarm_Level1LoggChanged()"/>
+                <Delegate Name="Output type"
+                            ID="21047"
+                            Slot1="slotMathAlarm_Level1OutTypeChanged()"/>
+                <Delegate Name="Output No."
+                            ID="21048"
+                            Slot1="slotMathAlarm_Level1OutNoChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Level 2" ID="21051">
+                <Delegate Name="On/Off"
+                            ID="21052"
+                            Slot1="slotMathAlarm_Level2OnoffChanged()"/>
+                <Delegate Name="Type"
+                            ID="21053"
+                            Slot1="slotMathAlarm_Level2TypeChanged()"/>
+                <Delegate Name="Value"
+                            ID="21054"
+                            Slot1="slotMathAlarm_Level2ValueChanged()"/>
+                <Delegate Name="Hysteresis"
+                            ID="21055"
+                            Slot1="slotMathAlarm_Level2HysterChanged()"/>
+                <Delegate Name="Logging"
+                            ID="21056"
+                            Slot1="slotMathAlarm_Level2LoggChanged()"/>
+                <Delegate Name="Output type"
+                            ID="21057"
+                            Slot1="slotMathAlarm_Level2OutTypeChanged()"/>
+                <Delegate Name="Output No."
+                            ID="21058"
+                            Slot1="slotMathAlarm_Level2OutNoChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Level 3" ID="21061">
+                <Delegate Name="On/Off"
+                            ID="21062"
+                            Slot1="slotMathAlarm_Level3OnoffChanged()"/>
+                <Delegate Name="Type"
+                            ID="21063"
+                            Slot1="slotMathAlarm_Level3TypeChanged()"/>
+                <Delegate Name="Value"
+                            ID="21064"
+                            Slot1="slotMathAlarm_Level3ValueChanged()"/>
+                <Delegate Name="Hysteresis"
+                            ID="21065"
+                            Slot1="slotMathAlarm_Level3HysterChanged()"/>
+                <Delegate Name="Logging"
+                            ID="21066"
+                            Slot1="slotMathAlarm_Level3LoggChanged()"/>
+                <Delegate Name="Output type"
+                            ID="21067"
+                            Slot1="slotMathAlarm_Level3OutTypeChanged()"/>
+                <Delegate Name="Output No."
+                            ID="21068"
+                            Slot1="slotMathAlarm_Level3OutNoChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Level 4" ID="21071">
+                <Delegate Name="On/Off"
+                            ID="21072"
+                            Slot1="slotMathAlarm_Level4OnoffChanged()"/>
+                <Delegate Name="Type"
+                            ID="21073"
+                            Slot1="slotMathAlarm_Level4TypeChanged()"/>
+                <Delegate Name="Value"
+                            ID="21074"
+                            Slot1="slotMathAlarm_Level4ValueChanged()"/>
+                <Delegate Name="Hysteresis"
+                            ID="21075"
+                            Slot1="slotMathAlarm_Level4HysterChanged()"/>
+                <Delegate Name="Logging"
+                            ID="21076"
+                            Slot1="slotMathAlarm_Level4LoggChanged()"/>
+                <Delegate Name="Output type"
+                            ID="21077"
+                            Slot1="slotMathAlarm_Level4OutTypeChanged()"/>
+                <Delegate Name="Output No."
+                            ID="21078"
+                            Slot1="slotMathAlarm_Level4OutNoChanged()"/>
+        </Delegate>
+
+        <Delegate Name="Alarm delay" ID="21081">
+                <Delegate Name="Hour"
+                            ID="21084"
+                            Slot1="slotMathAlarm_DelayHourChanged()"/>
+                <Delegate Name="Minute"
+                            ID="21083"
+                            Slot1="slotMathAlarm_DelayMinChanged()"/>
+                <Delegate Name="Second"
+                            ID="21082"
+                            Slot1="slotMathAlarm_DelaySecChanged()"/>
+        </Delegate>
+
+</Root>

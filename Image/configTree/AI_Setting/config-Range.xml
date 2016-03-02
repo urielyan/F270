@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Range">
+                <Object Name="Type" ID="10010"/>
+                <Object Name="Range" ID="10020"/>
+                <Object Name="Range Upper" ID="10022"/>
+                <Object Name="Range Lower" ID="10021"/>
+                <Object Name="Span Upper" ID="10031"/>
+                <Object Name="Span Lower" ID="10030"/>
+                <Object Name="Calculation" ID="10032"/>
+                <Object Name="Reference channel" ID="10033"/>
+        </Config>
+
+        <Config Name="Scale">
+                <Object Name="Decimal place" ID="10041"/>
+                <Object Name="Scale Lower" ID="10042"/>
+                <Object Name="Scale Upper" ID="10043"/>
+                <Object Name="Unit" ID="10044"/>
+        </Config>
+
+        <Config Name="Low-cut">
+                <Object Name="On/Off" ID="10051"/>
+                <Object Name="Low-cut value" ID="10052"/>
+                <Object Name="Low-cut output" ID="10053"/>
+        </Config>
+
+        <Config Name="Moving average">
+                <Object Name="On/Off" ID="10061"/>
+                <Object Name="Count" ID="10062"/>
+        </Config>
+
+        <Config Name="RJC">
+                <Object Name="Mode" ID="10071"/>
+                <Object Name="Temperature" ID="10072"/>
+        </Config>
+
+        <Config Name="Burnout set">
+                <Object Name="Mode" ID="10081"/>
+        </Config>
+
+        <Config Name="Bias">
+                <Object Name="Value" ID="10091"/>
+        </Config>
+
+</Root>

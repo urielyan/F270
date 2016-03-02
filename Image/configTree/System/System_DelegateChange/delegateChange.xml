@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate"
+                    Objects="Config:System settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Environment(Lanuage) settings"
+                    Objects="Config:System settings:Environment(Lanuage) settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Alarm basic settings"
+                    Objects="Config:System settings:Alarm basic settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Time basic settings"
+                    Objects="Config:System settings:Time basic settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Internal switch settings"
+                    Objects="Config:System settings:Internal switch settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Status relay"
+                    Objects="Config:System settings:Status relay"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Printer settings"
+                    Objects="Config:System settings:Printer settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Sound, LED"
+                    Objects="Config:System settings:Sound, LED"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Instrument tag"
+                    Objects="Config:System settings:Instrument tag"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Settings file"
+                    Objects="Config:System settings:Settings file"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Environment(Lanuage) settings:Language"
+                    Objects="Config:System settings:Environment(Lanuage) settings:Language"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Environment(Lanuage) settings:Temperature"
+                    Objects="Config:System settings:Environment(Lanuage) settings:Temperature"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Environment(Lanuage) settings:Decimal Point Type"
+                    Objects="Config:System settings:Environment(Lanuage) settings:Decimal Point Type"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Environment(Lanuage) settings:Date format"
+                    Objects="Config:System settings:Environment(Lanuage) settings:Date format"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Environment(Lanuage) settings:Date format:Date format"
+                    Objects="Config:System settings:Environment(Lanuage) settings:Date format:Date format"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Environment(Lanuage) settings:Date format:Delimiter"
+                    Objects="Config:System settings:Environment(Lanuage) settings:Date format:Delimiter"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Environment(Lanuage) settings:Date format:Month indicator"
+                    Objects="Config:System settings:Environment(Lanuage) settings:Date format:Month indicator"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Alarm basic settings:Rate of change"
+                    Objects="Config:System settings:Alarm basic settings:Rate of change"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Alarm basic settings:Rate of change:Decrease"
+                    Objects="Config:System settings:Alarm basic settings:Rate of change:Decrease"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Alarm basic settings:Rate of change:Increase"
+                    Objects="Config:System settings:Alarm basic settings:Rate of change:Increase"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Alarm basic settings:Indicator"
+                    Objects="Config:System settings:Alarm basic settings:Indicator"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Alarm basic settings:Indicator:Hold/Nonhold"
+                    Objects="Config:System settings:Alarm basic settings:Indicator:Hold/Nonhold"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Alarm basic settings:AlarmACK"
+                    Objects="Config:System settings:Alarm basic settings:AlarmACK"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Alarm basic settings:AlarmACK:Individual alarm ACK"
+                    Objects="Config:System settings:Alarm basic settings:AlarmACK:Individual alarm ACK"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Time basic settings:Time Zone"
+                    Objects="Config:System settings:Time basic settings:Time Zone"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Time basic settings:Time Zone:Hour"
+                    Objects="Config:System settings:Time basic settings:Time Zone:Hour"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Time basic settings:Time Zone:Minute"
+                    Objects="Config:System settings:Time basic settings:Time Zone:Minute"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Internal switch settings:First number"
+                    Objects="Config:System settings:Internal switch settings:First number"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Internal switch settings:Last number"
+                    Objects="Config:System settings:Internal switch settings:Last number"/>
+
+        <DelegateChange Type="Interval-Switch"
+                    Name="Config:System Delegate:Internal switch settings:Internal switch"
+                    Objects="Config:System settings:Internal switch settings:%1:Internal switch"/>
+
+        <DelegateChange Type="Interval-Switch"
+                    Name="Config:System Delegate:Internal switch settings:Internal switch:Type"
+                    Objects="Config:System settings:Internal switch settings:%1:Internal switch:Type"/>
+
+        <DelegateChange Type="Interval-Switch"
+                    Name="Config:System Delegate:Internal switch settings:Internal switch:And/Or"
+                    Objects="Config:System settings:Internal switch settings:%1:Internal switch:And/Or"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Status relay:Fail relay"
+                    Objects="Config:System settings:Status relay:Fail relay"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Status relay:Memory/Media status"
+                    Objects="Config:System settings:Status relay:Memory/Media status"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Status relay:Measurement error"
+                    Objects="Config:System settings:Status relay:Measurement error"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Status relay:Communication error"
+                    Objects="Config:System settings:Status relay:Communication error"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Status relay:Record stop"
+                    Objects="Config:System settings:Status relay:Record stop"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Status relay:Alarm"
+                    Objects="Config:System settings:Status relay:Alarm"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Printer settings:IP Address"
+                    Objects="Config:System settings:Printer settings:IP Address"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Printer settings:Paper size"
+                    Objects="Config:System settings:Printer settings:Paper size"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Printer settings:Page orientation"
+                    Objects="Config:System settings:Printer settings:Page orientation"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Printer settings:Resolution (dpi)"
+                    Objects="Config:System settings:Printer settings:Resolution (dpi)"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Printer settings:Number of copies"
+                    Objects="Config:System settings:Printer settings:Number of copies"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Sound, LED:Sound"
+                    Objects="Config:System settings:Sound, LED:Sound"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Sound, LED:Sound:Touch"
+                    Objects="Config:System settings:Sound, LED:Sound:Touch"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Sound, LED:Sound:Warning"
+                    Objects="Config:System settings:Sound, LED:Sound:Warning"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Sound, LED:LED"
+                    Objects="Config:System settings:Sound, LED:LED"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Sound, LED:LED:MENU key LED"
+                    Objects="Config:System settings:Sound, LED:LED:MENU key LED"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Instrument tag:Instruments tag"
+                    Objects="Config:System settings:Instrument tag:Instruments tag"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Instrument tag:Instruments tag No."
+                    Objects="Config:System settings:Instrument tag:Instruments tag No."/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:System Delegate:Settings file:Setting file comment"
+                    Objects="Config:System settings:Settings file:Setting file comment"/>
+
+
+
+
+</Root>

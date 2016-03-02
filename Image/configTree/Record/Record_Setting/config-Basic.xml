@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Recording mode">
+                <Object Name="Mode" ID="21603"/>
+        </Config>
+
+        <Config Name="Display data, Trend waveform">
+                <Object Name="Saving interval" ID="21621"/>
+        </Config>
+
+        <Config Name="Event data">
+                <Object Name="Recording interval" ID="21611"/>
+                <Object Name="Recording mode" ID="21612"/>
+                <Object Name="Data length" ID="21613"/>
+                <Object Name="Pre-trigger" ID="21617"/>
+                <Object Name="Trigger source operation" ID="21616"/>
+        </Config>
+
+        <Config Name="Record confirmation action">
+                <Object Name="Confirmation screen" ID="21631"/>
+        </Config>
+
+</Root>

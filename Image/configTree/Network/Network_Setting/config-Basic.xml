@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Automatic IP settings">
+                <Object Name="Obtain IP address automatically" ID="20011"/>
+        </Config>
+
+        <Config Name="Automatic DNS settings">
+                <Object Name="Obtain DNS address automatically" ID="20021"/>
+        </Config>
+
+        <Config Name="IP Address">
+                <Object Name="IP Address" ID="20051"/>
+                <Object Name="Subnet mask" ID="20052"/>
+                <Object Name="Default gateway" ID="20053"/>
+        </Config>
+
+        <Config Name="DNS settings">
+                <Object Name="Primary DNS server" ID="20061"/>
+                <Object Name="Secondary DNS server" ID="20062"/>
+        </Config>
+
+</Root>

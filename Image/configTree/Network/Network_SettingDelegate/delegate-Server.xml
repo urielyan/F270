@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="Allowed Modbus clients"
+                    ID="20501"
+                    File=":/configtree/Image/configTree/Network/Network_SettingDelegate/delegate-Server-ModbusClient.xml"/>
+
+        <Delegate Name="Server list"
+                    ID="20560"
+                    File=":/configtree/Image/configTree/Network/Network_SettingDelegate/delegate-Server-ServerList.xml"/>
+
+
+</Root>

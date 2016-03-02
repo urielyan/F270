@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Delegate Name="Value on Error" ID="21181" Slot1="slotMathAction_ValueErrorChanged()"/>
+        <Delegate Name="START/STOP key action" ID="21182" Slot1="slotMathAction_KeyActionChanged()"/>
+
+        <Delegate Name="Value on Overflow" ID="21183">
+                <Delegate Name="SUM, AVE" ID="21184" Slot1="slotMathAction_ValueSumChanged()"/>
+                <Delegate Name="MAX, MIN, P-P" ID="21185" Slot1="slotMathAction_ValuePPChanged()"/>
+        </Delegate>
+
+</Root>

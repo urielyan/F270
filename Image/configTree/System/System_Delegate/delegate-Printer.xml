@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+                <Delegate Name="IP Address"
+                            ID="22781"
+                            Slot1="slotsystemPrinterIpChange()"/>
+
+                <Delegate Name="Paper size"
+                            ID="22782"
+                            Slot1="slotsystemPrinterPaperChange()"/>
+
+                <Delegate Name="Page orientation"
+                            ID="22783"
+                            Slot1="slotsystemPrinterPageChange()"/>
+
+                <Delegate Name="Resolution (dpi)"
+                            ID="22784"
+                            Slot1="slotsystemPrinterResolutionChange()"/>
+
+                <Delegate Name="Number of copies"
+                            ID="22785"
+                            Slot1="slotsystemPrinterNumberChange()"/>
+
+
+
+</Root>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Config Name="Internal switch">
+                <Object Name="Type" ID="22774"/>
+                <Object Name="And/Or" ID="22775"/>
+        </Config>
+
+</Root>

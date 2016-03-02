@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate"
+                    Objects="Config:Report settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings"
+                    Objects="Config:Report settings:Basic settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Report channel settings"
+                    Objects="Config:Report settings:Report channel settings"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Type"
+                    Objects="Config:Report settings:Basic settings:Type"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Type:Type"
+                    Objects="Config:Report settings:Basic settings:Type:Type"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Creation time"
+                    Objects="Config:Report settings:Basic settings:Creation time"/>
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Creation time:Day"
+                    Objects="Config:Report settings:Basic settings:Creation time:Day"/>
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Creation time:Day of week"
+                    Objects="Config:Report settings:Basic settings:Creation time:Day of week"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Creation time:Hour"
+                    Objects="Config:Report settings:Basic settings:Creation time:Hour"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Creation time:Minute"
+                    Objects="Config:Report settings:Basic settings:Creation time:Minute"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Creation time:Save interval"
+                    Objects="Config:Report settings:Basic settings:Creation time:Save interval"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Creation time:File creation interval"
+                    Objects="Config:Report settings:Basic settings:Creation time:File creation interval"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Data type"
+                    Objects="Config:Report settings:Basic settings:Data type"/>
+
+
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Data type:Report1"
+                    Objects="Config:Report settings:Basic settings:Data type:Report1"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Data type:Report2"
+                    Objects="Config:Report settings:Basic settings:Data type:Report2"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Data type:Report3"
+                    Objects="Config:Report settings:Basic settings:Data type:Report3"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Data type:Report4"
+                    Objects="Config:Report settings:Basic settings:Data type:Report4"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Data type:Report5"
+                    Objects="Config:Report settings:Basic settings:Data type:Report5"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:File type:File type"
+                    Objects="Config:Report settings:Basic settings:File type:File type"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:File type"
+                    Objects="Config:Report settings:Basic settings:File type"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Report template output"
+                    Objects="Config:Report settings:Basic settings:Report template output"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Report template output:Excel file"
+                    Objects="Config:Report settings:Basic settings:Report template output:Excel file"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Report template output:PDF file"
+                    Objects="Config:Report settings:Basic settings:Report template output:PDF file"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Report template output:Printer"
+                    Objects="Config:Report settings:Basic settings:Report template output:Printer"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Electronic signature"
+                    Objects="Config:Report settings:Basic settings:Electronic signature"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Basic settings:Electronic signature:PDF electronic signature"
+                    Objects="Config:Report settings:Basic settings:Electronic signature:PDF electronic signature"/>
+
+        <DelegateChange Type="Unique"
+                    Name="Config:Report Delegate:Report channel settings:number"
+                    Objects="Config:Report settings:Report channel settings:number"/>
+
+        <DelegateChange Type="Report-Channel"
+                    Name="Config:Report Delegate:Report channel settings:Report channel"
+                    Objects="Config:Report settings:Report channel settings:%1:Report channel"/>
+
+        <DelegateChange Type="Report-Channel"
+                    Name="Config:Report Delegate:Report channel settings:Report channel:Channel type"
+                    Objects="Config:Report settings:Report channel settings:%1:Report channel:Channel type"/>
+
+        <DelegateChange Type="Report-Channel"
+                    Name="Config:Report Delegate:Report channel settings:Report channel:Channel No."
+                    Objects="Config:Report settings:Report channel settings:%1:Report channel:Channel No."/>
+
+        <DelegateChange Type="Report-Channel"
+                    Name="Config:Report Delegate:Report channel settings:Report channel:Sum scale"
+                    Objects="Config:Report settings:Report channel settings:%1:Report channel:Sum scale"/>
+
+
+</Root>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Math range">
+                <Object Name="On/Off" ID="21005"/>
+                <Object Name="Calculation expression" ID="21006"/>
+                <Object Name="Decimal place" ID="21007"/>
+                <Object Name="Span Lower" ID="21008"/>
+                <Object Name="Span Upper" ID="21009"/>
+                <Object Name="Unit" ID="21010"/>
+        </Config>
+
+        <Config Name="TLOG">
+                <Object Name="Timer Type" ID="21012"/>
+                <Object Name="Timer No." ID="21013"/>
+                <Object Name="Sum scale" ID="21014"/>
+                <Object Name="Reset" ID="21015"/>
+        </Config>
+
+        <Config Name="Rolling average">
+                <Object Name="On/Off" ID="21021"/>
+                <Object Name="Interval" ID="21022"/>
+                <Object Name="Number of samples" ID="21023"/>
+        </Config>
+
+</Root>

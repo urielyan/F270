@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="Receiver" ID="22402">
+                <Delegate Name="Function"
+                            ID="22403"
+                            Slot1="slotSerialBasicFunctionChange()"/>
+
+                <Delegate Name="Address"
+                            ID="22404"
+                            Slot1="slotSerialBasicAddrChange()"/>
+        </Delegate>
+
+        <Delegate Name="Data transfer" ID="22410">
+                <Delegate Name="Baud rate"
+                            ID="22411"
+                            Slot1="slotSerialBasicBuadChange()"/>
+
+                <Delegate Name="Parity bit"
+                            ID="22412"
+                            Slot1="slotSerialBasicParityChange()"/>
+
+                <Delegate Name="Stop bit"
+                            ID="22413"
+                            Slot1="slotSerialBasicStopChange()"/>
+
+                <Delegate Name="Data length"
+                            ID="22414"
+                            Slot1="slotSerialBasicDataLengthChange()"/>
+        </Delegate>
+
+</Root>

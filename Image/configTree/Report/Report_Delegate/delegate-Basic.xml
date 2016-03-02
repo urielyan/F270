@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="Type" ID="22002">
+                <Delegate Name="Type"
+                            ID="22003"
+                            Slot1="slotReportBasicTypeChange()"/>
+        </Delegate>
+
+        <Delegate Name="Creation time" ID="22010">
+                <Delegate Name="Day"
+                            ID="22013"
+                            Slot1="slotReportBasicTimeDayChange()"/>
+
+                <Delegate Name="Day of week"
+                            ID="22014"
+                            Slot1="slotReportBasicTimeWeekChange()"/>
+
+                <Delegate Name="Hour"
+                            ID="22011"
+                            Slot1="slotReportBasicTimeHourChange()"/>
+
+                <Delegate Name="Minute"
+                            ID="22012"
+                            Slot1="slotReportBasicTimeMinuteChange()"/>
+
+                <Delegate Name="Save interval"
+                            ID="22015"
+                            Slot1="slotReportBasicTimeIntervalChange()"/>
+
+                <Delegate Name="File creation interval"
+                            ID="22016"
+                            Slot1="slotReportBasicTimeFileChange()"/>
+        </Delegate>
+
+
+        <Delegate Name="Data type" ID="22020">
+                <Delegate Name="Report1"
+                            ID="22021"
+                            Slot1="slotReportBasicDataReport1Change()"/>
+
+                <Delegate Name="Report2"
+                            ID="22022"
+                            Slot1="slotReportBasicDataReport2Change()"/>
+
+                <Delegate Name="Report3"
+                            ID="22023"
+                            Slot1="slotReportBasicDataReport3Change()"/>
+
+                <Delegate Name="Report4"
+                            ID="22024"
+                            Slot1="slotReportBasicDataReport4Change()"/>
+
+                <Delegate Name="Report5"
+                            ID="22025"
+                            Slot1="slotReportBasicDataReport5Change()"/>
+        </Delegate>
+
+        <Delegate Name="File type" ID="22030">
+                <Delegate Name="File type"
+                            ID="22031"
+                            Slot1="slotReportBasicFileTypeChange()"/>
+        </Delegate>
+
+        <Delegate Name="Report template output" ID="22040">
+                <Delegate Name="Excel file"
+                            ID="22041"
+                            Slot1="slotReportBasicReportExcelChange()"/>
+
+                <Delegate Name="PDF file"
+                            ID="22042"
+                            Slot1="slotReportBasicReportPDFChange()"/>
+
+                <Delegate Name="Printer"
+                            ID="22043"
+                            Slot1="slotReportBasicReportPrinterChange()"/>
+        </Delegate>
+
+
+        <Delegate Name="Electronic signature" ID="22050">
+                <Delegate Name="PDF electronic signature"
+                            ID="22051"
+                            Slot1="slotReportBasicElectronicChange()"/>
+        </Delegate>
+
+</Root>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+            <Delegate Name="Server name"
+                        ID="20464"
+                        Slot1="slotNetworkModbusServerServerNameChange()"/>
+            <Delegate Name="Port number"
+                        ID="20465"
+                        Slot1="slotNetworkModbusServerServerPortChange()"/>
+
+
+</Root>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:DI Delegate:Alarm:Level 4:On/Off"
+                    Val="0" ID="16032">
+        <Delegate Name="Config:DI Delegate:Alarm:Level 4:Type"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:DI Delegate:Alarm:Level 4:Value"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:DI Delegate:Alarm:Level 4:Hysteresis"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:DI Delegate:Alarm:Level 4:Logging"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:DI Delegate:Alarm:Level 4:Output type"
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:DI Delegate:Alarm:Level 4:Output No."
+                  Hide="true"
+                  Value=""/>
+        <Delegate Name="Config:DI Delegate:Alarm:Alarm delay"
+                  Hide=":/configtree/Image/configTree/DI/DI_ValueChange/HideAlarm-delay.xml"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:DI Delegate:Alarm:Level 4:On/Off"
+                    Val="1" ID="16032">
+        <Delegate Name="Config:DI Delegate:Alarm:Level 4:Type"
+                  Hide="slot"/>
+        <Delegate Name="Config:DI Delegate:Alarm:Level 4:Value"
+                  Hide="slot"/>
+        <Delegate Name="Config:DI Delegate:Alarm:Level 4:Logging"
+                  Hide="slot"/>
+        <Delegate Name="Config:DI Delegate:Alarm:Level 4:Output type"
+                  Hide="slot"/>
+
+        <Delegate Name="Config:DI Delegate:Alarm:Alarm delay"
+                  Hide=":/configtree/Image/configTree/DI/DI_ValueChange/HideAlarm-delay.xml"/>
+    </ValueChange>
+
+</Root>

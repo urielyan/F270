@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+
+        <Delegate Name="SMTP client function" ID="20201">
+                <Delegate Name="On/Off"
+                            ID="20202"
+                            Slot1="slotSMTPFunctionChange()"
+                            Slot2="slotSMTPAuthChange()"/>
+        </Delegate>
+
+        <Delegate Name="Authentication" ID="20210">
+                <Delegate Name="Authentication"
+                            ID="20211"
+                            Slot1="slotSMTPAuthChange()"/>
+        </Delegate>
+
+        <Delegate Name="Encryption" ID="20220">
+                <Delegate Name="Encryption"
+                            ID="20221"
+                            Slot1="slotSMTPEncryptionChange()"/>
+                <Delegate Name="Verification of certificate"
+                            ID="20222"
+                            Slot1="slotSMTPEncryptionVerifcationChange()"/>
+        </Delegate>
+
+        <Delegate Name="SMTP server" ID="20230">
+                <Delegate Name="SMTP Server name"
+                            ID="20232"
+                            Slot1="slotSMTPSMTPServerChange()"/>
+                <Delegate Name="Port number"
+                            ID="20231"
+                            Slot1="slotSMTPSMTPPortChange()"/>
+                <Delegate Name="User name"
+                            ID="20233"
+                            Slot1="slotSMTPSMTPNameChange()"/>
+                <Delegate Name="Password"
+                            ID="20234"
+                            Slot1="slotSMTPSMTPPasswdChange()"/>
+        </Delegate>
+
+        <Delegate Name="POP3 server" ID="20240">
+                <Delegate Name="POP3 Server name"
+                            ID="20242"
+                            Slot1="slotSMTPPOP3ServerChange()"/>
+                <Delegate Name="Port number"
+                            ID="20241"
+                            Slot1="slotSMTPPOP3PortChange()"/>
+                <Delegate Name="User name"
+                            ID="20243"
+                            Slot1="slotSMTPPOP3NameChange()"/>
+                <Delegate Name="Password"
+                            ID="20244"
+                            Slot1="slotSMTPPOP3PasswdChange()"/>
+        </Delegate>
+
+</Root>

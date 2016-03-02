@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="Modbus client connect limits function">
+                <Object Name="On/Off" ID="20503"/>
+        </Config>
+
+        <Config Name="1">
+                <Object Name="On/Off" ID="20506"/>
+                <Object Name="IP Address" ID="20507"/>
+        </Config>
+
+        <Config Name="2">
+                <Object Name="On/Off" ID="20511"/>
+                <Object Name="IP Address" ID="20512"/>
+        </Config>
+
+        <Config Name="3">
+                <Object Name="On/Off" ID="20516"/>
+                <Object Name="IP Address" ID="20517"/>
+        </Config>
+
+        <Config Name="4">
+                <Object Name="On/Off" ID="20521"/>
+                <Object Name="IP Address" ID="20522"/>
+        </Config>
+
+        <Config Name="5">
+                <Object Name="On/Off" ID="20526"/>
+                <Object Name="IP Address" ID="20527"/>
+        </Config>
+
+        <Config Name="6">
+                <Object Name="On/Off" ID="20531"/>
+                <Object Name="IP Address" ID="20532"/>
+        </Config>
+
+        <Config Name="7">
+                <Object Name="On/Off" ID="20536"/>
+                <Object Name="IP Address" ID="20537"/>
+        </Config>
+
+        <Config Name="8">
+                <Object Name="On/Off" ID="20541"/>
+                <Object Name="IP Address" ID="20542"/>
+        </Config>
+
+        <Config Name="9">
+                <Object Name="On/Off" ID="20546"/>
+                <Object Name="IP Address" ID="20547"/>
+        </Config>
+
+        <Config Name="10">
+                <Object Name="On/Off" ID="20551"/>
+                <Object Name="IP Address" ID="20552"/>
+        </Config>
+
+</Root>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:AI Delegate:Range:Range:Range"
+                    Val="0" ID="10020">
+        <Delegate Name="Config:AI Delegate:Range:Range:Range Upper"
+                  Hide="false"
+                  Value="2.0800"/>
+        <Delegate Name="Config:AI Delegate:Range:Range:Range Lower"
+                  Hide="false"
+                  Value="0.3200"/>
+        <Delegate Name="Config:AI Delegate:Range:Range:Span Upper"
+                  Hide="false"
+                  Value="2.0000"/>
+        <Delegate Name="Config:AI Delegate:Range:Range:Span Lower"
+                  Hide="false"
+                  Value="0.4000"/>
+
+        <Delegate Name="Config:AI Delegate:Alarm:Level 1:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 2:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 3:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 4:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Calibration correction:Mode:Mode"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Range:Bias:Value"
+                  Hide="refresh"
+                  Value="0"/>
+
+        <Delegate Name="Config:AI Delegate:Display settings:Color scale band:Band area"
+                  Hide="false"
+                  Value="0"/>
+    </ValueChange>
+
+    <ValueChange    Name="Config:AI Delegate:Range:Range:Range"
+                    Val="1" ID="10020">
+        <Delegate Name="Config:AI Delegate:Range:Range:Range Upper"
+                  Hide="false"
+                  Value="5.2000"/>
+        <Delegate Name="Config:AI Delegate:Range:Range:Range Lower"
+                  Hide="false"
+                  Value="0.8000"/>
+        <Delegate Name="Config:AI Delegate:Range:Range:Span Upper"
+                  Hide="false"
+                  Value="5.0000"/>
+        <Delegate Name="Config:AI Delegate:Range:Range:Span Lower"
+                  Hide="false"
+                  Value="1.0000"/>
+
+        <Delegate Name="Config:AI Delegate:Alarm:Level 1:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 2:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 3:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Alarm:Level 4:On/Off"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Calibration correction:Mode:Mode"
+                  Hide="false"
+                  Value="0"/>
+        <Delegate Name="Config:AI Delegate:Range:Bias:Value"
+                  Hide="refresh"
+                  Value="0"/>
+
+        <Delegate Name="Config:AI Delegate:Display settings:Color scale band:Band area"
+                  Hide="false"
+                  Value="0"/>
+    </ValueChange>
+</Root>

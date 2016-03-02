@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+        <Config Name="SNTP client function">
+                <Object Name="On/Off" ID="20402"/>
+        </Config>
+
+        <Config Name="SNTP server">
+                <Object Name="SNTP server name" ID="20422"/>
+                <Object Name="Port number" ID="20421"/>
+        </Config>
+
+        <Config Name="Query action">
+                <Object Name="Interval" ID="20411"/>
+                <Object Name="Timeout" ID="20412"/>
+                <Object Name="Time adjust on Start action" ID="20413"/>
+        </Config>
+
+</Root>

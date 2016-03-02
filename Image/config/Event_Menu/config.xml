@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Event Delegate">
+        <MenuNormal
+                Path="Config:Event Delegate:Event action number"
+                Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                Changed = ":/setting/Image/setting/change-blue.png"
+                Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                Clicked = "slotEventGrpNumMenuClicked()"
+                Include ="none"/>
+
+        <MenuGroup
+                Path="Config:Event Delegate:Event action"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/config/Measure_Menu/Range_Menu/range_c.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/config/Measure_Menu/Range_Menu/range_e.png"
+                Clicked = "none"
+                Include ="none">
+                <MenuNormal
+                        Path="Config:Event Delegate:Event action:On/Off"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotSwitchClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Event Delegate:Event"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/config/Measure_Menu/Range_Menu/range_c.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/config/Measure_Menu/Range_Menu/range_e.png"
+                Clicked = "none"
+                Include ="none">
+                <MenuNormal
+                        Path="Config:Event Delegate:Event:Type"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotEventEventTypeMenuClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Event Delegate:Event:Number"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Event Delegate:Event:Event details"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotEventEventDetailsMenuClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Event Delegate:Event:Alarm level"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotEventEventAlarmlevelMenuClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Event Delegate:Event:Operation mode"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotEventEventModeMenuClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Event Delegate:Action"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/config/Measure_Menu/Range_Menu/range_c.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/config/Measure_Menu/Range_Menu/range_e.png"
+                Clicked = "none"
+                Include ="none">
+                <MenuNormal
+                        Path="Config:Event Delegate:Action:Type"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotEventActionTypeMenuClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Event Delegate:Action:Number"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Event Delegate:Action:Detail"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotEventActionDetailMenuClicked()"
+                        Include ="none"/>
+                <MenuNormal
+                        Path="Config:Event Delegate:Action:Group number"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotNumericKeypadClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+</Config>

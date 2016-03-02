@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Batch Delegate:Batch function:Lot-No. digit"
+                    Val="0" ID="21903">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Batch Delegate:Batch function:Lot-No. digit"
+                    Val="4" ID="21903">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Batch Delegate:Batch function:Lot-No. digit"
+                    Val="6" ID="21903">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Batch Delegate:Batch function:Lot-No. digit"
+                    Val="8" ID="21903">
+    </ValueChange>
+</Root>

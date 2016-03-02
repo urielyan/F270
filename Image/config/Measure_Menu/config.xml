@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config
+        Path="Config:Measurement Delegate">
+        <MenuGroup
+                Path="Config:Measurement Delegate:Scan interval"
+                Normal = ":/config/Measure_Menu/Range_Menu/range.png"
+                Changed = ":/config/Measure_Menu/Range_Menu/range_c.png"
+                Hint = ":/config/Measure_Menu/Range_Menu/range_h.png"
+                Extend = ":/config/Measure_Menu/Range_Menu/range_e.png"
+                Clicked = "none"
+                Include ="none">
+                <MenuNormal
+                        Path="Config:Measurement Delegate:Scan interval:Scan interval"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotMeasureIntervalMenuClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Measurement Delegate:Over-range"
+                Normal = ":/config/Measure_Menu/Alarm_Menu/alarm.png"
+                Changed = ":/config/Measure_Menu/Alarm_Menu/alarm_c.png"
+                Hint = ":/config/Measure_Menu/Alarm_Menu/alarm_h.png"
+                Extend = ":/config/Measure_Menu/Alarm_Menu/alarm_e.png"
+                Clicked = "none"
+                Include ="none">
+                <MenuNormal
+                        Path="Config:Measurement Delegate:Over-range:Value on over-range"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change-blue.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/config/Measure_Menu/Channel_Normal/ch_normal_e.png"
+                        Clicked = "slotMeasureOverRangeMenuClicked()"
+                        Include ="none"/>
+        </MenuGroup>
+
+        <MenuGroup
+                Path="Config:Measurement Delegate:Select unit"
+                Normal = ":/config/Measure_Menu/Display_Menu/display.png"
+                Changed = ":/config/Measure_Menu/Display_Menu/display_c.png"
+                Hint = ":/config/Measure_Menu/Display_Menu/display_h.png"
+                Extend = ":/config/Measure_Menu/Display_Menu/display_e.png"
+                Clicked = "none"
+                Include ="none">
+                <MenuTitle
+                        Path="Config:Measurement Delegate:Select unit:Main Unit"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/setting/Image/setting/title.png"
+                        Clicked = "none"
+                        Include =":/config/Image/config/Measure_Menu/config-MainUnit.xml"/>
+                <MenuTitle
+                        Path="Config:Measurement Delegate:Select unit:Ext Unit 1"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/setting/Image/setting/title.png"
+                        Clicked = "none"
+                        Include =":/config/Image/config/Measure_Menu/config-EXTUnit1.xml"/>
+                <MenuTitle
+                        Path="Config:Measurement Delegate:Select unit:Ext Unit 2"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/setting/Image/setting/title.png"
+                        Clicked = "none"
+                        Include =":/config/Image/config/Measure_Menu/config-EXTUnit2.xml"/>
+                <MenuTitle
+                        Path="Config:Measurement Delegate:Select unit:Ext Unit 3"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/setting/Image/setting/title.png"
+                        Clicked = "none"
+                        Include =":/config/Image/config/Measure_Menu/config-EXTUnit3.xml"/>
+                <MenuTitle
+                        Path="Config:Measurement Delegate:Select unit:Ext Unit 4"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/setting/Image/setting/title.png"
+                        Clicked = "none"
+                        Include =":/config/Image/config/Measure_Menu/config-EXTUnit4.xml"/>
+                <MenuTitle
+                        Path="Config:Measurement Delegate:Select unit:Ext Unit 5"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/setting/Image/setting/title.png"
+                        Clicked = "none"
+                        Include =":/config/Image/config/Measure_Menu/config-EXTUnit5.xml"/>
+                <MenuTitle
+                        Path="Config:Measurement Delegate:Select unit:Ext Unit 6"
+                        Normal = ":/config/Measure_Menu/Channel_Normal/ch_normal.png"
+                        Changed = ":/setting/Image/setting/change.png"
+                        Hint = ":/config/Measure_Menu/Channel_Normal/ch_normal_h.png"
+                        Extend = ":/setting/Image/setting/title.png"
+                        Clicked = "none"
+                        Include =":/config/Image/config/Measure_Menu/config-EXTUnit6.xml"/>
+       </MenuGroup>
+
+</Config>

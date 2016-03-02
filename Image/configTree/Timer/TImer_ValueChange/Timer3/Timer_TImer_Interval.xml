@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="1" ID="22164">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="2" ID="22164">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="3" ID="22164">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="4" ID="22164">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="5" ID="22164">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="6" ID="22164">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="10" ID="22164">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="12" ID="22164">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="15" ID="22164">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="20" ID="22164">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="30" ID="22164">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="60" ID="22164">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="120" ID="22164">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="180" ID="22164">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="240" ID="22164">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="360" ID="22164">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="480" ID="22164">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="720" ID="22164">
+    </ValueChange>
+
+    <ValueChange    Name="Config:Timer Delegate:Timer:Timer3:Interval:Interval"
+                    Val="1440" ID="22164">
+    </ValueChange>
+
+
+</Root>
+
+
+
+
+
+
